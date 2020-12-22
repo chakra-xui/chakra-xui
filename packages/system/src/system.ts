@@ -168,6 +168,5 @@ export const chakra = (styled as unknown) as ChakraFactory &
   HTMLChakraComponents
 
 domElements.forEach((tag) => {
-  // @ts-expect-error
   chakra[tag] = chakra(tag)
 })
