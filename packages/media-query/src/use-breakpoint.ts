@@ -1,4 +1,4 @@
-import { useTheme } from "@chakra-ui/system"
+import { useTheme } from "@chakra-xui/system"
 import React from "react"
 import createMediaQueries from "./create-media-query"
 

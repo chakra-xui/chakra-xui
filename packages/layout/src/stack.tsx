@@ -4,8 +4,8 @@ import {
   forwardRef,
   HTMLChakraProps,
   SystemProps,
-} from "@chakra-ui/system"
-import { cx, getValidChildren, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, getValidChildren, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import type { StackDirection } from "./stack.utils"
 import { getDividerStyles, getStackStyles, selector } from "./stack.utils"

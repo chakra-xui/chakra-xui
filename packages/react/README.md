@@ -20,22 +20,22 @@ https://chakra-ui.com
 ## Installing Chakra UI
 
 ⚡️Chakra UI is made up of multiple components and tools which you can import
-one by one. All you need to do is install the `@chakra-ui/react` package:
+one by one. All you need to do is install the `@chakra-xui/react` package:
 
 ```sh
-$ yarn add @chakra-ui/react
+$ yarn add @chakra-xui/react
 # or
-$ npm install --save @chakra-ui/react
+$ npm install --save @chakra-xui/react
 ```
 
 # Getting set up
 
 To start using the components, please follow these steps:
 
-1. Wrap your application in a `ThemeProvider` provided by **@chakra-ui/react**
+1. Wrap your application in a `ThemeProvider` provided by **@chakra-xui/react**
 
 ```jsx
-import { ThemeProvider, ColorModeProvider } from "@chakra-ui/react"
+import { ThemeProvider, ColorModeProvider } from "@chakra-xui/react"
 
 const App = ({ children }) => (
   <ThemeProvider>
@@ -51,7 +51,7 @@ mode.
 2. Now you can start using components like so!:
 
 ```jsx
-import { Button } from "@chakra-ui/react"
+import { Button } from "@chakra-xui/react"
 
 const App = () => <Button>I just consumed some ⚡️Chakra!</Button>
 ```

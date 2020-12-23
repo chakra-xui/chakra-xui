@@ -1,4 +1,4 @@
-import { chakra } from "@chakra-ui/react"
+import { chakra } from "@chakra-xui/react"
 import * as React from "react"
 
 function LogoMark(props) {

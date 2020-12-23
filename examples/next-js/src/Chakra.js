@@ -2,7 +2,7 @@ import {
   ChakraProvider,
   cookieStorageManager,
   localStorageManager,
-} from "@chakra-ui/react"
+} from "@chakra-xui/react"
 
 export const Chakra = ({ children, cookies }) => {
   return (

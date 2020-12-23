@@ -1,4 +1,4 @@
-import { Select, SelectProps, useColorModeValue } from "@chakra-ui/react"
+import { Select, SelectProps, useColorModeValue } from "@chakra-xui/react"
 import { useRouter } from "next/router"
 import React from "react"
 

@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-ui/select",
+  "name": "@chakra-xui/select",
   "version": "1.0.3",
   "description": "description",
   "keywords": [
@@ -53,15 +53,15 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-ui/form-control": "1.1.0",
-    "@chakra-ui/utils": "1.0.2"
+    "@chakra-xui/form-control": "1.1.0",
+    "@chakra-xui/utils": "1.0.2"
   },
   "devDependencies": {
-    "@chakra-ui/system": "1.1.0",
+    "@chakra-xui/system": "1.1.0",
     "react": "^17.0.1"
   },
   "peerDependencies": {
-    "@chakra-ui/system": ">=1.0.0",
+    "@chakra-xui/system": ">=1.0.0",
     "react": "16.x || 17.x"
   }
 }

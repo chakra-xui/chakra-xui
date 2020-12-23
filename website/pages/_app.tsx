@@ -4,7 +4,7 @@ import Head from "next/head"
 import Router from "next/router"
 import React from "react"
 import siteConfig from "configs/site-config"
-import { ChakraProvider } from "@chakra-ui/react"
+import { ChakraProvider } from "@chakra-xui/react"
 import theme from "theme"
 import FontFace from "components/font-face"
 

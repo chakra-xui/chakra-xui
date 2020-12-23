@@ -6,11 +6,11 @@ package.
 ## Installation
 
 ```sh
-npm i @chakra-ui/styled-system
+npm i @chakra-xui/styled-system
 
 # or
 
-yarn add @chakra-ui/styled-system
+yarn add @chakra-xui/styled-system
 ```
 
 ### CSS Logical Properties
@@ -20,7 +20,7 @@ properties. For our shorthand props, we provide a `*Bidi` suffix to manage the
 rtl/ltr switching.
 
 ```jsx
-import { css } from "@chakra-ui/styled-system"
+import { css } from "@chakra-xui/styled-system"
 
 const theme = {
   direction: "rtl", // ltr | rtl

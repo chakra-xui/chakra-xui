@@ -10,8 +10,8 @@ import {
   Text,
   Wrap,
   WrapItem,
-} from "@chakra-ui/react"
-import { SkipNavContent, SkipNavLink } from "@chakra-ui/skip-nav"
+} from "@chakra-xui/react"
+import { SkipNavContent, SkipNavLink } from "@chakra-xui/skip-nav"
 import Container from "components/container"
 import Header from "components/header"
 import PageTransition from "components/page-transition"

@@ -1,4 +1,4 @@
-import { mergeRefs, PropGetter } from "@chakra-ui/utils"
+import { mergeRefs, PropGetter } from "@chakra-xui/utils"
 import { Modifier, Placement } from "@popperjs/core"
 import * as React from "react"
 import { getArrowStyles, getBoxShadow, toTransformOrigin } from "./popper.utils"

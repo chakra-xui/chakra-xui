@@ -11,8 +11,8 @@
 
 - Updated dependencies
   [[`e73878ee`](https://github.com/chakra-ui/chakra-ui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5)]:
-  - @chakra-ui/utils@1.0.2
-  - @chakra-ui/icon@1.0.2
+  - @chakra-xui/utils@1.0.2
+  - @chakra-xui/icon@1.0.2
 
 ## 1.1.0
 
@@ -71,15 +71,15 @@
 
 - Updated dependencies
   [[`5c482483`](https://github.com/chakra-ui/chakra-ui/commit/5c482483ce24fc798540c9792a15e06772eae213)]:
-  - @chakra-ui/utils@1.0.1
-  - @chakra-ui/icon@1.0.1
+  - @chakra-xui/utils@1.0.1
+  - @chakra-xui/icon@1.0.1
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 # 1.0.0 (2020-11-13)
 
-**Note:** Version bump only for package @chakra-ui/layout
+**Note:** Version bump only for package @chakra-xui/layout
 
 # Change Log
 
@@ -101,23 +101,23 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.7 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/layout
+**Note:** Version bump only for package @chakra-xui/layout
 
 # 1.0.0-rc.6 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/layout
+**Note:** Version bump only for package @chakra-xui/layout
 
 # 1.0.0-rc.5 (2020-09-27)
 
-**Note:** Version bump only for package @chakra-ui/layout
+**Note:** Version bump only for package @chakra-xui/layout
 
 # 1.0.0-rc.4 (2020-09-25)
 
-**Note:** Version bump only for package @chakra-ui/layout
+**Note:** Version bump only for package @chakra-xui/layout
 
 # 1.0.0-rc.3 (2020-08-30)
 
-**Note:** Version bump only for package @chakra-ui/layout
+**Note:** Version bump only for package @chakra-xui/layout
 
 # Change Log
 
@@ -126,14 +126,14 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.2 (2020-08-09)
 
-**Note:** Version bump only for package @chakra-ui/layout
+**Note:** Version bump only for package @chakra-xui/layout
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/layout@1.0.0-rc.0...@chakra-ui/layout@1.0.0-rc.1) (2020-08-06)
+# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/layout@1.0.0-rc.0...@chakra-xui/layout@1.0.0-rc.1) (2020-08-06)
 
 ### Bug Fixes
 
@@ -149,16 +149,16 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/layout@1.0.0-next.7...@chakra-ui/layout@1.0.0-rc.0) (2020-07-26)
+# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/layout@1.0.0-next.7...@chakra-xui/layout@1.0.0-rc.0) (2020-07-26)
 
-**Note:** Version bump only for package @chakra-ui/layout
+**Note:** Version bump only for package @chakra-xui/layout
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/layout@1.0.0-next.6...@chakra-ui/layout@1.0.0-next.7) (2020-07-26)
+# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/layout@1.0.0-next.6...@chakra-xui/layout@1.0.0-next.7) (2020-07-26)
 
 ### Bug Fixes
 
@@ -170,16 +170,16 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/layout@1.0.0-next.5...@chakra-ui/layout@1.0.0-next.6) (2020-07-15)
+# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/layout@1.0.0-next.5...@chakra-xui/layout@1.0.0-next.6) (2020-07-15)
 
-**Note:** Version bump only for package @chakra-ui/layout
+**Note:** Version bump only for package @chakra-xui/layout
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/layout@1.0.0-next.4...@chakra-ui/layout@1.0.0-next.5) (2020-07-15)
+# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/layout@1.0.0-next.4...@chakra-xui/layout@1.0.0-next.5) (2020-07-15)
 
 ### Bug Fixes
 

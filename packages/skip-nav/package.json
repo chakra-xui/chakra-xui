@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-ui/skip-nav",
+  "name": "@chakra-xui/skip-nav",
   "version": "1.0.2",
   "description": "Skip navigation links for screen reader and keyboard users",
   "keywords": [
@@ -54,14 +54,14 @@
     "lint": "concurrently yarn:lint:*"
   },
   "devDependencies": {
-    "@chakra-ui/system": "1.1.0",
+    "@chakra-xui/system": "1.1.0",
     "react": "^17.0.1"
   },
   "dependencies": {
-    "@chakra-ui/utils": "1.0.2"
+    "@chakra-xui/utils": "1.0.2"
   },
   "peerDependencies": {
-    "@chakra-ui/system": ">=1.0.0",
+    "@chakra-xui/system": ">=1.0.0",
     "react": "16.x || 17.x"
   }
 }

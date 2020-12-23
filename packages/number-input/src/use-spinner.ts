@@ -1,4 +1,4 @@
-import { useInterval, useUnmountEffect } from "@chakra-ui/hooks"
+import { useInterval, useUnmountEffect } from "@chakra-xui/hooks"
 import { useCallback, useRef, useState } from "react"
 
 /**

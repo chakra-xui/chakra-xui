@@ -1,16 +1,16 @@
-import { chakra } from "@chakra-ui/system"
+import { chakra } from "@chakra-xui/system"
 import * as React from "react"
 import Lorem from "react-lorem-component"
-import { Button } from "@chakra-ui/button"
-import { Input } from "@chakra-ui/input"
-import { Stack } from "@chakra-ui/layout"
+import { Button } from "@chakra-xui/button"
+import { Input } from "@chakra-xui/input"
+import { Stack } from "@chakra-xui/layout"
 import { useForm } from "react-hook-form"
 import {
   FormControl,
   FormErrorMessage,
   FormHelperText,
   FormLabel,
-} from "@chakra-ui/form-control"
+} from "@chakra-xui/form-control"
 import {
   NumberDecrementStepper,
   NumberIncrementStepper,

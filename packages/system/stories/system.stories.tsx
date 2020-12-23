@@ -1,5 +1,5 @@
 import React from "react"
-import theme from "@chakra-ui/theme"
+import theme from "@chakra-xui/theme"
 import { motion } from "framer-motion"
 import { chakra, PropsOf, ThemeProvider, ThemingProps, useProps } from "../src"
 

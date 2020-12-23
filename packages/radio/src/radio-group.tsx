@@ -3,8 +3,8 @@ import {
   forwardRef,
   ThemingProps,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { createContext, cx, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { createContext, cx, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import {
   useRadioGroup,
@@ -16,9 +16,10 @@ export interface RadioGroupContext
   extends Pick<UseRadioGroupReturn, "onChange" | "value" | "name">,
     Omit<ThemingProps, "orientation"> {}
 
-const [RadioGroupProvider, useRadioGroupContext] = createContext<
-  RadioGroupContext
->({
+const [
+  RadioGroupProvider,
+  useRadioGroupContext,
+] = createContext<RadioGroupContext>({
   name: "RadioGroupContext",
   strict: false,
 })

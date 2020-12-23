@@ -6,8 +6,8 @@ import {
   ThemingProps,
   useStyleConfig,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { mergeWith, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { mergeWith, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 export interface SkipNavLinkProps extends HTMLChakraProps<"a">, ThemingProps {}

@@ -1,4 +1,4 @@
-import { mode, orient } from "@chakra-ui/theme-tools"
+import { mode, orient } from "@chakra-xui/theme-tools"
 
 const parts = ["container", "thumb", "track", "filledTrack"]
 

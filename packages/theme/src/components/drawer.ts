@@ -1,4 +1,4 @@
-import { mode } from "@chakra-ui/theme-tools"
+import { mode } from "@chakra-xui/theme-tools"
 import Modal from "./modal"
 
 const parts = Modal.parts

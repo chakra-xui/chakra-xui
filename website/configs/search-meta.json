@@ -6670,13 +6670,13 @@
     "hierarchy": { "lvl1": "The as prop and Custom component" }
   },
   {
-    "content": "Option 1: Using `forwardRef` from `@chakra-ui/react`",
+    "content": "Option 1: Using `forwardRef` from `@chakra-xui/react`",
     "id": "4237107d-4779-4376-85e2-9cb7f4c72626",
     "type": "lvl2",
     "url": "/guides/as-prop#option-1-using-forwardref-from-chakra-uireact",
     "hierarchy": {
       "lvl1": "The as prop and Custom component",
-      "lvl2": "Option 1: Using `forwardRef` from `@chakra-ui/react`",
+      "lvl2": "Option 1: Using `forwardRef` from `@chakra-xui/react`",
       "lvl3": null
     }
   },

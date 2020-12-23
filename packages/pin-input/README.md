@@ -7,11 +7,11 @@ for entering digits quickly.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/pin-input
+yarn add @chakra-xui/pin-input
 
 or
 
-npm i @chakra-ui/pin-input
+npm i @chakra-xui/pin-input
 ```
 
 ## Import component
@@ -22,7 +22,7 @@ import {
   PinInputField,
   usePinInput,
   usePinInputField,
-} from "@chakra-ui/switch"
+} from "@chakra-xui/switch"
 ```
 
 ## Usage

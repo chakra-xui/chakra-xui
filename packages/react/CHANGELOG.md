@@ -22,50 +22,50 @@
   [`85eb4090`](https://github.com/chakra-ui/chakra-ui/commit/85eb409039640949e01f3aa7353519b19a42a53f),
   [`080a7acc`](https://github.com/chakra-ui/chakra-ui/commit/080a7accdd321123e44df082911c6250154fdbd5),
   [`d1bd91e1`](https://github.com/chakra-ui/chakra-ui/commit/d1bd91e141fba54c1094a7f60932a060fba4949a)]:
-  - @chakra-ui/pin-input@1.1.1
-  - @chakra-ui/number-input@1.0.3
-  - @chakra-ui/system@1.1.0
-  - @chakra-ui/radio@1.0.3
-  - @chakra-ui/form-control@1.1.0
-  - @chakra-ui/modal@1.3.0
-  - @chakra-ui/checkbox@1.0.2
-  - @chakra-ui/menu@1.0.3
-  - @chakra-ui/popover@1.0.4
-  - @chakra-ui/toast@1.1.2
-  - @chakra-ui/tooltip@1.0.2
-  - @chakra-ui/transition@1.0.3
-  - @chakra-ui/utils@1.0.2
-  - @chakra-ui/skeleton@1.0.3
-  - @chakra-ui/layout@1.1.1
-  - @chakra-ui/input@1.0.3
-  - @chakra-ui/theme@1.2.2
-  - @chakra-ui/accordion@1.0.3
-  - @chakra-ui/alert@1.0.3
-  - @chakra-ui/avatar@1.0.2
-  - @chakra-ui/breadcrumb@1.0.2
-  - @chakra-ui/button@1.0.2
-  - @chakra-ui/close-button@1.0.3
-  - @chakra-ui/control-box@1.0.2
-  - @chakra-ui/editable@1.0.2
-  - @chakra-ui/icon@1.0.2
-  - @chakra-ui/image@1.0.2
-  - @chakra-ui/media-query@1.0.2
-  - @chakra-ui/progress@1.0.2
-  - @chakra-ui/select@1.0.3
-  - @chakra-ui/slider@1.0.2
-  - @chakra-ui/spinner@1.0.2
-  - @chakra-ui/stat@1.0.2
-  - @chakra-ui/switch@1.0.2
-  - @chakra-ui/table@1.0.2
-  - @chakra-ui/tabs@1.0.2
-  - @chakra-ui/tag@1.0.2
-  - @chakra-ui/textarea@1.0.3
-  - @chakra-ui/visually-hidden@1.0.2
-  - @chakra-ui/counter@1.0.2
-  - @chakra-ui/hooks@1.0.2
-  - @chakra-ui/live-region@1.0.2
-  - @chakra-ui/popper@1.0.2
-  - @chakra-ui/portal@1.0.2
+  - @chakra-xui/pin-input@1.1.1
+  - @chakra-xui/number-input@1.0.3
+  - @chakra-xui/system@1.1.0
+  - @chakra-xui/radio@1.0.3
+  - @chakra-xui/form-control@1.1.0
+  - @chakra-xui/modal@1.3.0
+  - @chakra-xui/checkbox@1.0.2
+  - @chakra-xui/menu@1.0.3
+  - @chakra-xui/popover@1.0.4
+  - @chakra-xui/toast@1.1.2
+  - @chakra-xui/tooltip@1.0.2
+  - @chakra-xui/transition@1.0.3
+  - @chakra-xui/utils@1.0.2
+  - @chakra-xui/skeleton@1.0.3
+  - @chakra-xui/layout@1.1.1
+  - @chakra-xui/input@1.0.3
+  - @chakra-xui/theme@1.2.2
+  - @chakra-xui/accordion@1.0.3
+  - @chakra-xui/alert@1.0.3
+  - @chakra-xui/avatar@1.0.2
+  - @chakra-xui/breadcrumb@1.0.2
+  - @chakra-xui/button@1.0.2
+  - @chakra-xui/close-button@1.0.3
+  - @chakra-xui/control-box@1.0.2
+  - @chakra-xui/editable@1.0.2
+  - @chakra-xui/icon@1.0.2
+  - @chakra-xui/image@1.0.2
+  - @chakra-xui/media-query@1.0.2
+  - @chakra-xui/progress@1.0.2
+  - @chakra-xui/select@1.0.3
+  - @chakra-xui/slider@1.0.2
+  - @chakra-xui/spinner@1.0.2
+  - @chakra-xui/stat@1.0.2
+  - @chakra-xui/switch@1.0.2
+  - @chakra-xui/table@1.0.2
+  - @chakra-xui/tabs@1.0.2
+  - @chakra-xui/tag@1.0.2
+  - @chakra-xui/textarea@1.0.3
+  - @chakra-xui/visually-hidden@1.0.2
+  - @chakra-xui/counter@1.0.2
+  - @chakra-xui/hooks@1.0.2
+  - @chakra-xui/live-region@1.0.2
+  - @chakra-xui/popper@1.0.2
+  - @chakra-xui/portal@1.0.2
 
 ## 1.0.3
 
@@ -81,15 +81,15 @@
   [`72bbd0db`](https://github.com/chakra-ui/chakra-ui/commit/72bbd0dbb913ba38ee2b9191d12bf73713ae4398),
   [`653f3dd6`](https://github.com/chakra-ui/chakra-ui/commit/653f3dd6f30a17e366c069666acbfd9eddb11936),
   [`c73cce25`](https://github.com/chakra-ui/chakra-ui/commit/c73cce25bf986fd5b1261575ca395f731f827f53)]:
-  - @chakra-ui/pin-input@1.1.0
-  - @chakra-ui/theme@1.2.1
-  - @chakra-ui/close-button@1.0.2
-  - @chakra-ui/system@1.0.2
-  - @chakra-ui/alert@1.0.2
-  - @chakra-ui/toast@1.1.1
-  - @chakra-ui/modal@1.2.1
-  - @chakra-ui/popover@1.0.3
-  - @chakra-ui/skeleton@1.0.2
+  - @chakra-xui/pin-input@1.1.0
+  - @chakra-xui/theme@1.2.1
+  - @chakra-xui/close-button@1.0.2
+  - @chakra-xui/system@1.0.2
+  - @chakra-xui/alert@1.0.2
+  - @chakra-xui/toast@1.1.1
+  - @chakra-xui/modal@1.2.1
+  - @chakra-xui/popover@1.0.3
+  - @chakra-xui/skeleton@1.0.2
 
 ## 1.0.2
 
@@ -112,20 +112,20 @@
   [`9fdc61d8`](https://github.com/chakra-ui/chakra-ui/commit/9fdc61d8801f6d76783b5c9f068525d4dfc28b20),
   [`2416cf9a`](https://github.com/chakra-ui/chakra-ui/commit/2416cf9abe183a3a38adbccff794088d86a46341),
   [`58e26653`](https://github.com/chakra-ui/chakra-ui/commit/58e26653134caee1dd2caddb9014f7a90dc4eb7e)]:
-  - @chakra-ui/number-input@1.0.2
-  - @chakra-ui/layout@1.1.0
-  - @chakra-ui/modal@1.2.0
-  - @chakra-ui/theme@1.2.0
-  - @chakra-ui/form-control@1.0.2
-  - @chakra-ui/toast@1.1.0
-  - @chakra-ui/transition@1.0.2
-  - @chakra-ui/radio@1.0.2
-  - @chakra-ui/input@1.0.2
-  - @chakra-ui/select@1.0.2
-  - @chakra-ui/textarea@1.0.2
-  - @chakra-ui/accordion@1.0.2
-  - @chakra-ui/menu@1.0.2
-  - @chakra-ui/popover@1.0.2
+  - @chakra-xui/number-input@1.0.2
+  - @chakra-xui/layout@1.1.0
+  - @chakra-xui/modal@1.2.0
+  - @chakra-xui/theme@1.2.0
+  - @chakra-xui/form-control@1.0.2
+  - @chakra-xui/toast@1.1.0
+  - @chakra-xui/transition@1.0.2
+  - @chakra-xui/radio@1.0.2
+  - @chakra-xui/input@1.0.2
+  - @chakra-xui/select@1.0.2
+  - @chakra-xui/textarea@1.0.2
+  - @chakra-xui/accordion@1.0.2
+  - @chakra-xui/menu@1.0.2
+  - @chakra-xui/popover@1.0.2
 
 ## 1.0.1
 
@@ -140,56 +140,56 @@
   [`204ff7e3`](https://github.com/chakra-ui/chakra-ui/commit/204ff7e39dd37003786194704b36069ef94d56a6),
   [`ba262ac7`](https://github.com/chakra-ui/chakra-ui/commit/ba262ac7b2e2d932bb227d4ff9181e83fbaa4149),
   [`a1ff404b`](https://github.com/chakra-ui/chakra-ui/commit/a1ff404b12a898ab97af024391a06c34da5bc69a)]:
-  - @chakra-ui/layout@1.0.1
-  - @chakra-ui/theme@1.1.0
-  - @chakra-ui/progress@1.0.1
-  - @chakra-ui/tabs@1.0.1
-  - @chakra-ui/utils@1.0.1
-  - @chakra-ui/hooks@1.0.1
-  - @chakra-ui/modal@1.1.0
-  - @chakra-ui/media-query@1.0.1
-  - @chakra-ui/system@1.0.1
-  - @chakra-ui/toast@1.0.1
-  - @chakra-ui/accordion@1.0.1
-  - @chakra-ui/alert@1.0.1
-  - @chakra-ui/avatar@1.0.1
-  - @chakra-ui/breadcrumb@1.0.1
-  - @chakra-ui/button@1.0.1
-  - @chakra-ui/checkbox@1.0.1
-  - @chakra-ui/close-button@1.0.1
-  - @chakra-ui/control-box@1.0.1
-  - @chakra-ui/counter@1.0.1
-  - @chakra-ui/editable@1.0.1
-  - @chakra-ui/form-control@1.0.1
-  - @chakra-ui/icon@1.0.1
-  - @chakra-ui/image@1.0.1
-  - @chakra-ui/input@1.0.1
-  - @chakra-ui/live-region@1.0.1
-  - @chakra-ui/menu@1.0.1
-  - @chakra-ui/number-input@1.0.1
-  - @chakra-ui/pin-input@1.0.1
-  - @chakra-ui/popover@1.0.1
-  - @chakra-ui/popper@1.0.1
-  - @chakra-ui/portal@1.0.1
-  - @chakra-ui/radio@1.0.1
-  - @chakra-ui/select@1.0.1
-  - @chakra-ui/skeleton@1.0.1
-  - @chakra-ui/slider@1.0.1
-  - @chakra-ui/spinner@1.0.1
-  - @chakra-ui/stat@1.0.1
-  - @chakra-ui/switch@1.0.1
-  - @chakra-ui/tag@1.0.1
-  - @chakra-ui/textarea@1.0.1
-  - @chakra-ui/tooltip@1.0.1
-  - @chakra-ui/transition@1.0.1
-  - @chakra-ui/visually-hidden@1.0.1
+  - @chakra-xui/layout@1.0.1
+  - @chakra-xui/theme@1.1.0
+  - @chakra-xui/progress@1.0.1
+  - @chakra-xui/tabs@1.0.1
+  - @chakra-xui/utils@1.0.1
+  - @chakra-xui/hooks@1.0.1
+  - @chakra-xui/modal@1.1.0
+  - @chakra-xui/media-query@1.0.1
+  - @chakra-xui/system@1.0.1
+  - @chakra-xui/toast@1.0.1
+  - @chakra-xui/accordion@1.0.1
+  - @chakra-xui/alert@1.0.1
+  - @chakra-xui/avatar@1.0.1
+  - @chakra-xui/breadcrumb@1.0.1
+  - @chakra-xui/button@1.0.1
+  - @chakra-xui/checkbox@1.0.1
+  - @chakra-xui/close-button@1.0.1
+  - @chakra-xui/control-box@1.0.1
+  - @chakra-xui/counter@1.0.1
+  - @chakra-xui/editable@1.0.1
+  - @chakra-xui/form-control@1.0.1
+  - @chakra-xui/icon@1.0.1
+  - @chakra-xui/image@1.0.1
+  - @chakra-xui/input@1.0.1
+  - @chakra-xui/live-region@1.0.1
+  - @chakra-xui/menu@1.0.1
+  - @chakra-xui/number-input@1.0.1
+  - @chakra-xui/pin-input@1.0.1
+  - @chakra-xui/popover@1.0.1
+  - @chakra-xui/popper@1.0.1
+  - @chakra-xui/portal@1.0.1
+  - @chakra-xui/radio@1.0.1
+  - @chakra-xui/select@1.0.1
+  - @chakra-xui/skeleton@1.0.1
+  - @chakra-xui/slider@1.0.1
+  - @chakra-xui/spinner@1.0.1
+  - @chakra-xui/stat@1.0.1
+  - @chakra-xui/switch@1.0.1
+  - @chakra-xui/tag@1.0.1
+  - @chakra-xui/textarea@1.0.1
+  - @chakra-xui/tooltip@1.0.1
+  - @chakra-xui/transition@1.0.1
+  - @chakra-xui/visually-hidden@1.0.1
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 # 1.0.0 (2020-11-13)
 
-**Note:** Version bump only for package @chakra-ui/react
+**Note:** Version bump only for package @chakra-xui/react
 
 # Change Log
 
@@ -211,23 +211,23 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.7 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-xui/core
 
 # 1.0.0-rc.6 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-xui/core
 
 # 1.0.0-rc.5 (2020-09-27)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-xui/core
 
 # 1.0.0-rc.4 (2020-09-25)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-xui/core
 
 # 1.0.0-rc.3 (2020-08-30)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-xui/core
 
 # Change Log
 
@@ -236,14 +236,14 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.2 (2020-08-09)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-xui/core
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@1.0.0-rc.0...@chakra-ui/core@1.0.0-rc.1) (2020-08-06)
+# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@1.0.0-rc.0...@chakra-xui/core@1.0.0-rc.1) (2020-08-06)
 
 ### Bug Fixes
 
@@ -255,34 +255,34 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@1.0.0-next.7...@chakra-ui/core@1.0.0-rc.0) (2020-07-26)
+# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@1.0.0-next.7...@chakra-xui/core@1.0.0-rc.0) (2020-07-26)
 
-**Note:** Version bump only for package @chakra-ui/core
-
-# Change Log
-
-All notable changes to this project will be documented in this file. See
-[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
-
-# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@1.0.0-next.6...@chakra-ui/core@1.0.0-next.7) (2020-07-26)
-
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-xui/core
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@1.0.0-next.5...@chakra-ui/core@1.0.0-next.6) (2020-07-15)
+# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@1.0.0-next.6...@chakra-xui/core@1.0.0-next.7) (2020-07-26)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-xui/core
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@1.0.0-next.4...@chakra-ui/core@1.0.0-next.5) (2020-07-15)
+# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@1.0.0-next.5...@chakra-xui/core@1.0.0-next.6) (2020-07-15)
+
+**Note:** Version bump only for package @chakra-xui/core
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@1.0.0-next.4...@chakra-xui/core@1.0.0-next.5) (2020-07-15)
 
 ### Bug Fixes
 
@@ -294,7 +294,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.4](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.8.0...@chakra-ui/core@1.0.0-next.4) (2020-07-01)
+# [1.0.0-next.4](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@0.8.0...@chakra-xui/core@1.0.0-next.4) (2020-07-01)
 
 ### Bug Fixes
 
@@ -312,7 +312,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.3](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.8.0...@chakra-ui/core@1.0.0-next.3) (2020-06-28)
+# [1.0.0-next.3](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@0.8.0...@chakra-xui/core@1.0.0-next.3) (2020-06-28)
 
 ### Bug Fixes
 
@@ -328,7 +328,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.2](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.8.0...@chakra-ui/core@1.0.0-next.2) (2020-06-21)
+# [1.0.0-next.2](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@0.8.0...@chakra-xui/core@1.0.0-next.2) (2020-06-21)
 
 ### Bug Fixes
 
@@ -342,7 +342,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.4.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.3.4...@chakra-ui/core@0.4.0) (2019-10-14)
+# [0.4.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@0.3.4...@chakra-xui/core@0.4.0) (2019-10-14)
 
 ### Bug Fixes
 
@@ -389,7 +389,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.3.4](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.3.3...@chakra-ui/core@0.3.4) (2019-10-09)
+## [0.3.4](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@0.3.3...@chakra-xui/core@0.3.4) (2019-10-09)
 
 ### Bug Fixes
 
@@ -401,7 +401,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.3.3](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.3.2...@chakra-ui/core@0.3.3) (2019-10-09)
+## [0.3.3](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@0.3.2...@chakra-xui/core@0.3.3) (2019-10-09)
 
 ### Bug Fixes
 
@@ -429,7 +429,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.3.2](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.3.1...@chakra-ui/core@0.3.2) (2019-09-26)
+## [0.3.2](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@0.3.1...@chakra-xui/core@0.3.2) (2019-09-26)
 
 ### Bug Fixes
 
@@ -450,7 +450,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.3.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.3.0...@chakra-ui/core@0.3.1) (2019-09-25)
+## [0.3.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@0.3.0...@chakra-xui/core@0.3.1) (2019-09-25)
 
 ### Bug Fixes
 
@@ -470,7 +470,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.3.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.2.8...@chakra-ui/core@0.3.0) (2019-09-24)
+# [0.3.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/core@0.2.8...@chakra-xui/core@0.3.0) (2019-09-24)
 
 ### Features
 

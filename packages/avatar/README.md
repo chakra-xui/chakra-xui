@@ -1,4 +1,4 @@
-# @chakra-ui/avatar
+# @chakra-xui/avatar
 
 The Avatar component is used to represent user, and displays the profile
 picture, initials or fallback icon.
@@ -6,17 +6,17 @@ picture, initials or fallback icon.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/avatar
+yarn add @chakra-xui/avatar
 
 # or
 
-npm i @chakra-ui/avatar
+npm i @chakra-xui/avatar
 ```
 
 ## Import components
 
 ```jsx
-import { Avatar, AvatarGroup } from "@chakra-ui/avatar"
+import { Avatar, AvatarGroup } from "@chakra-xui/avatar"
 ```
 
 ## Basic Usage

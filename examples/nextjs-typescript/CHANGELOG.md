@@ -6,9 +6,9 @@
 
 - Updated dependencies
   [[`5bff79a1`](https://github.com/chakra-ui/chakra-ui/commit/5bff79a1ba6989d279fc432d5040c72cd75b392e)]:
-  - @chakra-ui/react@1.0.4
-  - @chakra-ui/icons@1.0.2
-  - @chakra-ui/theme-tools@1.0.2
+  - @chakra-xui/react@1.0.4
+  - @chakra-xui/icons@1.0.2
+  - @chakra-xui/theme-tools@1.0.2
 
 ## 1.0.3
 
@@ -16,7 +16,7 @@
 
 - Updated dependencies
   [[`0d0ed051`](https://github.com/chakra-ui/chakra-ui/commit/0d0ed0513ac1094833f1e0294f655af122682ff4)]:
-  - @chakra-ui/react@1.0.3
+  - @chakra-xui/react@1.0.3
 
 ## 1.0.2
 
@@ -24,16 +24,16 @@
 
 - Updated dependencies
   [[`cfd3b325`](https://github.com/chakra-ui/chakra-ui/commit/cfd3b32564066076529811c5350aff6be565b7a3)]:
-  - @chakra-ui/react@1.0.2
+  - @chakra-xui/react@1.0.2
 
 ## 1.0.1
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @chakra-ui/react@1.0.1
-  - @chakra-ui/theme-tools@1.0.1
-  - @chakra-ui/icons@1.0.1
+  - @chakra-xui/react@1.0.1
+  - @chakra-xui/theme-tools@1.0.1
+  - @chakra-xui/icons@1.0.1
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.

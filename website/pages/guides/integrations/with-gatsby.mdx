@@ -10,7 +10,7 @@ author: KenzoBenzo
 ## Changes
 
 - The Gatsby plugin has been renamed from `gatsby-plugin-chakra-ui` to
-  `@chakra-ui/gatsby-plugin`. Please make sure to have updated this when
+  `@chakra-xui/gatsby-plugin`. Please make sure to have updated this when
   installing Chakra UI in your next Gatsby project.
 
 Chakra UI is a great UI library to get your Gatsby website up and running fast
@@ -19,7 +19,7 @@ API usage seen in the rest of the docs is the same!
 
 **There are two ways to setup Chakra with Gatsby shown in this Guide:**
 
-- [`@chakra-ui/gatsby-plugin`](#gatsby-plugin)
+- [`@chakra-xui/gatsby-plugin`](#gatsby-plugin)
 - [From scratch](#chakra-providers)
 
 ## Gatsby plugin
@@ -28,14 +28,14 @@ Gastby plugins make external APIs plug-and-play into your website. Installing
 can be done with the following command:
 
 ```bash
-npm i @chakra-ui/gatsby-plugin @chakra-ui/react @emotion/react @emotion/styled framer-motion
+npm i @chakra-xui/gatsby-plugin @chakra-xui/react @emotion/react @emotion/styled framer-motion
 
 # or
 
-yarn add @chakra-ui/gatsby-plugin @chakra-ui/react @emotion/react @emotion/styled framer-motion
+yarn add @chakra-xui/gatsby-plugin @chakra-xui/react @emotion/react @emotion/styled framer-motion
 ```
 
-After installation, you'll need to add `@chakra-ui/gatsby-plugin` to the
+After installation, you'll need to add `@chakra-xui/gatsby-plugin` to the
 `gatsby-config.js` file.
 
 ```jsx live=false
@@ -44,7 +44,7 @@ After installation, you'll need to add `@chakra-ui/gatsby-plugin` to the
 module.exports = {
   plugins: [
     {
-      resolve: "@chakra-ui/gatsby-plugin",
+      resolve: "@chakra-xui/gatsby-plugin",
       options: {
         /**
          * @property {boolean} [isResettingCSS=true]
@@ -66,7 +66,7 @@ To use custom theme, you can shadow this plugin’s theme.js directory and file
 with your own theme:
 
 ```jsx live=false
-// src/@chakra-ui/gatsby-plugin/theme.js
+// src/@chakra-xui/gatsby-plugin/theme.js
 const theme = {}
 
 export default theme
@@ -85,7 +85,7 @@ two files should look like this:
 
 ```js live=false
 import React from "react"
-import { ChakraProvider, CSSReset } from "@chakra-ui/react"
+import { ChakraProvider, CSSReset } from "@chakra-xui/react"
 import customTheme from "./theme/theme"
 
 export const wrapRootElement = ({ element }) => {
@@ -110,7 +110,7 @@ below.
 
 ```jsx live=false
 import React from "react"
-import { ChakraProvider, CSSReset } from "@chakra-ui/react"
+import { ChakraProvider, CSSReset } from "@chakra-xui/react"
 import customTheme from "./theme/theme"
 
 export const wrapRootElement = ({ element }) => {

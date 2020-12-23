@@ -1,6 +1,6 @@
 ---
 title: "Chakra Factory"
-package: "@chakra-ui/system"
+package: "@chakra-xui/system"
 description: Using the chakra factory and elements
 ---
 
@@ -9,7 +9,7 @@ Chakra factory serves as an **object of chakra enabled JSX elements**, and also
 style props.
 
 ```bash
-import { chakra } from "@chakra-ui/react"
+import { chakra } from "@chakra-xui/react"
 ```
 
 ## Chakra JSX Elements
@@ -51,7 +51,7 @@ The function will infer the prop types from the wrapped component and also add
 chakra style props.
 
 ```jsx live=false
-import { chakra } from "@chakra-ui/react"
+import { chakra } from "@chakra-xui/react"
 import Textarea from "react-input-autoresize"
 
 const AutoResizeInput = chakra(Textarea)
@@ -109,7 +109,7 @@ Another example that combines the default `shouldForwardProp` from Chakra UI
 with custom logic.
 
 ```jsx live=false
-import { shouldForwardProp } from "@chakra-ui/react"
+import { shouldForwardProp } from "@chakra-xui/react"
 
 const Div = chakra("div", {
   shouldForwardProp: (prop) => {
@@ -129,7 +129,7 @@ package.
 
 ```jsx live=false
 import isValidHTMLProp from "@emotion/is-prop-valid"
-import { shouldForwardProp } from "@chakra-ui/react"
+import { shouldForwardProp } from "@chakra-xui/react"
 
 const Div = chakra("div", {
   shouldForwardProp: (prop) => {

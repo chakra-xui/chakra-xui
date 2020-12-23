@@ -13,12 +13,12 @@
   [`e73878ee`](https://github.com/chakra-ui/chakra-ui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5),
   [`85eb4090`](https://github.com/chakra-ui/chakra-ui/commit/85eb409039640949e01f3aa7353519b19a42a53f),
   [`080a7acc`](https://github.com/chakra-ui/chakra-ui/commit/080a7accdd321123e44df082911c6250154fdbd5)]:
-  - @chakra-ui/transition@1.0.3
-  - @chakra-ui/utils@1.0.2
-  - @chakra-ui/theme@1.2.2
-  - @chakra-ui/alert@1.0.3
-  - @chakra-ui/close-button@1.0.3
-  - @chakra-ui/hooks@1.0.2
+  - @chakra-xui/transition@1.0.3
+  - @chakra-xui/utils@1.0.2
+  - @chakra-xui/theme@1.2.2
+  - @chakra-xui/alert@1.0.3
+  - @chakra-xui/close-button@1.0.3
+  - @chakra-xui/hooks@1.0.2
 
 ## 1.1.1
 
@@ -27,9 +27,9 @@
 - Updated dependencies
   [[`72bbd0db`](https://github.com/chakra-ui/chakra-ui/commit/72bbd0dbb913ba38ee2b9191d12bf73713ae4398),
   [`c73cce25`](https://github.com/chakra-ui/chakra-ui/commit/c73cce25bf986fd5b1261575ca395f731f827f53)]:
-  - @chakra-ui/theme@1.2.1
-  - @chakra-ui/close-button@1.0.2
-  - @chakra-ui/alert@1.0.2
+  - @chakra-xui/theme@1.2.1
+  - @chakra-xui/close-button@1.0.2
+  - @chakra-xui/alert@1.0.2
 
 ## 1.1.0
 
@@ -49,8 +49,8 @@
   [`c696345a`](https://github.com/chakra-ui/chakra-ui/commit/c696345a711338a23542a7b1911a33927a9ba5f1),
   [`9fdc61d8`](https://github.com/chakra-ui/chakra-ui/commit/9fdc61d8801f6d76783b5c9f068525d4dfc28b20),
   [`2416cf9a`](https://github.com/chakra-ui/chakra-ui/commit/2416cf9abe183a3a38adbccff794088d86a46341)]:
-  - @chakra-ui/theme@1.2.0
-  - @chakra-ui/transition@1.0.2
+  - @chakra-xui/theme@1.2.0
+  - @chakra-xui/transition@1.0.2
 
 ## 1.0.1
 
@@ -61,19 +61,19 @@
   [`892ea2ca`](https://github.com/chakra-ui/chakra-ui/commit/892ea2ca1c02b4127f4f044df33de58cc7641f5c),
   [`5c482483`](https://github.com/chakra-ui/chakra-ui/commit/5c482483ce24fc798540c9792a15e06772eae213),
   [`204ff7e3`](https://github.com/chakra-ui/chakra-ui/commit/204ff7e39dd37003786194704b36069ef94d56a6)]:
-  - @chakra-ui/theme@1.1.0
-  - @chakra-ui/utils@1.0.1
-  - @chakra-ui/hooks@1.0.1
-  - @chakra-ui/alert@1.0.1
-  - @chakra-ui/close-button@1.0.1
-  - @chakra-ui/transition@1.0.1
+  - @chakra-xui/theme@1.1.0
+  - @chakra-xui/utils@1.0.1
+  - @chakra-xui/hooks@1.0.1
+  - @chakra-xui/alert@1.0.1
+  - @chakra-xui/close-button@1.0.1
+  - @chakra-xui/transition@1.0.1
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 # 1.0.0 (2020-11-13)
 
-**Note:** Version bump only for package @chakra-ui/toast
+**Note:** Version bump only for package @chakra-xui/toast
 
 # Change Log
 
@@ -95,23 +95,23 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.7 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/toast
+**Note:** Version bump only for package @chakra-xui/toast
 
 # 1.0.0-rc.6 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/toast
+**Note:** Version bump only for package @chakra-xui/toast
 
 # 1.0.0-rc.5 (2020-09-27)
 
-**Note:** Version bump only for package @chakra-ui/toast
+**Note:** Version bump only for package @chakra-xui/toast
 
 # 1.0.0-rc.4 (2020-09-25)
 
-**Note:** Version bump only for package @chakra-ui/toast
+**Note:** Version bump only for package @chakra-xui/toast
 
 # 1.0.0-rc.3 (2020-08-30)
 
-**Note:** Version bump only for package @chakra-ui/toast
+**Note:** Version bump only for package @chakra-xui/toast
 
 # Change Log
 
@@ -120,50 +120,50 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.2 (2020-08-09)
 
-**Note:** Version bump only for package @chakra-ui/toast
+**Note:** Version bump only for package @chakra-xui/toast
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/toast@1.0.0-rc.0...@chakra-ui/toast@1.0.0-rc.1) (2020-08-06)
+# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/toast@1.0.0-rc.0...@chakra-xui/toast@1.0.0-rc.1) (2020-08-06)
 
-**Note:** Version bump only for package @chakra-ui/toast
-
-# Change Log
-
-All notable changes to this project will be documented in this file. See
-[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
-
-# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/toast@1.0.0-next.7...@chakra-ui/toast@1.0.0-rc.0) (2020-07-26)
-
-**Note:** Version bump only for package @chakra-ui/toast
+**Note:** Version bump only for package @chakra-xui/toast
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/toast@1.0.0-next.6...@chakra-ui/toast@1.0.0-next.7) (2020-07-26)
+# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/toast@1.0.0-next.7...@chakra-xui/toast@1.0.0-rc.0) (2020-07-26)
 
-**Note:** Version bump only for package @chakra-ui/toast
-
-# Change Log
-
-All notable changes to this project will be documented in this file. See
-[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
-
-# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/toast@1.0.0-next.5...@chakra-ui/toast@1.0.0-next.6) (2020-07-15)
-
-**Note:** Version bump only for package @chakra-ui/toast
+**Note:** Version bump only for package @chakra-xui/toast
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/toast@1.0.0-next.4...@chakra-ui/toast@1.0.0-next.5) (2020-07-15)
+# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/toast@1.0.0-next.6...@chakra-xui/toast@1.0.0-next.7) (2020-07-26)
+
+**Note:** Version bump only for package @chakra-xui/toast
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/toast@1.0.0-next.5...@chakra-xui/toast@1.0.0-next.6) (2020-07-15)
+
+**Note:** Version bump only for package @chakra-xui/toast
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/toast@1.0.0-next.4...@chakra-xui/toast@1.0.0-next.5) (2020-07-15)
 
 ### Reverts
 

@@ -1,4 +1,4 @@
-import { Container } from "@chakra-ui/layout"
+import { Container } from "@chakra-xui/layout"
 import {
   Box,
   Button,
@@ -10,8 +10,8 @@ import {
   DrawerHeader,
   DrawerOverlay,
   useDisclosure,
-} from "@chakra-ui/react"
-import { chakra } from "@chakra-ui/system"
+} from "@chakra-xui/react"
+import { chakra } from "@chakra-xui/system"
 import * as React from "react"
 import {
   Accordion,

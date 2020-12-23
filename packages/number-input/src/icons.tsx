@@ -1,5 +1,5 @@
 import * as React from "react"
-import { Icon, IconProps } from "@chakra-ui/icon"
+import { Icon, IconProps } from "@chakra-xui/icon"
 
 export const TriangleDownIcon: React.FC<IconProps> = (props) => (
   <Icon viewBox="0 0 24 24" {...props}>

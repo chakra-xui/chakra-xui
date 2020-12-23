@@ -6,9 +6,9 @@ import {
   ThemingProps,
   useStyleConfig,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { cx, __DEV__ } from "@chakra-ui/utils"
-import { VisuallyHidden } from "@chakra-ui/visually-hidden"
+} from "@chakra-xui/system"
+import { cx, __DEV__ } from "@chakra-xui/utils"
+import { VisuallyHidden } from "@chakra-xui/visually-hidden"
 import * as React from "react"
 
 const spin = keyframes({

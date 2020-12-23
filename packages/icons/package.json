@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-ui/icons",
+  "name": "@chakra-xui/icons",
   "version": "1.0.2",
   "description": "Chakra UI icons",
   "author": "Segun Adebayo <sage@adebayosegun.com>",
@@ -44,15 +44,15 @@
     "lint:types": "tsc --noEmit"
   },
   "peerDependencies": {
-    "@chakra-ui/system": ">=1.0.0",
+    "@chakra-xui/system": ">=1.0.0",
     "react": "16.x || 17.x"
   },
   "devDependencies": {
-    "@chakra-ui/system": "1.1.0",
+    "@chakra-xui/system": "1.1.0",
     "react": "^17.0.1"
   },
   "dependencies": {
-    "@chakra-ui/icon": "1.0.2",
+    "@chakra-xui/icon": "1.0.2",
     "@types/react": "17.0.0"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-ui/babel-plugin",
+  "name": "@chakra-xui/babel-plugin",
   "version": "1.0.0",
   "description": "Mark custom forwardRef and memo as pure for tree shaking",
   "license": "MIT",
@@ -25,10 +25,10 @@
     "@babel/helper-plugin-utils": "^7.10.4"
   },
   "peerDependencies": {
-    "@babel/core": "^7.12.3"
+    "@babel/core": "^7.12.10"
   },
   "devDependencies": {
-    "@babel/core": "7.12.9"
+    "@babel/core": "7.12.10"
   },
   "jest": {
     "testEnvironment": "node",

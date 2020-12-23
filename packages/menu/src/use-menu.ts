@@ -1,5 +1,5 @@
-import { useClickable } from "@chakra-ui/clickable"
-import { useDescendant, useDescendants } from "@chakra-ui/descendant"
+import { useClickable } from "@chakra-xui/clickable"
+import { useDescendant, useDescendants } from "@chakra-xui/descendant"
 import {
   useControllableState,
   useDisclosure,
@@ -10,8 +10,8 @@ import {
   useOutsideClick,
   useShortcut,
   useUpdateEffect,
-} from "@chakra-ui/hooks"
-import { usePopper, UsePopperProps } from "@chakra-ui/popper"
+} from "@chakra-xui/hooks"
+import { usePopper, UsePopperProps } from "@chakra-xui/popper"
 import {
   addItem,
   callAllHandlers,
@@ -29,7 +29,7 @@ import {
   mergeWith,
   normalizeEventKey,
   removeItem,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import * as React from "react"
 
 const [MenuProvider, useMenuContext] = createContext<UseMenuReturn>({

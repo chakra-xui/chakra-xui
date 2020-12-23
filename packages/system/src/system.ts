@@ -5,14 +5,14 @@ import {
   SystemProps,
   SystemStyleObject,
   ChakraStyleProps,
-} from "@chakra-ui/styled-system"
+} from "@chakra-xui/styled-system"
 import {
   memoizedGet as get,
   objectFilter,
   objectAssign,
   Dict,
   isFunction,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import emotionStyled, {
   CSSObject,
   FunctionInterpolation,

@@ -1,5 +1,5 @@
 ---
-"@chakra-ui/react": minor
+"@chakra-xui/react": minor
 ---
 
 extendTheme: added an optional second argument `baseTheme` to customize:

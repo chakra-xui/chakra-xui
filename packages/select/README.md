@@ -9,17 +9,17 @@ might consider using a radio group instead.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/select
+yarn add @chakra-xui/select
 
 # or
 
-npm i @chakra-ui/select
+npm i @chakra-xui/select
 ```
 
 ## Import component
 
 ```jsx
-import { Select } from "@chakra-ui/select"
+import { Select } from "@chakra-xui/select"
 ```
 
 ## Usage

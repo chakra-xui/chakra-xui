@@ -4,7 +4,7 @@ import {
   forwardRef,
   PropsOf,
   HTMLChakraProps,
-} from "@chakra-ui/system"
+} from "@chakra-xui/system"
 import * as React from "react"
 
 export interface LinkOverlayProps extends HTMLChakraProps<"a"> {}

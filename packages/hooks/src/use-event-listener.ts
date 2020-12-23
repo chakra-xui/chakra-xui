@@ -1,5 +1,5 @@
 import * as React from "react"
-import { isBrowser } from "@chakra-ui/utils"
+import { isBrowser } from "@chakra-xui/utils"
 import { useLatestRef } from "./use-latest-ref"
 
 /**

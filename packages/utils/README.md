@@ -8,5 +8,5 @@ Shared utilities for various Chakra UI components
 ## Installation
 
 ```sh
-yarn add @chakra-ui/utils
+yarn add @chakra-xui/utils
 ```

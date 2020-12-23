@@ -1,4 +1,4 @@
-# @chakra-ui/popover
+# @chakra-xui/popover
 
 Popover is a non-modal dialog that floats around a trigger. It is used to
 display contextual information to the user, and should be paired with a
@@ -7,11 +7,11 @@ clickable trigger element.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/popover
+yarn add @chakra-xui/popover
 
 # or
 
-npm i @chakra-ui/popover
+npm i @chakra-xui/popover
 ```
 
 ## Import components
@@ -26,7 +26,7 @@ import {
   PopoverFooter,
   PopoverArrow,
   PopoverCloseButton,
-} from "@chakra-ui/react"
+} from "@chakra-xui/react"
 ```
 
 ## Basic Usage

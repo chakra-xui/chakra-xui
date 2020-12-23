@@ -1,6 +1,6 @@
 import React from "react"
-import { ThemeProvider } from "@chakra-ui/system"
-import { render, screen } from "@chakra-ui/test-utils"
+import { ThemeProvider } from "@chakra-xui/system"
+import { render, screen } from "@chakra-xui/test-utils"
 import MatchMediaMock from "jest-matchmedia-mock"
 import { theme, queries } from "./test-data"
 import { useBreakpointValue } from "../src"

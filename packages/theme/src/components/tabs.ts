@@ -1,4 +1,4 @@
-import { getColor, mode } from "@chakra-ui/theme-tools"
+import { getColor, mode } from "@chakra-xui/theme-tools"
 
 const parts = ["root", "tablist", "tab", "tabpanel", "indicator"]
 

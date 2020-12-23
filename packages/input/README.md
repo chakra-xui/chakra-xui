@@ -5,11 +5,11 @@ Input component is a component that is used to get user input in a text field.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/input
+yarn add @chakra-xui/input
 
 # or
 
-npm i @chakra-ui/input
+npm i @chakra-xui/input
 ```
 
 ## Import components
@@ -24,7 +24,7 @@ import {
   InputElement,
   InputLeftElement,
   InputRightElement,
-} from "@chakra-ui/input"
+} from "@chakra-xui/input"
 ```
 
 ## Usage

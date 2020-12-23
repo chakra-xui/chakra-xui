@@ -70,15 +70,15 @@ working on. You can run `build`, `test`, `lint` commands.
 Since we're using lerna monorepo + yarn workspaces by default, this enables us
 to run commands within component packages directly from the root.
 
-Each component is named this way: `@chakra-ui/[component]`. Let's say we want to
-build the button component. Here's how to do it:
+Each component is named this way: `@chakra-xui/[component]`. Let's say we want
+to build the button component. Here's how to do it:
 
 ```bash
-yarn workspace @chakra-ui/button build
+yarn workspace @chakra-xui/button build
 
 # or
 
-lerna run build --scope @chakra-ui/button
+lerna run build --scope @chakra-xui/button
 ```
 
 **Shortcut:** To make this shorter and more convenient, we've added an alias for

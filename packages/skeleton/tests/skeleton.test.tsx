@@ -1,6 +1,6 @@
 import * as React from "react"
-import { ThemeProvider } from "@chakra-ui/system"
-import { render } from "@chakra-ui/test-utils"
+import { ThemeProvider } from "@chakra-xui/system"
+import { render } from "@chakra-xui/test-utils"
 import MatchMediaMock from "jest-matchmedia-mock"
 import { SkeletonText } from "../src"
 import { queries, theme } from "./test-data"

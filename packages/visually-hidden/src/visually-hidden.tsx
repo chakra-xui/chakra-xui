@@ -1,5 +1,5 @@
-import { chakra } from "@chakra-ui/system"
-import { __DEV__ } from "@chakra-ui/utils"
+import { chakra } from "@chakra-xui/system"
+import { __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 /**

@@ -1,4 +1,4 @@
-import { fromEntries } from "@chakra-ui/utils"
+import { fromEntries } from "@chakra-xui/utils"
 
 export interface BaseBreakpointConfig extends Record<string, string> {
   sm: string

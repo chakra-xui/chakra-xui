@@ -6,11 +6,11 @@ React component that adds support for light mode and dark mode using
 ## Installation
 
 ```sh
-yarn add @chakra-ui/color-mode
+yarn add @chakra-xui/color-mode
 
 # or
 
-npm i @chakra-ui/color-mode
+npm i @chakra-xui/color-mode
 ```
 
 ## Import component
@@ -20,7 +20,7 @@ To enable this behavior within your apps, wrap your application in a
 
 ```jsx live=false
 import * as React from "react"
-import { ColorModeProvider } from "@chakra-ui/color-mode"
+import { ColorModeProvider } from "@chakra-xui/color-mode"
 import theme from "./theme"
 
 function App({ children }) {

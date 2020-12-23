@@ -7,10 +7,10 @@
 - Updated dependencies
   [[`5bff79a1`](https://github.com/chakra-ui/chakra-ui/commit/5bff79a1ba6989d279fc432d5040c72cd75b392e),
   [`e73878ee`](https://github.com/chakra-ui/chakra-ui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5)]:
-  - @chakra-ui/react@1.0.4
-  - @chakra-ui/utils@1.0.2
-  - @chakra-ui/theme-tools@1.0.2
-  - @chakra-ui/props-docs@1.0.4
+  - @chakra-xui/react@1.0.4
+  - @chakra-xui/utils@1.0.2
+  - @chakra-xui/theme-tools@1.0.2
+  - @chakra-xui/props-docs@1.0.4
 
 ## 1.0.3
 
@@ -22,8 +22,8 @@
 
 - Updated dependencies
   [[`0d0ed051`](https://github.com/chakra-ui/chakra-ui/commit/0d0ed0513ac1094833f1e0294f655af122682ff4)]:
-  - @chakra-ui/react@1.0.3
-  - @chakra-ui/props-docs@1.0.3
+  - @chakra-xui/react@1.0.3
+  - @chakra-xui/props-docs@1.0.3
 
 ## 1.0.2
 
@@ -40,8 +40,8 @@
 - Updated dependencies
   [[`3b4b5e32`](https://github.com/chakra-ui/chakra-ui/commit/3b4b5e32d2baa81133daa4eb3f1be53c3c99656c),
   [`cfd3b325`](https://github.com/chakra-ui/chakra-ui/commit/cfd3b32564066076529811c5350aff6be565b7a3)]:
-  - @chakra-ui/props-docs@1.0.2
-  - @chakra-ui/react@1.0.2
+  - @chakra-xui/props-docs@1.0.2
+  - @chakra-xui/react@1.0.2
 
 ## 1.0.1
 
@@ -49,17 +49,17 @@
 
 - Updated dependencies
   [[`5c482483`](https://github.com/chakra-ui/chakra-ui/commit/5c482483ce24fc798540c9792a15e06772eae213)]:
-  - @chakra-ui/utils@1.0.1
-  - @chakra-ui/props-docs@1.0.1
-  - @chakra-ui/react@1.0.1
-  - @chakra-ui/theme-tools@1.0.1
+  - @chakra-xui/utils@1.0.1
+  - @chakra-xui/props-docs@1.0.1
+  - @chakra-xui/react@1.0.1
+  - @chakra-xui/theme-tools@1.0.1
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 # 1.0.0 (2020-11-13)
 
-**Note:** Version bump only for package @chakra-ui/docs
+**Note:** Version bump only for package @chakra-xui/docs
 
 # Change Log
 
@@ -81,23 +81,23 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.7 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/docs
+**Note:** Version bump only for package @chakra-xui/docs
 
 # 1.0.0-rc.6 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/docs
+**Note:** Version bump only for package @chakra-xui/docs
 
 # 1.0.0-rc.5 (2020-09-27)
 
-**Note:** Version bump only for package @chakra-ui/docs
+**Note:** Version bump only for package @chakra-xui/docs
 
 # 1.0.0-rc.4 (2020-09-25)
 
-**Note:** Version bump only for package @chakra-ui/docs
+**Note:** Version bump only for package @chakra-xui/docs
 
 # 1.0.0-rc.3 (2020-08-30)
 
-**Note:** Version bump only for package @chakra-ui/docs
+**Note:** Version bump only for package @chakra-xui/docs
 
 # Change Log
 
@@ -106,14 +106,14 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.2 (2020-08-09)
 
-**Note:** Version bump only for package @chakra-ui/docs
+**Note:** Version bump only for package @chakra-xui/docs
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/docs@1.0.0-rc.0...@chakra-ui/docs@1.0.0-rc.1) (2020-08-06)
+# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/docs@1.0.0-rc.0...@chakra-xui/docs@1.0.0-rc.1) (2020-08-06)
 
 ### Bug Fixes
 
@@ -146,16 +146,16 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/docs@1.0.0-next.7...@chakra-ui/docs@1.0.0-rc.0) (2020-07-26)
+# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/docs@1.0.0-next.7...@chakra-xui/docs@1.0.0-rc.0) (2020-07-26)
 
-**Note:** Version bump only for package @chakra-ui/docs
+**Note:** Version bump only for package @chakra-xui/docs
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/docs@1.0.0-next.6...@chakra-ui/docs@1.0.0-next.7) (2020-07-26)
+# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/docs@1.0.0-next.6...@chakra-xui/docs@1.0.0-next.7) (2020-07-26)
 
 ### Bug Fixes
 
@@ -171,16 +171,16 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/docs@1.0.0-next.5...@chakra-ui/docs@1.0.0-next.6) (2020-07-15)
+# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/docs@1.0.0-next.5...@chakra-xui/docs@1.0.0-next.6) (2020-07-15)
 
-**Note:** Version bump only for package @chakra-ui/docs
+**Note:** Version bump only for package @chakra-xui/docs
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/docs@0.6.0...@chakra-ui/docs@1.0.0-next.5) (2020-07-15)
+# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/docs@0.6.0...@chakra-xui/docs@1.0.0-next.5) (2020-07-15)
 
 ### Bug Fixes
 
@@ -205,7 +205,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.6.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/docs@0.5.0...@chakra-ui/docs@0.6.0) (2020-07-01)
+# [0.6.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/docs@0.5.0...@chakra-xui/docs@0.6.0) (2020-07-01)
 
 ### Bug Fixes
 

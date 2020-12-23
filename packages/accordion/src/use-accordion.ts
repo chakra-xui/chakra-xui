@@ -1,10 +1,10 @@
-import { useDescendant, useDescendants } from "@chakra-ui/descendant"
+import { useDescendant, useDescendants } from "@chakra-xui/descendant"
 import {
   useControllableState,
   useFocusEffect,
   useIds,
   useUnmountEffect,
-} from "@chakra-ui/hooks"
+} from "@chakra-xui/hooks"
 import {
   addItem,
   callAllHandlers,
@@ -19,7 +19,7 @@ import {
   PropGetter,
   removeItem,
   warn,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import { useCallback, useRef, useState } from "react"
 
 export type ExpandedIndex = number | number[]
@@ -151,9 +151,10 @@ interface AccordionContext extends Omit<UseAccordionReturn, "htmlProps"> {
   reduceMotion: boolean
 }
 
-const [AccordionProvider, useAccordionContext] = createContext<
-  AccordionContext
->({
+const [
+  AccordionProvider,
+  useAccordionContext,
+] = createContext<AccordionContext>({
   name: "AccordionContext",
   errorMessage:
     "useAccordionContext: `context` is undefined. Seems you forgot to wrap the accordion components in `<Accordion />`",

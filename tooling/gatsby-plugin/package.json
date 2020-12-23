@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-ui/gatsby-plugin",
+  "name": "@chakra-xui/gatsby-plugin",
   "version": "1.0.0",
   "description": "Drop-in Chakra UI support for Gatsby sites",
   "author": "Alex Luong <alex@alexluong.com>",
@@ -18,13 +18,13 @@
     "test": "jest --passWithNoTests"
   },
   "peerDependencies": {
-    "@chakra-ui/react": ">=1.0.0",
-    "@chakra-ui/theme": ">=1.0.0",
+    "@chakra-xui/react": ">=1.0.0",
+    "@chakra-xui/theme": ">=1.0.0",
     "gatsby": "^2.24.85"
   },
   "devDependencies": {
-    "@chakra-ui/react": "*",
-    "@chakra-ui/theme": "*",
+    "@chakra-xui/react": "*",
+    "@chakra-xui/theme": "*",
     "gatsby": "2.28.0"
   }
 }

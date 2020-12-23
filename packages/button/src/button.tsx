@@ -1,4 +1,4 @@
-import { Spinner } from "@chakra-ui/spinner"
+import { Spinner } from "@chakra-xui/spinner"
 import {
   chakra,
   forwardRef,
@@ -8,8 +8,8 @@ import {
   ThemingProps,
   useStyleConfig,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { cx, dataAttr, mergeWith, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, dataAttr, mergeWith, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import { useButtonGroup } from "./button-group"
 

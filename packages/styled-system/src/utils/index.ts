@@ -1,4 +1,4 @@
-import { get, getWithDefault, isNumber } from "@chakra-ui/utils"
+import { get, getWithDefault, isNumber } from "@chakra-xui/utils"
 import { ConfigStyle } from "@styled-system/core"
 import * as CSS from "csstype"
 import { positiveOrNegative } from "./positive-or-negative"

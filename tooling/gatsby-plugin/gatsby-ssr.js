@@ -1,5 +1,5 @@
 import React from "react"
-import { ColorModeScript } from "@chakra-ui/react"
+import { ColorModeScript } from "@chakra-xui/react"
 export { wrapRootElement } from "./gatsby-browser"
 
 export const onRenderBody = ({ setPreBodyComponents }) => {

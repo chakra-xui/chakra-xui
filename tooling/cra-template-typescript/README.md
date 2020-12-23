@@ -1,4 +1,4 @@
-# @chakra-ui/cra-template-typescript
+# @chakra-xui/cra-template-typescript
 
 This is the official Chakra+TypeScript template for
 [Create React App](https://github.com/facebook/create-react-app).
@@ -6,5 +6,5 @@ This is the official Chakra+TypeScript template for
 ## Usage
 
 ```sh
-npx create-react-app my-app --template @chakra-ui/typescript
+npx create-react-app my-app --template @chakra-xui/typescript
 ```

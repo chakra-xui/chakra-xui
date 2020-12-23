@@ -8,7 +8,7 @@ import {
   ListProps,
   Stack,
   useColorModeValue,
-} from "@chakra-ui/react"
+} from "@chakra-xui/react"
 import { useRouter } from "next/router"
 import * as React from "react"
 import { Routes } from "utils/get-route-context"

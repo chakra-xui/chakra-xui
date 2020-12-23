@@ -1,5 +1,5 @@
-import { useUpdateEffect } from "@chakra-ui/hooks"
-import { cx, warn, __DEV__ } from "@chakra-ui/utils"
+import { useUpdateEffect } from "@chakra-xui/hooks"
+import { cx, warn, __DEV__ } from "@chakra-xui/utils"
 import { AnimatePresence, HTMLMotionProps, motion } from "framer-motion"
 import * as React from "react"
 import { EASINGS, MotionVariants } from "./__utils"

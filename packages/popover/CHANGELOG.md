@@ -11,12 +11,12 @@
 - Updated dependencies
   [[`5bff79a1`](https://github.com/chakra-ui/chakra-ui/commit/5bff79a1ba6989d279fc432d5040c72cd75b392e),
   [`e73878ee`](https://github.com/chakra-ui/chakra-ui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5)]:
-  - @chakra-ui/transition@1.0.3
-  - @chakra-ui/utils@1.0.2
-  - @chakra-ui/close-button@1.0.3
-  - @chakra-ui/hooks@1.0.2
-  - @chakra-ui/popper@1.0.2
-  - @chakra-ui/portal@1.0.2
+  - @chakra-xui/transition@1.0.3
+  - @chakra-xui/utils@1.0.2
+  - @chakra-xui/close-button@1.0.3
+  - @chakra-xui/hooks@1.0.2
+  - @chakra-xui/popper@1.0.2
+  - @chakra-xui/portal@1.0.2
 
 ## 1.0.3
 
@@ -24,7 +24,7 @@
 
 - Updated dependencies
   [[`72bbd0db`](https://github.com/chakra-ui/chakra-ui/commit/72bbd0dbb913ba38ee2b9191d12bf73713ae4398)]:
-  - @chakra-ui/close-button@1.0.2
+  - @chakra-xui/close-button@1.0.2
 
 ## 1.0.2
 
@@ -32,7 +32,7 @@
 
 - Updated dependencies
   [[`2416cf9a`](https://github.com/chakra-ui/chakra-ui/commit/2416cf9abe183a3a38adbccff794088d86a46341)]:
-  - @chakra-ui/transition@1.0.2
+  - @chakra-xui/transition@1.0.2
 
 ## 1.0.1
 
@@ -41,19 +41,19 @@
 - Updated dependencies
   [[`5c482483`](https://github.com/chakra-ui/chakra-ui/commit/5c482483ce24fc798540c9792a15e06772eae213),
   [`204ff7e3`](https://github.com/chakra-ui/chakra-ui/commit/204ff7e39dd37003786194704b36069ef94d56a6)]:
-  - @chakra-ui/utils@1.0.1
-  - @chakra-ui/hooks@1.0.1
-  - @chakra-ui/close-button@1.0.1
-  - @chakra-ui/popper@1.0.1
-  - @chakra-ui/portal@1.0.1
-  - @chakra-ui/transition@1.0.1
+  - @chakra-xui/utils@1.0.1
+  - @chakra-xui/hooks@1.0.1
+  - @chakra-xui/close-button@1.0.1
+  - @chakra-xui/popper@1.0.1
+  - @chakra-xui/portal@1.0.1
+  - @chakra-xui/transition@1.0.1
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 # 1.0.0 (2020-11-13)
 
-**Note:** Version bump only for package @chakra-ui/popover
+**Note:** Version bump only for package @chakra-xui/popover
 
 # Change Log
 
@@ -75,23 +75,23 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.7 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/popover
+**Note:** Version bump only for package @chakra-xui/popover
 
 # 1.0.0-rc.6 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/popover
+**Note:** Version bump only for package @chakra-xui/popover
 
 # 1.0.0-rc.5 (2020-09-27)
 
-**Note:** Version bump only for package @chakra-ui/popover
+**Note:** Version bump only for package @chakra-xui/popover
 
 # 1.0.0-rc.4 (2020-09-25)
 
-**Note:** Version bump only for package @chakra-ui/popover
+**Note:** Version bump only for package @chakra-xui/popover
 
 # 1.0.0-rc.3 (2020-08-30)
 
-**Note:** Version bump only for package @chakra-ui/popover
+**Note:** Version bump only for package @chakra-xui/popover
 
 # Change Log
 
@@ -100,14 +100,14 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.2 (2020-08-09)
 
-**Note:** Version bump only for package @chakra-ui/popover
+**Note:** Version bump only for package @chakra-xui/popover
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/popover@1.0.0-rc.0...@chakra-ui/popover@1.0.0-rc.1) (2020-08-06)
+# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/popover@1.0.0-rc.0...@chakra-xui/popover@1.0.0-rc.1) (2020-08-06)
 
 ### Bug Fixes
 
@@ -121,16 +121,16 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/popover@1.0.0-next.7...@chakra-ui/popover@1.0.0-rc.0) (2020-07-26)
+# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/popover@1.0.0-next.7...@chakra-xui/popover@1.0.0-rc.0) (2020-07-26)
 
-**Note:** Version bump only for package @chakra-ui/popover
+**Note:** Version bump only for package @chakra-xui/popover
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/popover@1.0.0-next.6...@chakra-ui/popover@1.0.0-next.7) (2020-07-26)
+# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/popover@1.0.0-next.6...@chakra-xui/popover@1.0.0-next.7) (2020-07-26)
 
 ### Features
 
@@ -144,16 +144,16 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/popover@1.0.0-next.5...@chakra-ui/popover@1.0.0-next.6) (2020-07-15)
+# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/popover@1.0.0-next.5...@chakra-xui/popover@1.0.0-next.6) (2020-07-15)
 
-**Note:** Version bump only for package @chakra-ui/popover
+**Note:** Version bump only for package @chakra-xui/popover
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/popover@1.0.0-next.4...@chakra-ui/popover@1.0.0-next.5) (2020-07-15)
+# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/popover@1.0.0-next.4...@chakra-xui/popover@1.0.0-next.5) (2020-07-15)
 
 ### Bug Fixes
 

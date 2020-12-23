@@ -6,7 +6,7 @@ import {
   screen,
   fireEvent,
   userEvent,
-} from "@chakra-ui/test-utils"
+} from "@chakra-xui/test-utils"
 import { useControllableState } from "../src"
 
 test("should be uncontrolled when defaultValue is passed", () => {

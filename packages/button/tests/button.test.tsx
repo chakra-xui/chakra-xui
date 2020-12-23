@@ -1,6 +1,6 @@
 import * as React from "react"
-import { render, testA11y, screen } from "@chakra-ui/test-utils"
-import { EmailIcon, ArrowForwardIcon } from "@chakra-ui/icons"
+import { render, testA11y, screen } from "@chakra-xui/test-utils"
+import { EmailIcon, ArrowForwardIcon } from "@chakra-xui/icons"
 import { Button, ButtonGroup } from "../src"
 
 test("matches snapshot", () => {

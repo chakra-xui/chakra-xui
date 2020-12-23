@@ -1,4 +1,4 @@
-import { isNumber, isCustomBreakpoint, StringOrNumber } from "@chakra-ui/utils"
+import { isNumber, isCustomBreakpoint, StringOrNumber } from "@chakra-xui/utils"
 
 function createMediaQueries(breakpoints: string[]): MediaQuery[] {
   /**

@@ -1,4 +1,4 @@
-import { Icon, IconProps } from "@chakra-ui/icon"
+import { Icon, IconProps } from "@chakra-xui/icon"
 import {
   chakra,
   forwardRef,
@@ -8,9 +8,9 @@ import {
   useMultiStyleConfig,
   useStyles,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { cx, __DEV__ } from "@chakra-ui/utils"
-import { VisuallyHidden } from "@chakra-ui/visually-hidden"
+} from "@chakra-xui/system"
+import { cx, __DEV__ } from "@chakra-xui/utils"
+import { VisuallyHidden } from "@chakra-xui/visually-hidden"
 import * as React from "react"
 
 export interface StatLabelProps extends HTMLChakraProps<"dt"> {}

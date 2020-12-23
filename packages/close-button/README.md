@@ -7,17 +7,17 @@ Drawers and Modals.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/close-button
+yarn add @chakra-xui/close-button
 
 # or
 
-npm i @chakra-ui/close-button
+npm i @chakra-xui/close-button
 ```
 
 ## Import component
 
 ```jsx
-import { CloseButton } from "@chakra-ui/close-button"
+import { CloseButton } from "@chakra-xui/close-button"
 ```
 
 ## Usage

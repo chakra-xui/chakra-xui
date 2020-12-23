@@ -1,4 +1,4 @@
-import { useControllableState, useUpdateEffect } from "@chakra-ui/hooks"
+import { useControllableState, useUpdateEffect } from "@chakra-xui/hooks"
 import {
   ariaAttr,
   callAllHandlers,
@@ -7,7 +7,7 @@ import {
   mergeRefs,
   normalizeEventKey,
   PropGetter,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import { ChangeEvent, useCallback, useRef, useState } from "react"
 
 export interface UseEditableProps {

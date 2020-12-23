@@ -6,19 +6,19 @@ software.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/live-region
+yarn add @chakra-xui/live-region
 ```
 
 ## Import components
 
 ```jsx
-import { LiveRegion, useLiveRegion } from "@chakra-ui/live-region"
+import { LiveRegion, useLiveRegion } from "@chakra-xui/live-region"
 ```
 
 ## Usage
 
 ```jsx
-import { useLiveRegion } from "@chakra-ui/live-region"
+import { useLiveRegion } from "@chakra-xui/live-region"
 
 function Example() {
   const region = useLiveRegion()

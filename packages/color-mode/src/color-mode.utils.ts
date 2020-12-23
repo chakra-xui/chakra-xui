@@ -1,4 +1,4 @@
-import { isBrowser, noop } from "@chakra-ui/utils"
+import { isBrowser, noop } from "@chakra-xui/utils"
 
 const classNames = {
   light: "chakra-ui-light",

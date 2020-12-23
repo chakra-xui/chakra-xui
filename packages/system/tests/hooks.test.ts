@@ -1,4 +1,4 @@
-import { renderHook } from "@chakra-ui/test-utils"
+import { renderHook } from "@chakra-xui/test-utils"
 import { useToken } from "../src"
 import * as system from "../src/providers"
 

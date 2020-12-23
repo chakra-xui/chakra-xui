@@ -1,5 +1,5 @@
-import { keyframes } from "@chakra-ui/system"
-import { isFunction, valueToPercent } from "@chakra-ui/utils"
+import { keyframes } from "@chakra-xui/system"
+import { isFunction, valueToPercent } from "@chakra-xui/utils"
 
 type Keyframe = ReturnType<typeof keyframes>
 

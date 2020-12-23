@@ -1,4 +1,4 @@
-import { chakra, PropsOf } from "@chakra-ui/system"
+import { chakra, PropsOf } from "@chakra-xui/system"
 import { AnimatePresence, motion } from "framer-motion"
 import * as React from "react"
 

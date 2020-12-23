@@ -8,8 +8,8 @@ import {
   useStyles,
   useTheme,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { cx, mapResponsive, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, mapResponsive, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 export interface WrapProps extends HTMLChakraProps<"div"> {

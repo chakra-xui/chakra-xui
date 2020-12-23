@@ -1,4 +1,4 @@
-import { SearchIcon } from "@chakra-ui/icons"
+import { SearchIcon } from "@chakra-xui/icons"
 import {
   chakra,
   HStack,
@@ -8,7 +8,7 @@ import {
   Text,
   useColorModeValue,
   VisuallyHidden,
-} from "@chakra-ui/react"
+} from "@chakra-xui/react"
 import { DocSearchModal, useDocSearchKeyboardEvents } from "@docsearch/react"
 import { startsWith } from "lodash/fp"
 import Head from "next/head"

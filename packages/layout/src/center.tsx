@@ -1,5 +1,5 @@
-import { chakra, HTMLChakraProps } from "@chakra-ui/system"
-import { __DEV__ } from "@chakra-ui/utils"
+import { chakra, HTMLChakraProps } from "@chakra-xui/system"
+import { __DEV__ } from "@chakra-xui/utils"
 
 export interface CenterProps extends HTMLChakraProps<"div"> {}
 

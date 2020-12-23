@@ -6,7 +6,7 @@ a reference.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/popper
+yarn add @chakra-xui/popper
 ```
 
 ## Basic usage
@@ -50,8 +50,8 @@ popper and transition to different elements.
 
 ```jsx
 // 1. Import components
-import { useDisclosure } from "@chakra-ui/hooks"
-import { usePopper } from "@chakra-ui/popper"
+import { useDisclosure } from "@chakra-xui/hooks"
+import { usePopper } from "@chakra-xui/popper"
 import { motion, AnimatePresence } from "framer-motion"
 
 export function Example() {

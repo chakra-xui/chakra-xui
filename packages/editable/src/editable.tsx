@@ -8,14 +8,14 @@ import {
   useMultiStyleConfig,
   useStyles,
   HTMLChakraProps,
-} from "@chakra-ui/system"
+} from "@chakra-xui/system"
 import {
   createContext,
   cx,
   MaybeRenderProp,
   runIfFn,
   __DEV__,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import * as React from "react"
 import {
   useEditable,

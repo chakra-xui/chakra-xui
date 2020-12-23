@@ -15,10 +15,10 @@
   [`123aaf59`](https://github.com/chakra-ui/chakra-ui/commit/123aaf59a60aaae269e2a305730a650a112c0975),
   [`e73878ee`](https://github.com/chakra-ui/chakra-ui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5),
   [`29c0e45e`](https://github.com/chakra-ui/chakra-ui/commit/29c0e45efb9f8f37dc2e81b56c08e2f1cedeb621)]:
-  - @chakra-ui/form-control@1.1.0
-  - @chakra-ui/utils@1.0.2
-  - @chakra-ui/visually-hidden@1.0.2
-  - @chakra-ui/hooks@1.0.2
+  - @chakra-xui/form-control@1.1.0
+  - @chakra-xui/utils@1.0.2
+  - @chakra-xui/visually-hidden@1.0.2
+  - @chakra-xui/hooks@1.0.2
 
 ## 1.0.2
 
@@ -31,7 +31,7 @@
   similar to `Input` and `Select`.
 - Updated dependencies
   [[`ff10bcec`](https://github.com/chakra-ui/chakra-ui/commit/ff10bceca5774769766eef3a6812a22f387dd58d)]:
-  - @chakra-ui/form-control@1.0.2
+  - @chakra-xui/form-control@1.0.2
 
 ## 1.0.1
 
@@ -40,16 +40,16 @@
 - Updated dependencies
   [[`5c482483`](https://github.com/chakra-ui/chakra-ui/commit/5c482483ce24fc798540c9792a15e06772eae213),
   [`204ff7e3`](https://github.com/chakra-ui/chakra-ui/commit/204ff7e39dd37003786194704b36069ef94d56a6)]:
-  - @chakra-ui/utils@1.0.1
-  - @chakra-ui/hooks@1.0.1
-  - @chakra-ui/visually-hidden@1.0.1
+  - @chakra-xui/utils@1.0.1
+  - @chakra-xui/hooks@1.0.1
+  - @chakra-xui/visually-hidden@1.0.1
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 # 1.0.0 (2020-11-13)
 
-**Note:** Version bump only for package @chakra-ui/radio
+**Note:** Version bump only for package @chakra-xui/radio
 
 # Change Log
 
@@ -71,23 +71,23 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.7 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/radio
+**Note:** Version bump only for package @chakra-xui/radio
 
 # 1.0.0-rc.6 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/radio
+**Note:** Version bump only for package @chakra-xui/radio
 
 # 1.0.0-rc.5 (2020-09-27)
 
-**Note:** Version bump only for package @chakra-ui/radio
+**Note:** Version bump only for package @chakra-xui/radio
 
 # 1.0.0-rc.4 (2020-09-25)
 
-**Note:** Version bump only for package @chakra-ui/radio
+**Note:** Version bump only for package @chakra-xui/radio
 
 # 1.0.0-rc.3 (2020-08-30)
 
-**Note:** Version bump only for package @chakra-ui/radio
+**Note:** Version bump only for package @chakra-xui/radio
 
 # Change Log
 
@@ -96,14 +96,14 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.2 (2020-08-09)
 
-**Note:** Version bump only for package @chakra-ui/radio
+**Note:** Version bump only for package @chakra-xui/radio
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/radio@1.0.0-rc.0...@chakra-ui/radio@1.0.0-rc.1) (2020-08-06)
+# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/radio@1.0.0-rc.0...@chakra-xui/radio@1.0.0-rc.1) (2020-08-06)
 
 ### Bug Fixes
 
@@ -119,36 +119,36 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/radio@1.0.0-next.7...@chakra-ui/radio@1.0.0-rc.0) (2020-07-26)
+# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/radio@1.0.0-next.7...@chakra-xui/radio@1.0.0-rc.0) (2020-07-26)
 
-**Note:** Version bump only for package @chakra-ui/radio
-
-# Change Log
-
-All notable changes to this project will be documented in this file. See
-[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
-
-# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/radio@1.0.0-next.6...@chakra-ui/radio@1.0.0-next.7) (2020-07-26)
-
-**Note:** Version bump only for package @chakra-ui/radio
+**Note:** Version bump only for package @chakra-xui/radio
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/radio@1.0.0-next.5...@chakra-ui/radio@1.0.0-next.6) (2020-07-15)
+# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/radio@1.0.0-next.6...@chakra-xui/radio@1.0.0-next.7) (2020-07-26)
 
-**Note:** Version bump only for package @chakra-ui/radio
+**Note:** Version bump only for package @chakra-xui/radio
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/radio@1.0.0-next.4...@chakra-ui/radio@1.0.0-next.5) (2020-07-15)
+# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/radio@1.0.0-next.5...@chakra-xui/radio@1.0.0-next.6) (2020-07-15)
 
-**Note:** Version bump only for package @chakra-ui/radio
+**Note:** Version bump only for package @chakra-xui/radio
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/radio@1.0.0-next.4...@chakra-xui/radio@1.0.0-next.5) (2020-07-15)
+
+**Note:** Version bump only for package @chakra-xui/radio
 
 # Change Log
 

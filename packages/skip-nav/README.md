@@ -1,4 +1,4 @@
-# @chakra-ui/skip-nav
+# @chakra-xui/skip-nav
 
 Skip navigation link for screen reader and keyboard users. Because the main
 content is not usually the first thing in the document, it is valuable to
@@ -9,15 +9,15 @@ If the user does not navigate with the keyboard, they won't see the link.
 ## Install
 
 ```sh
-npm i @chakra-ui/skip-nav
+npm i @chakra-xui/skip-nav
 # or
-yarn add @chakra-ui/skip-nav
+yarn add @chakra-xui/skip-nav
 ```
 
 ## Import
 
 ```jsx
-import { SkipNavLink, SkipNavContent } from "@chakra-ui/skip-nav"
+import { SkipNavLink, SkipNavContent } from "@chakra-xui/skip-nav"
 ```
 
 ## Usage

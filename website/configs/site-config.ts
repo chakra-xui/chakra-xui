@@ -32,8 +32,8 @@ const siteConfig = {
       "Simple, Modular and Accessible UI Components for your React Applications.",
     siteUrl: "https://chakra-ui.com",
     twitter: {
-      handle: "@chakra-ui",
-      site: "@chakra-ui",
+      handle: "@chakra-xui",
+      site: "@chakra-xui",
       cardType: "summary_large_image",
     },
     openGraph: {

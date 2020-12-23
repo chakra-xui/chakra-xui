@@ -9,10 +9,10 @@
 <br>
 
 <p align="center">
-  <img alt="Bundle Size" src="https://badgen.net/bundlephobia/minzip/@chakra-ui/react"/>
+  <img alt="Bundle Size" src="https://badgen.net/bundlephobia/minzip/@chakra-xui/react"/>
   <img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/chakra-ui/chakra-ui.svg?logo=lgtm&logoWidth=18"/>
   <img alt="MIT License" src="https://img.shields.io/github/license/chakra-ui/chakra-ui"/>
-  <img alt="NPM Downloads" src="https://img.shields.io/npm/dm/@chakra-ui/react.svg?style=flat"/>
+  <img alt="NPM Downloads" src="https://img.shields.io/npm/dm/@chakra-xui/react.svg?style=flat"/>
   <img alt="Github Stars" src="https://badgen.net/github/stars/chakra-ui/chakra-ui" />
   <a href="https://discord.gg/yxpPm4q">
     <img alt="Discord" src="https://img.shields.io/discord/660863154703695893.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" />
@@ -90,14 +90,14 @@ link to your website.
 ## Installing Chakra UI
 
 To use Chakra UI components, all you need to do is install the
-`@chakra-ui/react` package and its peer dependencies:
+`@chakra-xui/react` package and its peer dependencies:
 
 ```sh
-$ yarn add @chakra-ui/react framer-motion
+$ yarn add @chakra-xui/react framer-motion
 
 # or
 
-$ npm install @chakra-ui/react framer-motion
+$ npm install @chakra-xui/react framer-motion
 ```
 
 ## Usage
@@ -105,10 +105,10 @@ $ npm install @chakra-ui/react framer-motion
 To start using the components, please follow these steps:
 
 1. Wrap your application with the `ChakraProvider` provided by
-   **@chakra-ui/react**.
+   **@chakra-xui/react**.
 
 ```jsx
-import { ChakraProvider } from "@chakra-ui/react"
+import { ChakraProvider } from "@chakra-xui/react"
 
 // Do this at the root of your application
 function App({ children }) {
@@ -122,7 +122,7 @@ can toggle between light and dark mode within your app.
 2. Now you can start using components like so!:
 
 ```jsx
-import { Button } from "@chakra-ui/react"
+import { Button } from "@chakra-xui/react"
 
 function Example() {
   return <Button>I just consumed some ⚡️Chakra!</Button>
@@ -386,6 +386,7 @@ Thanks goes to these wonderful people
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ([emoji key](https://allcontributors.org/docs/en/emoji-key)):

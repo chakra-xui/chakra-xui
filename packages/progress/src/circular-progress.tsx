@@ -1,5 +1,5 @@
-import { chakra, SystemStyleObject, HTMLChakraProps } from "@chakra-ui/system"
-import { isUndefined, StringOrNumber, __DEV__ } from "@chakra-ui/utils"
+import { chakra, SystemStyleObject, HTMLChakraProps } from "@chakra-xui/system"
+import { isUndefined, StringOrNumber, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import { getProgressProps, rotate, spin } from "./progress.utils"
 

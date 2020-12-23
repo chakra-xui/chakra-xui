@@ -6,7 +6,7 @@ import {
   useEditableControls,
 } from "../src/editable"
 import { useEditable } from "../src"
-import { chakra } from "@chakra-ui/system"
+import { chakra } from "@chakra-xui/system"
 
 export default {
   title: "Editable",

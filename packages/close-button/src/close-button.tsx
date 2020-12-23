@@ -1,4 +1,4 @@
-import { Icon, IconProps } from "@chakra-ui/icon"
+import { Icon, IconProps } from "@chakra-xui/icon"
 import {
   chakra,
   forwardRef,
@@ -7,8 +7,8 @@ import {
   ThemingProps,
   useStyleConfig,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 const CloseIcon: React.FC<IconProps> = (props) => (

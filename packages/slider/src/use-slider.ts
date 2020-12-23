@@ -7,7 +7,7 @@ import {
   useIds,
   useUnmountEffect,
   useUpdateEffect,
-} from "@chakra-ui/hooks"
+} from "@chakra-xui/hooks"
 import {
   ariaAttr,
   callAllHandlers,
@@ -25,7 +25,7 @@ import {
   PropGetter,
   roundValueToStep,
   valueToPercent,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import { CSSProperties, useCallback, useMemo, useRef, useState } from "react"
 
 export interface UseSliderProps {

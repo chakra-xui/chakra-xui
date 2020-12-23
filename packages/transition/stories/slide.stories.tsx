@@ -1,4 +1,4 @@
-import { useBoolean } from "@chakra-ui/hooks"
+import { useBoolean } from "@chakra-xui/hooks"
 import * as React from "react"
 import { Slide } from "../src/slide"
 

@@ -18,8 +18,8 @@ import {
   useColorModeValue,
   Wrap,
   WrapItem,
-} from "@chakra-ui/react"
-import { chunk } from "@chakra-ui/utils"
+} from "@chakra-xui/react"
+import { chunk } from "@chakra-xui/utils"
 import users from "chakra-users"
 import Container from "components/container"
 import DiscordStrip from "components/discord-strip"

@@ -1,10 +1,10 @@
-import { useCounter, UseCounterProps } from "@chakra-ui/counter"
-import { useFormControl } from "@chakra-ui/form-control"
+import { useCounter, UseCounterProps } from "@chakra-xui/counter"
+import { useFormControl } from "@chakra-xui/form-control"
 import {
   useBoolean,
   useEventListener,
   useSafeLayoutEffect,
-} from "@chakra-ui/hooks"
+} from "@chakra-xui/hooks"
 import {
   ariaAttr,
   callAllHandlers,
@@ -19,7 +19,7 @@ import {
   pick,
   PropGetter,
   StringOrNumber,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import * as React from "react"
 import { useSpinner } from "./use-spinner"
 import {
