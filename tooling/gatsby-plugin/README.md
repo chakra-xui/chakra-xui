@@ -1,10 +1,10 @@
 # @chakra-xui/gatsby-plugin
 
-Gatsby plugin for adding Chakra UI
+Gatsby plugin for adding Chakra xui
 
 ## Installation
 
-⚡ To use Chakra UI in your Gatsby site, you need to install the plugin and its
+⚡ To use Chakra xui in your Gatsby site, you need to install the plugin and its
 peer dependencies.
 
 ```sh
@@ -110,8 +110,8 @@ export default theme
 ```
 
 You can learn more about custom theme at
-[Chakra UI's documentation](https://chakra-ui.com/theme).
+[Chakra xui's documentation](https://chakra-xui.com/theme).
 
 By default, Chakra provides a sensible
-[default theme](https://github.com/chakra-ui/chakra-ui/tree/develop/packages/theme)
+[default theme](https://github.com/chakra-xui/chakra-xui/tree/develop/packages/theme)
 inspired by Tailwind CSS.

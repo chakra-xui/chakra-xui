@@ -1,5 +1,5 @@
 {
-  "name": "chakra-ui",
+  "name": "chakra-xui",
   "private": true,
   "workspaces": {
     "packages": [
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "author": "Segun Adebayo <sage@adebayosegun.com>",
   "license": "MIT",

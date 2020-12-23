@@ -1,17 +1,17 @@
 {
   "name": "@chakra-xui/css-reset",
   "version": "1.0.0",
-  "description": "CSS reset component for Chakra UI",
+  "description": "CSS reset component for Chakra xui",
   "keywords": [
     "theme",
     "theming",
     "ui mode",
-    "chakra ui",
+    "chakra xui",
     "css reset"
   ],
   "sideEffects": false,
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -31,10 +31,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",

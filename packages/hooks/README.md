@@ -1,6 +1,6 @@
 # @chakra-xui/hooks
 
-A collection of React Hooks for Chakra UI components.
+A collection of React Hooks for Chakra xui components.
 
 ## Installation
 

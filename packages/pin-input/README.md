@@ -27,8 +27,8 @@ import {
 
 ## Usage
 
-Chakra UI exports two primary components, `PinInput` and `PinInputField` to
-compose a PinInput component. Chakra UI also provides hooks to can create a
+Chakra xui exports two primary components, `PinInput` and `PinInputField` to
+compose a PinInput component. Chakra xui also provides hooks to can create a
 custom PinInput component.
 
 ```jsx

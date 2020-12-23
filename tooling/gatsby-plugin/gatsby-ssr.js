@@ -3,5 +3,5 @@ import { ColorModeScript } from "@chakra-xui/react"
 export { wrapRootElement } from "./gatsby-browser"
 
 export const onRenderBody = ({ setPreBodyComponents }) => {
-  setPreBodyComponents([<ColorModeScript key="chakra-ui-no-flash" />])
+  setPreBodyComponents([<ColorModeScript key="chakra-xui-no-flash" />])
 }

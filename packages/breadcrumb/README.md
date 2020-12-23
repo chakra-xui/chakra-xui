@@ -15,7 +15,7 @@ npm i @chakra-xui/breadcrumb
 
 ## Import components
 
-Chakra UI exports 3 breadcrumb related components:
+Chakra xui exports 3 breadcrumb related components:
 
 - `Breadcrumb`: The parent container for breadcrumbs.
 - `BreadcrumbItem`: Individual breadcrumb element containing a link and a

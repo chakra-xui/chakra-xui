@@ -57,7 +57,7 @@ function HeaderContent() {
       <Flex w="100%" h="100%" px="6" align="center" justify="space-between">
         <Flex align="center">
           <NextLink href="/" passHref>
-            <chakra.a display="block" aria-label="Chakra UI, Back to homepage">
+            <chakra.a display="block" aria-label="Chakra xui, Back to homepage">
               <Logo />
             </chakra.a>
           </NextLink>
@@ -75,7 +75,7 @@ function HeaderContent() {
           <HStack spacing="5" display={{ base: "none", md: "flex" }}>
             <Link
               isExternal
-              aria-label="Go to Chakra UI GitHub page"
+              aria-label="Go to Chakra xui GitHub page"
               href={siteConfig.repo.url}
             >
               <Icon
@@ -88,7 +88,7 @@ function HeaderContent() {
             </Link>
             <Link
               isExternal
-              aria-label="Go to Chakra UI Discord page"
+              aria-label="Go to Chakra xui Discord page"
               href={siteConfig.discord.url}
             >
               <Icon

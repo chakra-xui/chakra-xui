@@ -18,7 +18,7 @@ const theme = extendTheme({
   },
 })
 
-// see https://github.com/chakra-ui/chakra-ui/issues/2464
+// see https://github.com/chakra-xui/chakra-xui/issues/2464
 export const withVariant = () => (
   <ChakraProvider theme={theme}>
     <Text variant="customCaps">
@@ -27,7 +27,7 @@ export const withVariant = () => (
   </ChakraProvider>
 )
 
-// see https://github.com/chakra-ui/chakra-ui/issues/2464
+// see https://github.com/chakra-xui/chakra-xui/issues/2464
 export const overrideVariant = () => (
   <ChakraProvider theme={theme}>
     <Text variant="customCaps" casing="lowercase">

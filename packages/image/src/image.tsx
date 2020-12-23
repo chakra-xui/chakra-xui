@@ -80,7 +80,7 @@ export interface ImageProps
  * React component that renders an image with support
  * for fallbacks
  *
- * @see Docs https://chakra-ui.com/docs/data-display/image
+ * @see Docs https://chakra-xui.com/docs/data-display/image
  */
 export const Image = forwardRef<ImageProps, "img">((props, ref) => {
   const {
@@ -97,7 +97,7 @@ export const Image = forwardRef<ImageProps, "img">((props, ref) => {
 
   /**
    * Defer to native `img` tag if `loading` prop is passed
-   * @see https://github.com/chakra-ui/chakra-ui/issues/1027
+   * @see https://github.com/chakra-xui/chakra-xui/issues/1027
    */
   const shouldIgnore = loading != null || ignoreFallback
 

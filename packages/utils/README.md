@@ -1,8 +1,8 @@
 # Utilities
 
-Shared utilities for various Chakra UI components
+Shared utilities for various Chakra xui components
 
-> **Note **: This package is intended for internal use by the Chakra UI
+> **Note **: This package is intended for internal use by the Chakra xui
 > components.
 
 ## Installation

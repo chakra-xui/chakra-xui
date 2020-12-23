@@ -23,7 +23,7 @@ const allPropNames = new Set([
  * htmlWidth and htmlHeight is used in the <Image />
  * component to support the native `width` and `height` attributes
  *
- * https://github.com/chakra-ui/chakra-ui/issues/149
+ * https://github.com/chakra-xui/chakra-xui/issues/149
  */
 const validHTMLProps = new Set(["htmlWidth", "htmlHeight", "htmlSize"])
 

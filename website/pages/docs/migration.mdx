@@ -1,20 +1,20 @@
 ---
 title: Upgrading to v1
-description: How to upgrade your existing Chakra UI projects to v1.0
+description: How to upgrade your existing Chakra xui projects to v1.0
 ---
 
-Chakra UI v1.0 is focused on improving the ideas and concepts from v0.8 to make
+Chakra xui v1.0 is focused on improving the ideas and concepts from v0.8 to make
 it even easier to create, theme and extend components.
 
 While there are quite a number of new features we've added, we focused on making
-Chakra UI a stable base to build your own design systems on top of. In the end,
-we want make you feel more confident using Chakra UI in production.
+Chakra xui a stable base to build your own design systems on top of. In the end,
+we want make you feel more confident using Chakra xui in production.
 
 ---
 
 ## Highlights
 
-**Theming API:** Chakra UI now provides a new theming API which makes it easy to
+**Theming API:** Chakra xui now provides a new theming API which makes it easy to
 style components and their modifiers (sizes, variants, and color scheme) from
 your theme.
 
@@ -71,7 +71,7 @@ fix it.
 }
 ```
 
-> Please note that when using Chakra UI in a TypeScript project, a minimum
+> Please note that when using Chakra xui in a TypeScript project, a minimum
 > TypeScript version of `3.8.0` is required.
 
 #### Notes on Icons
@@ -293,7 +293,7 @@ errors, and reduces unused icons bloating your app.**
 
 - Removed negative side margins on `leftIcon` and `rightIcon` elements. We
   believe the user should handle these side margins.
-  [#1024](https://github.com/chakra-ui/chakra-ui/issues/1024)
+  [#1024](https://github.com/chakra-xui/chakra-xui/issues/1024)
 
 ### Checkbox
 
@@ -371,14 +371,14 @@ Here's how to add it for Gatsby:
 
 ## Changes
 
-- The Gatsby plugin has been renamed from `gatsby-plugin-chakra-ui` to
+- The Gatsby plugin has been renamed from `gatsby-plugin-chakra-xui` to
   `@chakra-xui/gatsby-plugin`. Please make sure to have updated this when
-  installing Chakra UI in your next Gatsby project.
+  installing Chakra xui in your next Gatsby project.
 
 ```jsx live=false
 // gatsby-ssr.js
 export const onRenderBody = ({ setPreBodyComponents }) => {
-  setPreBodyComponents([<ColorModeScript key="chakra-ui-no-flash" />])
+  setPreBodyComponents([<ColorModeScript key="chakra-xui-no-flash" />])
 }
 ```
 
@@ -769,7 +769,7 @@ import "focus-visible/dist/focus-visible"
 + const { isOpen, onToggle } = useDisclosure({defaultIsOpen: true});
 ```
 
-**That's it! Welcome to Chakra UI v1 🥳.**
+**That's it! Welcome to Chakra xui v1 🥳.**
 
 > If you still experience issues after migrating, feel free to create an issue
 > or join our Discord chat here: https://discord.gg/dQHfcWF

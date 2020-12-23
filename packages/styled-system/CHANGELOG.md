@@ -4,7 +4,7 @@
 
 ### Minor Changes
 
-- [`609ac595`](https://github.com/chakra-ui/chakra-ui/commit/609ac595568799c9f2c38ccbc9ef44fdc7393baa)
+- [`609ac595`](https://github.com/chakra-xui/chakra-xui/commit/609ac595568799c9f2c38ccbc9ef44fdc7393baa)
   Thanks [@segunadebayo](https://github.com/segunadebayo)! - ## 📝 Description
 
   Adds support for CSS logical properties and `direction` in the theme for
@@ -56,15 +56,15 @@
 ### Patch Changes
 
 - Updated dependencies
-  [[`e73878ee`](https://github.com/chakra-ui/chakra-ui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5)]:
+  [[`e73878ee`](https://github.com/chakra-xui/chakra-xui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5)]:
   - @chakra-xui/utils@1.0.2
 
 ## 1.1.1
 
 ### Patch Changes
 
-- [`127baa0f`](https://github.com/chakra-ui/chakra-ui/commit/127baa0f1926bf1f8ace6f46cfdc08606fe9d347)
-  [#2702](https://github.com/chakra-ui/chakra-ui/pull/2702) Thanks
+- [`127baa0f`](https://github.com/chakra-xui/chakra-xui/commit/127baa0f1926bf1f8ace6f46cfdc08606fe9d347)
+  [#2702](https://github.com/chakra-xui/chakra-xui/pull/2702) Thanks
   [@terryyu](https://github.com/terryyu)! - fix style prop of shortcut
   definition, closes #2700
 
@@ -72,15 +72,15 @@
 
 ### Minor Changes
 
-- [`586ce3c1`](https://github.com/chakra-ui/chakra-ui/commit/586ce3c12bb3508027c36811233c539eeeb55256)
-  [#2504](https://github.com/chakra-ui/chakra-ui/pull/2504) Thanks
+- [`586ce3c1`](https://github.com/chakra-xui/chakra-xui/commit/586ce3c12bb3508027c36811233c539eeeb55256)
+  [#2504](https://github.com/chakra-xui/chakra-xui/pull/2504) Thanks
   [@Zaynex](https://github.com/Zaynex)! - - Add `filter` to styled props
   - This makes `filter` prop available to `_groupHover` utility as well
 
 ### Patch Changes
 
 - Updated dependencies
-  [[`5c482483`](https://github.com/chakra-ui/chakra-ui/commit/5c482483ce24fc798540c9792a15e06772eae213)]:
+  [[`5c482483`](https://github.com/chakra-xui/chakra-xui/commit/5c482483ce24fc798540c9792a15e06772eae213)]:
   - @chakra-xui/utils@1.0.1
 
 All notable changes to this project will be documented in this file. See
@@ -100,8 +100,8 @@ All notable changes to this project will be documented in this file. See
 ### Bug Fixes
 
 - **toast:** allow custom render in update
-  ([eb8bff9](https://github.com/chakra-ui/chakra-ui/commit/eb8bff911e6ec9de0165ab1e8f5ca10d5e022459)),
-  closes [#2362](https://github.com/chakra-ui/chakra-ui/issues/2362)
+  ([eb8bff9](https://github.com/chakra-xui/chakra-xui/commit/eb8bff911e6ec9de0165ab1e8f5ca10d5e022459)),
+  closes [#2362](https://github.com/chakra-xui/chakra-xui/issues/2362)
 
 # Change Log
 
@@ -142,21 +142,21 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/styled-system@1.0.0-rc.0...@chakra-xui/styled-system@1.0.0-rc.1) (2020-08-06)
+# [1.0.0-rc.1](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/styled-system@1.0.0-rc.0...@chakra-xui/styled-system@1.0.0-rc.1) (2020-08-06)
 
 ### Bug Fixes
 
 - types issue with styled system
-  ([470e14c](https://github.com/chakra-ui/chakra-ui/commit/470e14c3159898b43a54237091cf8ee707ed65a5))
+  ([470e14c](https://github.com/chakra-xui/chakra-xui/commit/470e14c3159898b43a54237091cf8ee707ed65a5))
 - **types:** resolve type export from styled-system pkg
-  ([0d3bd36](https://github.com/chakra-ui/chakra-ui/commit/0d3bd36d9c0dc6d94010625b49c501847ca2e165))
+  ([0d3bd36](https://github.com/chakra-xui/chakra-xui/commit/0d3bd36d9c0dc6d94010625b49c501847ca2e165))
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/styled-system@1.0.0-next.7...@chakra-xui/styled-system@1.0.0-rc.0) (2020-07-26)
+# [1.0.0-rc.0](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/styled-system@1.0.0-next.7...@chakra-xui/styled-system@1.0.0-rc.0) (2020-07-26)
 
 **Note:** Version bump only for package @chakra-xui/styled-system
 
@@ -165,26 +165,26 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/styled-system@1.0.0-next.6...@chakra-xui/styled-system@1.0.0-next.7) (2020-07-26)
+# [1.0.0-next.7](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/styled-system@1.0.0-next.6...@chakra-xui/styled-system@1.0.0-next.7) (2020-07-26)
 
 ### Bug Fixes
 
 - types issue with styled system core
-  ([fc8b8d8](https://github.com/chakra-ui/chakra-ui/commit/fc8b8d8c0daba140da959303df59230304d34f8a))
+  ([fc8b8d8](https://github.com/chakra-xui/chakra-xui/commit/fc8b8d8c0daba140da959303df59230304d34f8a))
 - undefined issue in styled utilies
-  ([42502d1](https://github.com/chakra-ui/chakra-ui/commit/42502d1f689f34fe672893104dc85d378e08a55a))
+  ([42502d1](https://github.com/chakra-xui/chakra-xui/commit/42502d1f689f34fe672893104dc85d378e08a55a))
 
 ### Reverts
 
 - breakpoint handling
-  ([f3ee5f1](https://github.com/chakra-ui/chakra-ui/commit/f3ee5f15c48da242c4d4d43de0dc67ff7664c81e))
+  ([f3ee5f1](https://github.com/chakra-xui/chakra-xui/commit/f3ee5f15c48da242c4d4d43de0dc67ff7664c81e))
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/styled-system@1.0.0-next.5...@chakra-xui/styled-system@1.0.0-next.6) (2020-07-15)
+# [1.0.0-next.6](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/styled-system@1.0.0-next.5...@chakra-xui/styled-system@1.0.0-next.6) (2020-07-15)
 
 **Note:** Version bump only for package @chakra-xui/styled-system
 
@@ -198,8 +198,8 @@ All notable changes to this project will be documented in this file. See
 ### Features
 
 - add support for css transition
-  ([a41614c](https://github.com/chakra-ui/chakra-ui/commit/a41614c8e9757e5d38ddef6a356d2d8c718f406f))
+  ([a41614c](https://github.com/chakra-xui/chakra-xui/commit/a41614c8e9757e5d38ddef6a356d2d8c718f406f))
 - add transition tokens
-  ([40c8b30](https://github.com/chakra-ui/chakra-ui/commit/40c8b30f0f0219a1ed673db97c4032e721f38e53))
+  ([40c8b30](https://github.com/chakra-xui/chakra-xui/commit/40c8b30f0f0219a1ed673db97c4032e721f38e53))
 - add transition tokens
-  ([5e190fa](https://github.com/chakra-ui/chakra-ui/commit/5e190fa70b41f6e0e063d3d68f0dd32adff754eb))
+  ([5e190fa](https://github.com/chakra-xui/chakra-xui/commit/5e190fa70b41f6e0e063d3d68f0dd32adff754eb))

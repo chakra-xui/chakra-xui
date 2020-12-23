@@ -1,8 +1,8 @@
 import { isBrowser, noop } from "@chakra-xui/utils"
 
 const classNames = {
-  light: "chakra-ui-light",
-  dark: "chakra-ui-dark",
+  light: "chakra-xui-light",
+  dark: "chakra-xui-dark",
 }
 
 export type ColorMode = "light" | "dark"
@@ -75,11 +75,14 @@ export function addListener(fn: Function) {
 export const root = {
   get: () =>
     document.documentElement.style.getPropertyValue(
-      "--chakra-ui-color-mode",
+      "--chakra-xui-color-mode",
     ) as ColorMode,
   set: (mode: ColorMode) => {
     if (isBrowser) {
-      document.documentElement.style.setProperty("--chakra-ui-color-mode", mode)
+      document.documentElement.style.setProperty(
+        "--chakra-xui-color-mode",
+        mode,
+      )
     }
   },
 }

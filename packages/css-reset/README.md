@@ -1,6 +1,6 @@
 # @chakra-xui/css-reset
 
-A CSS Reset component for Chakra UI components.
+A CSS Reset component for Chakra xui components.
 
 ## Installation
 

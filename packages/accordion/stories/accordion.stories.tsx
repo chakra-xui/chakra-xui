@@ -235,13 +235,13 @@ export const FocusBug = () => {
                     <AccordionIcon />
                   </AccordionButton>
                   <AccordionPanel pb={4}>
-                    <a href="https://chakra-ui.com/should-not-have-focus-if-panel-closed-1">
+                    <a href="https://chakra-xui.com/should-not-have-focus-if-panel-closed-1">
                       Chakra 1
                     </a>
-                    <a href="https://chakra-ui.com/should-not-have-focus-if-panel-closed-2">
+                    <a href="https://chakra-xui.com/should-not-have-focus-if-panel-closed-2">
                       Chakra 2
                     </a>
-                    <a href="https://chakra-ui.com/should-not-have-focus-if-panel-closed-3">
+                    <a href="https://chakra-xui.com/should-not-have-focus-if-panel-closed-3">
                       Chakra 3
                     </a>
                   </AccordionPanel>
@@ -255,13 +255,13 @@ export const FocusBug = () => {
                     <AccordionIcon />
                   </AccordionButton>
                   <AccordionPanel pb={4}>
-                    <a href="https://chakra-ui.com/should-not-have-focus-if-panel-closed-4">
+                    <a href="https://chakra-xui.com/should-not-have-focus-if-panel-closed-4">
                       Chakra 1
                     </a>
-                    <a href="https://chakra-ui.com/should-not-have-focus-if-panel-closed-5">
+                    <a href="https://chakra-xui.com/should-not-have-focus-if-panel-closed-5">
                       Chakra 2
                     </a>
-                    <a href="https://chakra-ui.com/should-not-have-focus-if-panel-closed-6">
+                    <a href="https://chakra-xui.com/should-not-have-focus-if-panel-closed-6">
                       Chakra 3
                     </a>
                   </AccordionPanel>

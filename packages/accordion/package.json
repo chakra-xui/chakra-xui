@@ -1,13 +1,13 @@
 {
   "name": "@chakra-xui/accordion",
   "version": "1.0.3",
-  "description": "A simple and accessible accordion component for React & Chakra UI",
+  "description": "A simple and accessible accordion component for React & Chakra xui",
   "keywords": [
     "react",
     "component",
     "accordion",
     "chakra",
-    "chakra ui",
+    "chakra xui",
     "collapse",
     "accessible",
     "accessibility",
@@ -16,7 +16,7 @@
     "a11y"
   ],
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -37,10 +37,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",

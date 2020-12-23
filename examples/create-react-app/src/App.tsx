@@ -15,7 +15,7 @@ function App() {
           </Text>
           <Link
             color="teal.500"
-            href="https://chakra-ui.com"
+            href="https://chakra-xui.com"
             fontSize="2xl"
             target="_blank"
             rel="noopener noreferrer"

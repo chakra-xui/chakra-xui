@@ -1,6 +1,6 @@
 # @chakra-xui/control-box
 
-Control Box component for Chakra UI.
+Control Box component for Chakra xui.
 
 ## Installation
 

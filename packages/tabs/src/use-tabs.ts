@@ -62,7 +62,7 @@ export interface UseTabsProps {
  * Its returned object will be passed unto a Context Provider
  * so all child components can read from it.
  * There is no document link yet
- * @see Docs https://chakra-ui.com/docs/components/useTabs
+ * @see Docs https://chakra-xui.com/docs/components/useTabs
  */
 export function useTabs(props: UseTabsProps) {
   const {

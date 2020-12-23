@@ -20,6 +20,6 @@ npm i @chakra-xui/skeleton
 
 ```jsx
 <Skeleton>
-  <span>Chakra ui is cool</span>
+  <span>Chakra xui is cool</span>
 </Skeleton>
 ```

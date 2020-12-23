@@ -4,13 +4,13 @@
 
 ### Patch Changes
 
-- [`5bff79a1`](https://github.com/chakra-ui/chakra-ui/commit/5bff79a1ba6989d279fc432d5040c72cd75b392e)
+- [`5bff79a1`](https://github.com/chakra-xui/chakra-xui/commit/5bff79a1ba6989d279fc432d5040c72cd75b392e)
   Thanks [@jmiazga](https://github.com/jmiazga)! - Updated framer-motion
   peerDependencies to v3
 
 - Updated dependencies
-  [[`5bff79a1`](https://github.com/chakra-ui/chakra-ui/commit/5bff79a1ba6989d279fc432d5040c72cd75b392e),
-  [`e73878ee`](https://github.com/chakra-ui/chakra-ui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5)]:
+  [[`5bff79a1`](https://github.com/chakra-xui/chakra-xui/commit/5bff79a1ba6989d279fc432d5040c72cd75b392e),
+  [`e73878ee`](https://github.com/chakra-xui/chakra-xui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5)]:
   - @chakra-xui/transition@1.0.3
   - @chakra-xui/utils@1.0.2
   - @chakra-xui/close-button@1.0.3
@@ -23,7 +23,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  [[`72bbd0db`](https://github.com/chakra-ui/chakra-ui/commit/72bbd0dbb913ba38ee2b9191d12bf73713ae4398)]:
+  [[`72bbd0db`](https://github.com/chakra-xui/chakra-xui/commit/72bbd0dbb913ba38ee2b9191d12bf73713ae4398)]:
   - @chakra-xui/close-button@1.0.2
 
 ## 1.0.2
@@ -31,7 +31,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  [[`2416cf9a`](https://github.com/chakra-ui/chakra-ui/commit/2416cf9abe183a3a38adbccff794088d86a46341)]:
+  [[`2416cf9a`](https://github.com/chakra-xui/chakra-xui/commit/2416cf9abe183a3a38adbccff794088d86a46341)]:
   - @chakra-xui/transition@1.0.2
 
 ## 1.0.1
@@ -39,8 +39,8 @@
 ### Patch Changes
 
 - Updated dependencies
-  [[`5c482483`](https://github.com/chakra-ui/chakra-ui/commit/5c482483ce24fc798540c9792a15e06772eae213),
-  [`204ff7e3`](https://github.com/chakra-ui/chakra-ui/commit/204ff7e39dd37003786194704b36069ef94d56a6)]:
+  [[`5c482483`](https://github.com/chakra-xui/chakra-xui/commit/5c482483ce24fc798540c9792a15e06772eae213),
+  [`204ff7e3`](https://github.com/chakra-xui/chakra-xui/commit/204ff7e39dd37003786194704b36069ef94d56a6)]:
   - @chakra-xui/utils@1.0.1
   - @chakra-xui/hooks@1.0.1
   - @chakra-xui/close-button@1.0.1
@@ -65,8 +65,8 @@ All notable changes to this project will be documented in this file. See
 ### Bug Fixes
 
 - **toast:** allow custom render in update
-  ([eb8bff9](https://github.com/chakra-ui/chakra-ui/commit/eb8bff911e6ec9de0165ab1e8f5ca10d5e022459)),
-  closes [#2362](https://github.com/chakra-ui/chakra-ui/issues/2362)
+  ([eb8bff9](https://github.com/chakra-xui/chakra-xui/commit/eb8bff911e6ec9de0165ab1e8f5ca10d5e022459)),
+  closes [#2362](https://github.com/chakra-xui/chakra-xui/issues/2362)
 
 # Change Log
 
@@ -107,21 +107,21 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/popover@1.0.0-rc.0...@chakra-xui/popover@1.0.0-rc.1) (2020-08-06)
+# [1.0.0-rc.1](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/popover@1.0.0-rc.0...@chakra-xui/popover@1.0.0-rc.1) (2020-08-06)
 
 ### Bug Fixes
 
 - **variables:** drop unused imports
-  ([552b2e9](https://github.com/chakra-ui/chakra-ui/commit/552b2e9b7510963db509a5724af5361ef07c8ecb))
+  ([552b2e9](https://github.com/chakra-xui/chakra-xui/commit/552b2e9b7510963db509a5724af5361ef07c8ecb))
 - stack key issue and yarn2 deps issue
-  ([d6cb6b8](https://github.com/chakra-ui/chakra-ui/commit/d6cb6b8fd964729efdf41b1e29c888a3c101316c))
+  ([d6cb6b8](https://github.com/chakra-xui/chakra-xui/commit/d6cb6b8fd964729efdf41b1e29c888a3c101316c))
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/popover@1.0.0-next.7...@chakra-xui/popover@1.0.0-rc.0) (2020-07-26)
+# [1.0.0-rc.0](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/popover@1.0.0-next.7...@chakra-xui/popover@1.0.0-rc.0) (2020-07-26)
 
 **Note:** Version bump only for package @chakra-xui/popover
 
@@ -130,21 +130,21 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/popover@1.0.0-next.6...@chakra-xui/popover@1.0.0-next.7) (2020-07-26)
+# [1.0.0-next.7](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/popover@1.0.0-next.6...@chakra-xui/popover@1.0.0-next.7) (2020-07-26)
 
 ### Features
 
 - add popover transition and merge props util
-  ([112ff7b](https://github.com/chakra-ui/chakra-ui/commit/112ff7b53d7618f9a1442efa2fb427491a5fc51c))
+  ([112ff7b](https://github.com/chakra-xui/chakra-xui/commit/112ff7b53d7618f9a1442efa2fb427491a5fc51c))
 - **popover:** add prop to defer rendering till popover is open
-  ([aac438c](https://github.com/chakra-ui/chakra-ui/commit/aac438cf21e5cd0a160048d8ae0c1a26b99fd1f4))
+  ([aac438c](https://github.com/chakra-xui/chakra-xui/commit/aac438cf21e5cd0a160048d8ae0c1a26b99fd1f4))
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/popover@1.0.0-next.5...@chakra-xui/popover@1.0.0-next.6) (2020-07-15)
+# [1.0.0-next.6](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/popover@1.0.0-next.5...@chakra-xui/popover@1.0.0-next.6) (2020-07-15)
 
 **Note:** Version bump only for package @chakra-xui/popover
 
@@ -153,20 +153,20 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/popover@1.0.0-next.4...@chakra-xui/popover@1.0.0-next.5) (2020-07-15)
+# [1.0.0-next.5](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/popover@1.0.0-next.4...@chakra-xui/popover@1.0.0-next.5) (2020-07-15)
 
 ### Bug Fixes
 
 - popover blur and event target issue
-  [#1124](https://github.com/chakra-ui/chakra-ui/issues/1124)
-  ([56f10fb](https://github.com/chakra-ui/chakra-ui/commit/56f10fb75646a18d6f8a18c6f0e4ca830957812e))
+  [#1124](https://github.com/chakra-xui/chakra-xui/issues/1124)
+  ([56f10fb](https://github.com/chakra-xui/chakra-xui/commit/56f10fb75646a18d6f8a18c6f0e4ca830957812e))
 
 ### Features
 
 - add popover transition
-  ([73d8c4f](https://github.com/chakra-ui/chakra-ui/commit/73d8c4fc9c676c95232cd259f59cce7d38eff94b))
+  ([73d8c4f](https://github.com/chakra-xui/chakra-xui/commit/73d8c4fc9c676c95232cd259f59cce7d38eff94b))
 - add transition for modal
-  ([dda931b](https://github.com/chakra-ui/chakra-ui/commit/dda931bea7444c3f83392eebf1c34dd571a0dbbc))
+  ([dda931b](https://github.com/chakra-xui/chakra-xui/commit/dda931bea7444c3f83392eebf1c34dd571a0dbbc))
 
 # Change Log
 
@@ -177,18 +177,18 @@ All notable changes to this project will be documented in this file. See
 
 ### Bug Fixes
 
-- [#891](https://github.com/chakra-ui/chakra-ui/issues/891)
-  ([e107acc](https://github.com/chakra-ui/chakra-ui/commit/e107acc8487898a965b0d695c1da71f46fc56d5e))
+- [#891](https://github.com/chakra-xui/chakra-xui/issues/891)
+  ([e107acc](https://github.com/chakra-xui/chakra-xui/commit/e107acc8487898a965b0d695c1da71f46fc56d5e))
 - case sensitivity issues in packages
-  ([b423cd8](https://github.com/chakra-ui/chakra-ui/commit/b423cd88f0ede7e37b9a9eaec63cacfc1e9e5221))
+  ([b423cd8](https://github.com/chakra-xui/chakra-xui/commit/b423cd88f0ede7e37b9a9eaec63cacfc1e9e5221))
 - case sensitivity issues in packages
-  ([c70b653](https://github.com/chakra-ui/chakra-ui/commit/c70b653ab892e9290de6d6c55e7d1bd39f974456))
+  ([c70b653](https://github.com/chakra-xui/chakra-xui/commit/c70b653ab892e9290de6d6c55e7d1bd39f974456))
 - focus management for popover
-  ([c3259cc](https://github.com/chakra-ui/chakra-ui/commit/c3259ccac7ebf9102888506d510f3f52cf343906))
+  ([c3259cc](https://github.com/chakra-xui/chakra-xui/commit/c3259ccac7ebf9102888506d510f3f52cf343906))
 - popover prevent some focus return scenarios
-  ([95457f8](https://github.com/chakra-ui/chakra-ui/commit/95457f8216dde577a2b72fc4d86ef2f058d46083))
+  ([95457f8](https://github.com/chakra-xui/chakra-xui/commit/95457f8216dde577a2b72fc4d86ef2f058d46083))
 - ts issue with sx prop
-  ([d3b1340](https://github.com/chakra-ui/chakra-ui/commit/d3b1340cb255937927b4d4c56ce218141570b951))
+  ([d3b1340](https://github.com/chakra-xui/chakra-xui/commit/d3b1340cb255937927b4d4c56ce218141570b951))
 
 # Change Log
 
@@ -199,18 +199,18 @@ All notable changes to this project will be documented in this file. See
 
 ### Bug Fixes
 
-- [#891](https://github.com/chakra-ui/chakra-ui/issues/891)
-  ([e107acc](https://github.com/chakra-ui/chakra-ui/commit/e107acc8487898a965b0d695c1da71f46fc56d5e))
+- [#891](https://github.com/chakra-xui/chakra-xui/issues/891)
+  ([e107acc](https://github.com/chakra-xui/chakra-xui/commit/e107acc8487898a965b0d695c1da71f46fc56d5e))
 - case sensitivity issues in packages
-  ([b423cd8](https://github.com/chakra-ui/chakra-ui/commit/b423cd88f0ede7e37b9a9eaec63cacfc1e9e5221))
+  ([b423cd8](https://github.com/chakra-xui/chakra-xui/commit/b423cd88f0ede7e37b9a9eaec63cacfc1e9e5221))
 - case sensitivity issues in packages
-  ([c70b653](https://github.com/chakra-ui/chakra-ui/commit/c70b653ab892e9290de6d6c55e7d1bd39f974456))
+  ([c70b653](https://github.com/chakra-xui/chakra-xui/commit/c70b653ab892e9290de6d6c55e7d1bd39f974456))
 - focus management for popover
-  ([c3259cc](https://github.com/chakra-ui/chakra-ui/commit/c3259ccac7ebf9102888506d510f3f52cf343906))
+  ([c3259cc](https://github.com/chakra-xui/chakra-xui/commit/c3259ccac7ebf9102888506d510f3f52cf343906))
 - popover prevent some focus return scenarios
-  ([95457f8](https://github.com/chakra-ui/chakra-ui/commit/95457f8216dde577a2b72fc4d86ef2f058d46083))
+  ([95457f8](https://github.com/chakra-xui/chakra-xui/commit/95457f8216dde577a2b72fc4d86ef2f058d46083))
 - ts issue with sx prop
-  ([d3b1340](https://github.com/chakra-ui/chakra-ui/commit/d3b1340cb255937927b4d4c56ce218141570b951))
+  ([d3b1340](https://github.com/chakra-xui/chakra-xui/commit/d3b1340cb255937927b4d4c56ce218141570b951))
 
 # Change Log
 
@@ -221,13 +221,13 @@ All notable changes to this project will be documented in this file. See
 
 ### Bug Fixes
 
-- [#891](https://github.com/chakra-ui/chakra-ui/issues/891)
-  ([e107acc](https://github.com/chakra-ui/chakra-ui/commit/e107acc8487898a965b0d695c1da71f46fc56d5e))
+- [#891](https://github.com/chakra-xui/chakra-xui/issues/891)
+  ([e107acc](https://github.com/chakra-xui/chakra-xui/commit/e107acc8487898a965b0d695c1da71f46fc56d5e))
 - case sensitivity issues in packages
-  ([b423cd8](https://github.com/chakra-ui/chakra-ui/commit/b423cd88f0ede7e37b9a9eaec63cacfc1e9e5221))
+  ([b423cd8](https://github.com/chakra-xui/chakra-xui/commit/b423cd88f0ede7e37b9a9eaec63cacfc1e9e5221))
 - case sensitivity issues in packages
-  ([c70b653](https://github.com/chakra-ui/chakra-ui/commit/c70b653ab892e9290de6d6c55e7d1bd39f974456))
+  ([c70b653](https://github.com/chakra-xui/chakra-xui/commit/c70b653ab892e9290de6d6c55e7d1bd39f974456))
 - focus management for popover
-  ([c3259cc](https://github.com/chakra-ui/chakra-ui/commit/c3259ccac7ebf9102888506d510f3f52cf343906))
+  ([c3259cc](https://github.com/chakra-xui/chakra-xui/commit/c3259ccac7ebf9102888506d510f3f52cf343906))
 - popover prevent some focus return scenarios
-  ([95457f8](https://github.com/chakra-ui/chakra-ui/commit/95457f8216dde577a2b72fc4d86ef2f058d46083))
+  ([95457f8](https://github.com/chakra-xui/chakra-xui/commit/95457f8216dde577a2b72fc4d86ef2f058d46083))

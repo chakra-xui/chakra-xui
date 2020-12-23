@@ -1,25 +1,25 @@
-# Welcome to Chakra UI ⚡️
+# Welcome to Chakra xui ⚡️
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 
-- Works out of the box. Chakra UI contains a set of polished React components
+- Works out of the box. Chakra xui contains a set of polished React components
   that work out of the box.
 
-- Flexible & composable. Chakra UI components are built on top of a React UI
+- Flexible & composable. Chakra xui components are built on top of a React UI
   Primitive for endless composability.
 
-- Accessible. Chakra UI components follows the WAI-ARIA guidelines
+- Accessible. Chakra xui components follows the WAI-ARIA guidelines
   specifications.
 
 - Dark Mode 😍: All components are dark mode compatible.
 
 ## Looking for the documentation?
 
-https://chakra-ui.com
+https://chakra-xui.com
 
-## Installing Chakra UI
+## Installing Chakra xui
 
-⚡️Chakra UI is made up of multiple components and tools which you can import
+⚡️Chakra xui is made up of multiple components and tools which you can import
 one by one. All you need to do is install the `@chakra-xui/react` package:
 
 ```sh
@@ -74,8 +74,8 @@ Thanks goes to these wonderful people
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/segunadebayo"><img src="https://avatars2.githubusercontent.com/u/6916170?v=4" width="100px;" alt="Segun Adebayo"/><br /><sub><b>Segun Adebayo</b></sub></a><br /><a href="https://github.com/chakra-ui/chakra-ui/commits?author=segunadebayo" title="Code">💻</a> <a href="#maintenance-segunadebayo" title="Maintenance">🚧</a> <a href="https://github.com/chakra-ui/chakra-ui/commits?author=segunadebayo" title="Documentation">📖</a> <a href="#example-segunadebayo" title="Examples">💡</a> <a href="#design-segunadebayo" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/tioluwani94"><img src="https://avatars1.githubusercontent.com/u/11310046?v=4" width="100px;" alt="Tioluwani Kolawole"/><br /><sub><b>Tioluwani Kolawole</b></sub></a><br /><a href="https://github.com/chakra-ui/chakra-ui/commits?author=tioluwani94" title="Documentation">📖</a> <a href="#example-tioluwani94" title="Examples">💡</a> <a href="#maintenance-tioluwani94" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/segunadebayo"><img src="https://avatars2.githubusercontent.com/u/6916170?v=4" width="100px;" alt="Segun Adebayo"/><br /><sub><b>Segun Adebayo</b></sub></a><br /><a href="https://github.com/chakra-xui/chakra-xui/commits?author=segunadebayo" title="Code">💻</a> <a href="#maintenance-segunadebayo" title="Maintenance">🚧</a> <a href="https://github.com/chakra-xui/chakra-xui/commits?author=segunadebayo" title="Documentation">📖</a> <a href="#example-segunadebayo" title="Examples">💡</a> <a href="#design-segunadebayo" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/tioluwani94"><img src="https://avatars1.githubusercontent.com/u/11310046?v=4" width="100px;" alt="Tioluwani Kolawole"/><br /><sub><b>Tioluwani Kolawole</b></sub></a><br /><a href="https://github.com/chakra-xui/chakra-xui/commits?author=tioluwani94" title="Documentation">📖</a> <a href="#example-tioluwani94" title="Examples">💡</a> <a href="#maintenance-tioluwani94" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 

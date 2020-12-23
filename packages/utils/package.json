@@ -1,9 +1,9 @@
 {
   "name": "@chakra-xui/utils",
   "version": "1.0.2",
-  "description": "Common utilties and types for Chakra UI",
+  "description": "Common utilties and types for Chakra xui",
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "sideEffects": false,
   "main": "dist/cjs/index.js",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -40,7 +40,7 @@
     "lint": "concurrently yarn:lint:*"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "dependencies": {
     "@types/lodash.mergewith": "4.6.6",

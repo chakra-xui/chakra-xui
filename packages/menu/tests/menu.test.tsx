@@ -123,7 +123,7 @@ test("does not fire onClick on disabled MenuItem", () => {
 /**
  * skipped because broken
  *
- * @see https://github.com/chakra-ui/chakra-ui/issues/1651
+ * @see https://github.com/chakra-xui/chakra-xui/issues/1651
  */
 test.skip("allows focusing disabled MenuItems given isFocusable", async () => {
   render(

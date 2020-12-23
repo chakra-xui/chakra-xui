@@ -5,7 +5,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  [[`e73878ee`](https://github.com/chakra-ui/chakra-ui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5)]:
+  [[`e73878ee`](https://github.com/chakra-xui/chakra-xui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5)]:
   - @chakra-xui/utils@1.0.2
 
 ## 1.0.1
@@ -13,7 +13,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  [[`5c482483`](https://github.com/chakra-ui/chakra-ui/commit/5c482483ce24fc798540c9792a15e06772eae213)]:
+  [[`5c482483`](https://github.com/chakra-xui/chakra-xui/commit/5c482483ce24fc798540c9792a15e06772eae213)]:
   - @chakra-xui/utils@1.0.1
 
 All notable changes to this project will be documented in this file. See
@@ -33,8 +33,8 @@ All notable changes to this project will be documented in this file. See
 ### Bug Fixes
 
 - **toast:** allow custom render in update
-  ([eb8bff9](https://github.com/chakra-ui/chakra-ui/commit/eb8bff911e6ec9de0165ab1e8f5ca10d5e022459)),
-  closes [#2362](https://github.com/chakra-ui/chakra-ui/issues/2362)
+  ([eb8bff9](https://github.com/chakra-xui/chakra-xui/commit/eb8bff911e6ec9de0165ab1e8f5ca10d5e022459)),
+  closes [#2362](https://github.com/chakra-xui/chakra-xui/issues/2362)
 
 # Change Log
 
@@ -75,7 +75,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/theme-tools@1.0.0-rc.0...@chakra-xui/theme-tools@1.0.0-rc.1) (2020-08-06)
+# [1.0.0-rc.1](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/theme-tools@1.0.0-rc.0...@chakra-xui/theme-tools@1.0.0-rc.1) (2020-08-06)
 
 **Note:** Version bump only for package @chakra-xui/theme-tools
 
@@ -84,7 +84,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/theme-tools@1.0.0-next.7...@chakra-xui/theme-tools@1.0.0-rc.0) (2020-07-26)
+# [1.0.0-rc.0](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/theme-tools@1.0.0-next.7...@chakra-xui/theme-tools@1.0.0-rc.0) (2020-07-26)
 
 **Note:** Version bump only for package @chakra-xui/theme-tools
 
@@ -93,19 +93,19 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/theme-tools@1.0.0-next.6...@chakra-xui/theme-tools@1.0.0-next.7) (2020-07-26)
+# [1.0.0-next.7](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/theme-tools@1.0.0-next.6...@chakra-xui/theme-tools@1.0.0-next.7) (2020-07-26)
 
 ### Features
 
 - add support for single and multipart config
-  ([a13d0f8](https://github.com/chakra-ui/chakra-ui/commit/a13d0f8a3d97405bde6acba1c4fc126677154a8b))
+  ([a13d0f8](https://github.com/chakra-xui/chakra-xui/commit/a13d0f8a3d97405bde6acba1c4fc126677154a8b))
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/theme-tools@1.0.0-next.5...@chakra-xui/theme-tools@1.0.0-next.6) (2020-07-15)
+# [1.0.0-next.6](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/theme-tools@1.0.0-next.5...@chakra-xui/theme-tools@1.0.0-next.6) (2020-07-15)
 
 **Note:** Version bump only for package @chakra-xui/theme-tools
 
@@ -114,7 +114,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/theme-tools@1.0.0-next.4...@chakra-xui/theme-tools@1.0.0-next.5) (2020-07-15)
+# [1.0.0-next.5](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/theme-tools@1.0.0-next.4...@chakra-xui/theme-tools@1.0.0-next.5) (2020-07-15)
 
 **Note:** Version bump only for package @chakra-xui/theme-tools
 
@@ -128,7 +128,7 @@ All notable changes to this project will be documented in this file. See
 ### Bug Fixes
 
 - ts issue with sx prop
-  ([d3b1340](https://github.com/chakra-ui/chakra-ui/commit/d3b1340cb255937927b4d4c56ce218141570b951))
+  ([d3b1340](https://github.com/chakra-xui/chakra-xui/commit/d3b1340cb255937927b4d4c56ce218141570b951))
 
 # Change Log
 
@@ -140,7 +140,7 @@ All notable changes to this project will be documented in this file. See
 ### Bug Fixes
 
 - ts issue with sx prop
-  ([d3b1340](https://github.com/chakra-ui/chakra-ui/commit/d3b1340cb255937927b4d4c56ce218141570b951))
+  ([d3b1340](https://github.com/chakra-xui/chakra-xui/commit/d3b1340cb255937927b4d4c56ce218141570b951))
 
 # Change Log
 

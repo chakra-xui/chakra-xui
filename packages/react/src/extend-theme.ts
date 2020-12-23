@@ -24,7 +24,7 @@ type DeepThemeExtension<ThemeObject, TypeHints> = {
 export type ThemeOverride = DeepThemeExtension<Theme, ThemeExtensionTypeHints>
 
 /**
- * Function to override or customize the Chakra UI theme conveniently
+ * Function to override or customize the Chakra xui theme conveniently
  * @param overrides - Your custom theme object overrides
  * @param baseTheme - theme to customize
  */

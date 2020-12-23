@@ -1,7 +1,7 @@
-# Chakra UI backers
+# Chakra xui backers
 
-Chakra UI is licensed as MIT and completely Open Source and free to use. However
-the amount of effort needed to maintain and develop new features is not
+Chakra xui is licensed as MIT and completely Open Source and free to use.
+However the amount of effort needed to maintain and develop new features is not
 sustainable without proper financial backing.
 
 ## How to become a backer or Insider

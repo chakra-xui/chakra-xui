@@ -1,4 +1,4 @@
-Thanks for showing interest to contribute to Chakra UI 💖, you rock!
+Thanks for showing interest to contribute to Chakra xui 💖, you rock!
 
 When it comes to open source, there are different ways you can contribute, all
 of which are valuable. Here's a few guidelines that should help you as you
@@ -6,27 +6,27 @@ prepare your contribution.
 
 ## Setup the Project
 
-The following steps will get you up and running to contribute to Chakra UI:
+The following steps will get you up and running to contribute to Chakra xui:
 
 1. Fork the repo (click the <kbd>Fork</kbd> button at the top right of
-   [this page](https://github.com/chakra-ui/chakra-ui))
+   [this page](https://github.com/chakra-xui/chakra-xui))
 
 2. Clone your fork locally
 
 ```sh
-git clone https://github.com/<your_github_username>/chakra-ui.git
-cd chakra-ui
+git clone https://github.com/<your_github_username>/chakra-xui.git
+cd chakra-xui
 ```
 
 3. Setup all the dependencies and packages by running `yarn prestart`. This
    command will install dependencies and bootstrap the repo using `lerna`
 
-> If you run into any issues during this step, kindly reach out to the Chakra UI
-> React team here: https://discord.gg/dQHfcWF
+> If you run into any issues during this step, kindly reach out to the Chakra
+> xui React team here: https://discord.gg/dQHfcWF
 
 ## Development
 
-To improve our development process, we've set up tooling and systems. Chakra UI
+To improve our development process, we've set up tooling and systems. Chakra xui
 uses a monorepo structure and we treat each component has an independent package
 that can be consumed in isolation.
 
@@ -116,8 +116,8 @@ link.
 
 You may wish to use our starters to help you get going:
 
-- JavaScript Starter: https://codesandbox.io/s/chakra-ui-javascript-lzzg9
-- TypeScript Starter: https://codesandbox.io/s/chakra-ui-typescript-pomi8
+- JavaScript Starter: https://codesandbox.io/s/chakra-xui-javascript-lzzg9
+- TypeScript Starter: https://codesandbox.io/s/chakra-xui-typescript-pomi8
 
 ## Proposing new or changed API?
 
@@ -161,7 +161,7 @@ https://www.conventionalcommits.org/ or check out the
 
 ### Steps to PR
 
-1. Fork of the chakra-ui repository and clone your fork
+1. Fork of the chakra-xui repository and clone your fork
 
 2. Create a new branch out of the `develop` branch. We follow the convention
    `[type/scope]`. For example `fix/accordion-hook` or `docs/menu-typo`. `type`
@@ -169,7 +169,7 @@ https://www.conventionalcommits.org/ or check out the
    commit type. `scope` is just a short id that describes the scope of work.
 
 3. Make and commit your changes following the
-   [commit convention](https://github.com/chakra-ui/chakra-ui/blob/develop/CONTRIBUTING.md#commit-convention).
+   [commit convention](https://github.com/chakra-xui/chakra-xui/blob/develop/CONTRIBUTING.md#commit-convention).
    As you develop, you can run `yarn pkg <module> build` and
    `yarn pkg <module> test` to make sure everything works as expected. Please
    note that you might have to run `yarn boot` first in order to build all
@@ -218,5 +218,5 @@ export GITHUB_TOKEN=<PASTE YOUR TOKEN HERE>
 
 ## License
 
-By contributing your code to the chakra-ui GitHub repository, you agree to
+By contributing your code to the chakra-xui GitHub repository, you agree to
 license your contribution under the MIT license.

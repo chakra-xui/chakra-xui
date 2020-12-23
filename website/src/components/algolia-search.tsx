@@ -141,7 +141,7 @@ export function Search() {
             initialQuery={initialQuery}
             initialScrollY={window.scrollY}
             onClose={onClose}
-            indexName="chakra-ui"
+            indexName="chakra-xui"
             apiKey="df1dcc41f7b8e5d68e73dd56d1e19701"
             appId="BH4D9OD16A"
             //@ts-expect-error

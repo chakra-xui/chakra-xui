@@ -30,7 +30,7 @@ export const Text = () => (
 
 export const AsContainer = () => (
   <Skeleton>
-    <span>Chakra ui is cool</span>
+    <span>Chakra xui is cool</span>
   </Skeleton>
 )
 
@@ -43,7 +43,7 @@ export const WithFade = () => {
 
   return (
     <Skeleton isLoaded={hasLoaded}>
-      <span>Chakra ui is cool</span>
+      <span>Chakra xui is cool</span>
     </Skeleton>
   )
 }
@@ -57,7 +57,7 @@ export const WithFadeText = () => {
 
   return (
     <SkeletonText isLoaded={hasLoaded}>
-      <span>Chakra ui is cool</span>
+      <span>Chakra xui is cool</span>
     </SkeletonText>
   )
 }
@@ -79,7 +79,7 @@ export const WithNoFade = () => {
 
   return (
     <Skeleton fadeDuration={0} isLoaded={hasLoaded}>
-      <span>Chakra ui is cool</span>
+      <span>Chakra xui is cool</span>
     </Skeleton>
   )
 }
@@ -107,10 +107,10 @@ export const WithIsLoaded = () => {
         Content
       </chakra.div>
       <Skeleton w="100px" isLoaded={hasLoaded} mt={2}>
-        <span>Chakra ui is cool</span>
+        <span>Chakra xui is cool</span>
       </Skeleton>
       <SkeletonText isLoaded={hasLoaded} mt={2}>
-        <p>Chakra ui is cool</p>
+        <p>Chakra xui is cool</p>
       </SkeletonText>
       <chakra.div h="100px" borderWidth="1px" mt={2}>
         Content

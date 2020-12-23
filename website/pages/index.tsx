@@ -114,7 +114,7 @@ const HomePage = ({ members, sponsors }: HomePageProps) => {
   return (
     <>
       <SEO
-        title="Chakra UI - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications."
+        title="Chakra xui - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications."
         description="Simple, Modular and Accessible UI Components for your React Applications. Built with Styled System"
       />
       <Header />
@@ -154,7 +154,7 @@ const HomePage = ({ members, sponsors }: HomePageProps) => {
                 fontSize={{ base: "lg", lg: "xl" }}
                 mt="6"
               >
-                Chakra UI is a simple, modular and accessible component library
+                Chakra xui is a simple, modular and accessible component library
                 that gives you the building blocks you need to build your React
                 applications.
               </Text>
@@ -184,7 +184,7 @@ const HomePage = ({ members, sponsors }: HomePageProps) => {
                   h="4rem"
                   px="40px"
                   fontSize="1.2rem"
-                  href="https://github.com/chakra-ui/chakra-ui/"
+                  href="https://github.com/chakra-xui/chakra-xui/"
                   target="__blank"
                   leftIcon={<DiGithubBadge size="1.5em" />}
                 >
@@ -317,7 +317,7 @@ const HomePage = ({ members, sponsors }: HomePageProps) => {
               px={{ md: 12 }}
             >
               <Feature icon={MdAccessibility} title="Accessible">
-                Chakra UI strictly follows WAI-ARIA standards for all
+                Chakra xui strictly follows WAI-ARIA standards for all
                 components.
               </Feature>
               <Feature icon={MdPalette} title="Themeable">
@@ -351,7 +351,7 @@ const HomePage = ({ members, sponsors }: HomePageProps) => {
               </chakra.h2>
               <chakra.p opacity={0.7} fontSize="lg">
                 We're dedicated to improving the experience and performance of
-                Chakra UI.
+                Chakra xui.
               </chakra.p>
             </Box>
             <SimpleGrid
@@ -426,11 +426,11 @@ const HomePage = ({ members, sponsors }: HomePageProps) => {
           <Container py="120px" maxW="1200px" px="32px" color="white">
             <Box maxW="560px" mx="auto" textAlign="center" mb="56px">
               <chakra.h2 textStyle="heading-2" mb="4">
-                Support Chakra UI 💖
+                Support Chakra xui 💖
               </chakra.h2>
               <Text fontSize="lg" opacity={0.7}>
                 Our maintainers devote their time, effort, and heart to ensure
-                Chakra UI keeps getting better. Support us by donating to our
+                Chakra xui keeps getting better. Support us by donating to our
                 collective 🙏
               </Text>
             </Box>
@@ -465,7 +465,7 @@ const HomePage = ({ members, sponsors }: HomePageProps) => {
                   <Text fontSize="lg" fontWeight="bold" mt="-1">
                     Open Collective
                   </Text>
-                  <Text opacity={0.7}>Sponsor the Chakra UI maintainers</Text>
+                  <Text opacity={0.7}>Sponsor the Chakra xui maintainers</Text>
                 </Box>
               </Stack>
               <LightMode>
@@ -475,7 +475,7 @@ const HomePage = ({ members, sponsors }: HomePageProps) => {
                   as="a"
                   minW="7rem"
                   colorScheme="teal"
-                  href="https://opencollective.com/chakra-ui"
+                  href="https://opencollective.com/chakra-xui"
                   rel="noopener"
                   target="_blank"
                 >
@@ -642,7 +642,7 @@ const HomePage = ({ members, sponsors }: HomePageProps) => {
                 Invite us to speak at your next event
               </chakra.h2>
               <Text mb="40px" fontSize="lg" opacity={0.7}>
-                Want a Chakra UI core team member to speak at your next event?
+                Want a Chakra xui core team member to speak at your next event?
                 Invite us to create a memorable and engaging experience for your
                 attendees.
               </Text>

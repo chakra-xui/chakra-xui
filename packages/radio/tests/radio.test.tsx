@@ -136,7 +136,7 @@ test("should derive values from surrounding FormControl", () => {
       onBlur={onBlur}
     >
       <FormLabel>Radio</FormLabel>
-      <Radio value="Chakra UI">Chakra UI</Radio>
+      <Radio value="Chakra xui">Chakra xui</Radio>
       <FormHelperText>Select a value</FormHelperText>
     </FormControl>,
   )

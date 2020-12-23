@@ -1,6 +1,6 @@
 # Icon
 
-A base React icon component for Chakra UI.
+A base React icon component for Chakra xui.
 
 ## Installation
 

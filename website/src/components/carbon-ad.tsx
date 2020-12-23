@@ -61,7 +61,7 @@ function CarbonAd() {
     if (!ref.current || !!scriptEl) return
 
     const script = loadScript(
-      "https://cdn.carbonads.com/carbon.js?serve=CE7DKK7L&placement=chakra-uicom",
+      "https://cdn.carbonads.com/carbon.js?serve=CE7DKK7L&placement=chakra-xuicom",
       ref.current,
     )
     script.id = "_carbonads_js"

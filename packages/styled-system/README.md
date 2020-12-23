@@ -1,6 +1,6 @@
 # Component Name
 
-The framework agnostic styling engine for Chakra UI. It's used in the `system`
+The framework agnostic styling engine for Chakra xui. It's used in the `system`
 package.
 
 ## Installation
@@ -15,7 +15,7 @@ yarn add @chakra-xui/styled-system
 
 ### CSS Logical Properties
 
-Chakra UI provides pretty good support for bi-directional (`bidi`) CSS
+Chakra xui provides pretty good support for bi-directional (`bidi`) CSS
 properties. For our shorthand props, we provide a `*Bidi` suffix to manage the
 rtl/ltr switching.
 

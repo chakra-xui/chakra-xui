@@ -4,7 +4,7 @@
 
 ### Patch Changes
 
-- [`730a2da1`](https://github.com/chakra-ui/chakra-ui/commit/730a2da19b652614bc051b9f80313d211b22d1de)
+- [`730a2da1`](https://github.com/chakra-xui/chakra-xui/commit/730a2da19b652614bc051b9f80313d211b22d1de)
   Thanks [@segunadebayo](https://github.com/segunadebayo)! - ## Pin Input
 
   ### 🐛 Bug Fix
@@ -30,7 +30,7 @@
   function.
 
 - Updated dependencies
-  [[`e73878ee`](https://github.com/chakra-ui/chakra-ui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5)]:
+  [[`e73878ee`](https://github.com/chakra-xui/chakra-xui/commit/e73878ee686c11d3f94ad6ac61b19ae9508d75a5)]:
   - @chakra-xui/utils@1.0.2
   - @chakra-xui/hooks@1.0.2
   - @chakra-xui/descendant@1.0.2
@@ -39,8 +39,8 @@
 
 ### Minor Changes
 
-- [`f3cc344e`](https://github.com/chakra-ui/chakra-ui/commit/f3cc344e1a7dd08dc7a312e6ce039d55a80cc526)
-  [#2729](https://github.com/chakra-ui/chakra-ui/pull/2729) Thanks
+- [`f3cc344e`](https://github.com/chakra-xui/chakra-xui/commit/f3cc344e1a7dd08dc7a312e6ce039d55a80cc526)
+  [#2729](https://github.com/chakra-xui/chakra-xui/pull/2729) Thanks
   [@segunadebayo](https://github.com/segunadebayo)! - - Move input props logic
   to parent hook and expose prop-getter `getInputProps`. This helps to co-locate
   the state logic for easier debugging
@@ -62,8 +62,8 @@
 ### Patch Changes
 
 - Updated dependencies
-  [[`5c482483`](https://github.com/chakra-ui/chakra-ui/commit/5c482483ce24fc798540c9792a15e06772eae213),
-  [`204ff7e3`](https://github.com/chakra-ui/chakra-ui/commit/204ff7e39dd37003786194704b36069ef94d56a6)]:
+  [[`5c482483`](https://github.com/chakra-xui/chakra-xui/commit/5c482483ce24fc798540c9792a15e06772eae213),
+  [`204ff7e3`](https://github.com/chakra-xui/chakra-xui/commit/204ff7e39dd37003786194704b36069ef94d56a6)]:
   - @chakra-xui/utils@1.0.1
   - @chakra-xui/hooks@1.0.1
   - @chakra-xui/descendant@1.0.1
@@ -85,8 +85,8 @@ All notable changes to this project will be documented in this file. See
 ### Bug Fixes
 
 - **toast:** allow custom render in update
-  ([eb8bff9](https://github.com/chakra-ui/chakra-ui/commit/eb8bff911e6ec9de0165ab1e8f5ca10d5e022459)),
-  closes [#2362](https://github.com/chakra-ui/chakra-ui/issues/2362)
+  ([eb8bff9](https://github.com/chakra-xui/chakra-xui/commit/eb8bff911e6ec9de0165ab1e8f5ca10d5e022459)),
+  closes [#2362](https://github.com/chakra-xui/chakra-xui/issues/2362)
 
 # Change Log
 
@@ -127,7 +127,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/pin-input@1.0.0-rc.0...@chakra-xui/pin-input@1.0.0-rc.1) (2020-08-06)
+# [1.0.0-rc.1](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/pin-input@1.0.0-rc.0...@chakra-xui/pin-input@1.0.0-rc.1) (2020-08-06)
 
 **Note:** Version bump only for package @chakra-xui/pin-input
 
@@ -136,7 +136,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/pin-input@1.0.0-next.7...@chakra-xui/pin-input@1.0.0-rc.0) (2020-07-26)
+# [1.0.0-rc.0](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/pin-input@1.0.0-next.7...@chakra-xui/pin-input@1.0.0-rc.0) (2020-07-26)
 
 **Note:** Version bump only for package @chakra-xui/pin-input
 
@@ -145,7 +145,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/pin-input@1.0.0-next.6...@chakra-xui/pin-input@1.0.0-next.7) (2020-07-26)
+# [1.0.0-next.7](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/pin-input@1.0.0-next.6...@chakra-xui/pin-input@1.0.0-next.7) (2020-07-26)
 
 **Note:** Version bump only for package @chakra-xui/pin-input
 
@@ -154,7 +154,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/pin-input@1.0.0-next.5...@chakra-xui/pin-input@1.0.0-next.6) (2020-07-15)
+# [1.0.0-next.6](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/pin-input@1.0.0-next.5...@chakra-xui/pin-input@1.0.0-next.6) (2020-07-15)
 
 **Note:** Version bump only for package @chakra-xui/pin-input
 
@@ -163,7 +163,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-xui/pin-input@1.0.0-next.4...@chakra-xui/pin-input@1.0.0-next.5) (2020-07-15)
+# [1.0.0-next.5](https://github.com/chakra-xui/chakra-xui/compare/@chakra-xui/pin-input@1.0.0-next.4...@chakra-xui/pin-input@1.0.0-next.5) (2020-07-15)
 
 **Note:** Version bump only for package @chakra-xui/pin-input
 
@@ -176,12 +176,12 @@ All notable changes to this project will be documented in this file. See
 
 ### Bug Fixes
 
-- [#891](https://github.com/chakra-ui/chakra-ui/issues/891)
-  ([e107acc](https://github.com/chakra-ui/chakra-ui/commit/e107acc8487898a965b0d695c1da71f46fc56d5e))
+- [#891](https://github.com/chakra-xui/chakra-xui/issues/891)
+  ([e107acc](https://github.com/chakra-xui/chakra-xui/commit/e107acc8487898a965b0d695c1da71f46fc56d5e))
 - remove duplicated ref
-  ([77fa649](https://github.com/chakra-ui/chakra-ui/commit/77fa6496d59dde9f2ce49a6eee72de46418ade96))
+  ([77fa649](https://github.com/chakra-xui/chakra-xui/commit/77fa6496d59dde9f2ce49a6eee72de46418ade96))
 - ts issue with sx prop
-  ([d3b1340](https://github.com/chakra-ui/chakra-ui/commit/d3b1340cb255937927b4d4c56ce218141570b951))
+  ([d3b1340](https://github.com/chakra-xui/chakra-xui/commit/d3b1340cb255937927b4d4c56ce218141570b951))
 
 # Change Log
 
@@ -192,12 +192,12 @@ All notable changes to this project will be documented in this file. See
 
 ### Bug Fixes
 
-- [#891](https://github.com/chakra-ui/chakra-ui/issues/891)
-  ([e107acc](https://github.com/chakra-ui/chakra-ui/commit/e107acc8487898a965b0d695c1da71f46fc56d5e))
+- [#891](https://github.com/chakra-xui/chakra-xui/issues/891)
+  ([e107acc](https://github.com/chakra-xui/chakra-xui/commit/e107acc8487898a965b0d695c1da71f46fc56d5e))
 - remove duplicated ref
-  ([77fa649](https://github.com/chakra-ui/chakra-ui/commit/77fa6496d59dde9f2ce49a6eee72de46418ade96))
+  ([77fa649](https://github.com/chakra-xui/chakra-xui/commit/77fa6496d59dde9f2ce49a6eee72de46418ade96))
 - ts issue with sx prop
-  ([d3b1340](https://github.com/chakra-ui/chakra-ui/commit/d3b1340cb255937927b4d4c56ce218141570b951))
+  ([d3b1340](https://github.com/chakra-xui/chakra-xui/commit/d3b1340cb255937927b4d4c56ce218141570b951))
 
 # Change Log
 
@@ -208,7 +208,7 @@ All notable changes to this project will be documented in this file. See
 
 ### Bug Fixes
 
-- [#891](https://github.com/chakra-ui/chakra-ui/issues/891)
-  ([e107acc](https://github.com/chakra-ui/chakra-ui/commit/e107acc8487898a965b0d695c1da71f46fc56d5e))
+- [#891](https://github.com/chakra-xui/chakra-xui/issues/891)
+  ([e107acc](https://github.com/chakra-xui/chakra-xui/commit/e107acc8487898a965b0d695c1da71f46fc56d5e))
 - remove duplicated ref
-  ([77fa649](https://github.com/chakra-ui/chakra-ui/commit/77fa6496d59dde9f2ce49a6eee72de46418ade96))
+  ([77fa649](https://github.com/chakra-xui/chakra-xui/commit/77fa6496d59dde9f2ce49a6eee72de46418ade96))
