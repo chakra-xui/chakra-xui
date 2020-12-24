@@ -35,15 +35,15 @@ Type '{ children: string; as: string; }' is not assignable to type 'IntrinsicAtt
 
 To resolve this, you have 3 options
 
-## Option 1: Using `forwardRef` from `@chakra-ui/react`
+## Option 1: Using `forwardRef` from `@chakra-xui/react`
 
 This is the recommended approach as it ensures your components forwards their
 reference properly.
 
-> Note 🚨: You need to use forwardRef from chakra-ui not react.
+> Note 🚨: You need to use forwardRef from chakra-xui not react.
 
 ```tsx live=false
-import { forwardRef, Box, BoxProps } from "@chakra-ui/react"
+import { forwardRef, Box, BoxProps } from "@chakra-xui/react"
 
 const Card = forwardRef<BoxProps, "div">((props, ref) => (
   <Box px="4" py="5" rounded="sm" shadow="lg" ref={ref} {...props} />
@@ -62,7 +62,7 @@ element type, and adds chakra specific style props.
 etc), and any custom props (like `isOpen`, `isDisabled`, etc)
 
 ```tsx live=false
-import { ChakraComponent, Box, BoxProps } from "@chakra-ui/react"
+import { ChakraComponent, Box, BoxProps } from "@chakra-xui/react"
 
 type DivComponent = ChakraComponent<"div", {}>
 
@@ -81,7 +81,7 @@ What you need to do is to call the `chakra` function and pass it any element or
 component type.
 
 ```tsx live=false
-import { chakra } from "@chakra-ui/react"
+import { chakra } from "@chakra-xui/react"
 
 const Card = chakra("div", {
   // attach style props

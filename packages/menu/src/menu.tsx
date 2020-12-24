@@ -10,8 +10,8 @@ import {
   ThemingProps,
   useMultiStyleConfig,
   useStyles,
-} from "@chakra-ui/system"
-import { cx, MaybeRenderProp, runIfFn, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, MaybeRenderProp, runIfFn, __DEV__ } from "@chakra-xui/utils"
 import { motion, Variants } from "framer-motion"
 import * as React from "react"
 import {

@@ -1,5 +1,5 @@
-import { extendTheme } from "@chakra-ui/react"
-import { mode } from "@chakra-ui/theme-tools"
+import { extendTheme } from "@chakra-xui/react"
+import { mode } from "@chakra-xui/theme-tools"
 
 const customTheme = extendTheme({
   fonts: {

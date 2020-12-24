@@ -1,5 +1,5 @@
 import React from "react"
-import { screen } from "@chakra-ui/test-utils"
+import { screen } from "@chakra-xui/test-utils"
 import { createStandaloneToast } from "../src"
 
 test("Standalone toast renders correctly", async () => {

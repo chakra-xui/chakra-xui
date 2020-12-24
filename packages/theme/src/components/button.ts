@@ -1,4 +1,4 @@
-import { mode, transparentize } from "@chakra-ui/theme-tools"
+import { mode, transparentize } from "@chakra-xui/theme-tools"
 
 type Dict = Record<string, any>
 

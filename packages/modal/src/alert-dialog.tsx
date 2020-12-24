@@ -1,4 +1,4 @@
-import { forwardRef } from "@chakra-ui/system"
+import { forwardRef } from "@chakra-xui/system"
 import * as React from "react"
 import { Modal, ModalContent, ModalContentProps, ModalProps } from "./modal"
 

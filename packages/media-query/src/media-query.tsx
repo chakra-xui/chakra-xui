@@ -1,5 +1,5 @@
-import { useTheme } from "@chakra-ui/system"
-import { Dict, memoizedGet as get, __DEV__ } from "@chakra-ui/utils"
+import { useTheme } from "@chakra-xui/system"
+import { Dict, memoizedGet as get, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import { useMediaQuery } from "./use-media-query"
 

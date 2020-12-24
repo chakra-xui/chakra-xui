@@ -6,8 +6,8 @@ import {
   ThemingProps,
   useStyleConfig,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { cx, __DEV__, filterUndefined } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, __DEV__, filterUndefined } from "@chakra-xui/utils"
 import * as React from "react"
 
 export interface TextProps extends HTMLChakraProps<"p">, ThemingProps {
@@ -31,7 +31,7 @@ export interface TextProps extends HTMLChakraProps<"p">, ThemingProps {
 /**
  * Used to render texts or paragraphs.
  *
- * @see Docs https://chakra-ui.com/docs/typography/text
+ * @see Docs https://chakra-xui.com/docs/typography/text
  */
 export const Text = forwardRef<TextProps, "p">((props, ref) => {
   const styles = useStyleConfig("Text", props)

@@ -5,8 +5,8 @@ import {
   ThemingProps,
   useStyleConfig,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { cx, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 export interface LinkProps extends HTMLChakraProps<"a">, ThemingProps {
@@ -28,7 +28,7 @@ export interface LinkProps extends HTMLChakraProps<"a">, ThemingProps {
  * <Link as={ReactRouterLink} to="/home">Home</Link>
  * ```
  *
- * @see Docs https://chakra-ui.com/docs/layout/link
+ * @see Docs https://chakra-xui.com/docs/layout/link
  */
 export const Link = forwardRef<LinkProps, "a">((props, ref) => {
   const styles = useStyleConfig("Link", props)

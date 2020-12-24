@@ -5,10 +5,10 @@ import {
   screen,
   act,
   waitFor,
-} from "@chakra-ui/test-utils"
-import { Portal } from "@chakra-ui/portal"
+} from "@chakra-xui/test-utils"
+import { Portal } from "@chakra-xui/portal"
 import * as React from "react"
-import { Button } from "@chakra-ui/button"
+import { Button } from "@chakra-xui/button"
 import { FaSearch, FaTruck, FaUndoAlt, FaUnlink } from "react-icons/fa"
 import {
   Menu,
@@ -123,7 +123,7 @@ test("does not fire onClick on disabled MenuItem", () => {
 /**
  * skipped because broken
  *
- * @see https://github.com/chakra-ui/chakra-ui/issues/1651
+ * @see https://github.com/chakra-xui/chakra-xui/issues/1651
  */
 test.skip("allows focusing disabled MenuItems given isFocusable", async () => {
   render(

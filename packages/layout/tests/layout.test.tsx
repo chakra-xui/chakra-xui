@@ -1,6 +1,6 @@
-import { render, testA11y } from "@chakra-ui/test-utils"
+import { render, testA11y } from "@chakra-xui/test-utils"
 import * as React from "react"
-import { ChakraProvider, extendTheme } from "@chakra-ui/react"
+import { ChakraProvider, extendTheme } from "@chakra-xui/react"
 import { Box, Badge, Container, Divider, Flex } from "../src"
 
 describe("<Box />", () => {

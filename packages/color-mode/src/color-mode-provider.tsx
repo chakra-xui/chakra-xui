@@ -1,4 +1,4 @@
-import { isBrowser, noop, __DEV__ } from "@chakra-ui/utils"
+import { isBrowser, noop, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import {
   addListener,

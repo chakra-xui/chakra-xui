@@ -8,8 +8,8 @@ import {
   ThemingProps,
   useMultiStyleConfig,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { callAll, cx, Omit, __DEV__, dataAttr } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { callAll, cx, Omit, __DEV__, dataAttr } from "@chakra-xui/utils"
 import * as React from "react"
 import { useCheckboxGroupContext } from "./checkbox-group"
 import { CheckboxIcon } from "./checkbox-icon"
@@ -88,7 +88,7 @@ export interface CheckboxProps
  * React component used in forms when a user needs to select
  * multiple values from several options.
  *
- * @see Docs https://chakra-ui.com/docs/form/checkbox
+ * @see Docs https://chakra-xui.com/docs/form/checkbox
  */
 export const Checkbox = forwardRef<CheckboxProps, "input">((props, ref) => {
   const group = useCheckboxGroupContext()

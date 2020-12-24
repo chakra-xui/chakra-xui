@@ -1,6 +1,6 @@
 ---
 title: Customize Theme
-description: How to modify Chakra UI's default theme
+description: How to modify Chakra xui's default theme
 ---
 
 By default, all Chakra components inherit values from the default theme. In some
@@ -24,7 +24,7 @@ brand colors, here's what you'll do:
 
 ```jsx live=false
 // 1. Import `extendTheme`
-import { extendTheme } from "@chakra-ui/react"
+import { extendTheme } from "@chakra-xui/react"
 
 // 2. Call `extendTheme` and pass your custom values
 const theme = extendTheme({
@@ -48,9 +48,14 @@ function Usage() {
 }
 ```
 
+You can also use the color for the `colorScheme` prop like this:
+```jsx live=false
+<Button colorScheme="brand">Click me</Button>
+```
+
 > If you're curious as to what theme styles you can override, please reference
 > the
-> [default theme foundation style files](https://github.com/chakra-ui/chakra-ui/tree/master/packages/theme/src/foundations).
+> [default theme foundation style files](https://github.com/chakra-xui/chakra-xui/tree/master/packages/theme/src/foundations).
 
 ## Customizing component styles
 
@@ -93,7 +98,7 @@ For example, let's override the component styles for Chakra's Button component.
 
 ```jsx live=false
 // theme.js
-import { extendTheme } from "@chakra-ui/react"
+import { extendTheme } from "@chakra-xui/react"
 
 const theme = extendTheme({
   components: {
@@ -139,7 +144,7 @@ automatically applied.
 
 > If you're curious as to what component styles you can override, please
 > reference the
-> [default component style files](https://github.com/chakra-ui/chakra-ui/tree/master/packages/theme/src/components).
+> [default component style files](https://github.com/chakra-xui/chakra-xui/tree/master/packages/theme/src/components).
 
 ### Customizing global styles
 
@@ -150,8 +155,8 @@ styles can be a style object or a function that returns a style object.
 
 ```jsx live=false
 // theme.js
-import { extendTheme } from "@chakra-ui/react"
-import { mode } from "@chakra-ui/theme-tools"
+import { extendTheme } from "@chakra-xui/react"
+import { mode } from "@chakra-xui/theme-tools"
 
 // Version 1: Using objects
 const theme = extendTheme({
@@ -210,7 +215,7 @@ like this:
 
 ```jsx live=false
 // theme.js
-import { extendTheme } from "@chakra-ui/react"
+import { extendTheme } from "@chakra-xui/react"
 
 // Global style overrides
 import styles from "./styles"

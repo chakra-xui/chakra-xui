@@ -1,5 +1,5 @@
-import { useSafeLayoutEffect } from "@chakra-ui/hooks"
-import { createContext, isBrowser, __DEV__ } from "@chakra-ui/utils"
+import { useSafeLayoutEffect } from "@chakra-xui/hooks"
+import { createContext, isBrowser, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import * as ReactDOM from "react-dom"
 import { usePortalManager } from "./portal-manager"
@@ -37,7 +37,7 @@ export interface PortalProps {
  * Declarative component used to render children into a DOM node
  * that exists outside the DOM hierarchy of the parent component.
  * There is no document link yet
- * @see Docs https://chakra-ui.com/docs/overlay/portal
+ * @see Docs https://chakra-xui.com/docs/overlay/portal
  */
 export const Portal: React.FC<PortalProps> = (props) => {
   const { onMount, onUnmount, children, getContainer } = props

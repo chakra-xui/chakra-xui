@@ -1,12 +1,12 @@
 ---
 title: "Icon"
-package: "@chakra-ui/icon"
+package: "@chakra-xui/icon"
 image: "components/icon.svg"
 ---
 
 Chakra provides multiple ways to use icons in your project:
 
-- [Using Chakra UI icon library](#using-chakra-ui-icons)
+- [Using Chakra xui icon library](#using-chakra-xui-icons)
 - [Using a third-party icon library](#using-a-third-party-icon-library)
 - [Creating your own icons](#creating-your-custom-icons)
 
@@ -15,29 +15,29 @@ Chakra provides multiple ways to use icons in your project:
 
 <ComponentLinks
   github={{ package: "icon" }}
-  npm={{ package: "@chakra-ui/icon" }}
+  npm={{ package: "@chakra-xui/icon" }}
 />
 
 <carbon-ad></carbon-ad>
 
-## Using Chakra UI icons
+## Using Chakra xui icons
 
 Chakra provides a set of commonly used interfact icons you can use in your
-project. To these icons, install `@chakra-ui/icons`, import the icon you need
+project. To these icons, install `@chakra-xui/icons`, import the icon you need
 and style them.
 
 ### Installation
 
 ```bash
-npm i @chakra-ui/icons
+npm i @chakra-xui/icons
 # or
-yarn add @chakra-ui/icons
+yarn add @chakra-xui/icons
 ```
 
 ### Usage
 
 ```jsx live=false
-import { PhoneIcon, AddIcon, WarningIcon } from '@chakra-ui/icons'
+import { PhoneIcon, AddIcon, WarningIcon } from '@chakra-xui/icons'
 
 // The default icon size is 1em (16px)
 <PhoneIcon />
@@ -63,12 +63,12 @@ component names:
 To use third-party icon libraries like
 [`react-icons`](https://react-icons.github.io/react-icons/), here are the steps:
 
-1. Import the `Icon` component from `@chakra-ui/react`
+1. Import the `Icon` component from `@chakra-xui/react`
 2. Pass the desired third party icon into the `as` prop
 
 ```jsx live=false
 // 1. Import
-import { Icon } from "@chakra-ui/react"
+import { Icon } from "@chakra-xui/react"
 import { MdSettings } from "react-icons/md"
 
 // 2. Use the `as` prop
@@ -99,10 +99,10 @@ Chakra provides two methods for creating your custom icons:
 - Using the [Icon](#using-the-icon-component) component
 - Using the [createIcon](#using-the-createicon-function) function
 
-They can be imported from `@chakra-ui/react`:
+They can be imported from `@chakra-xui/react`:
 
 ```jsx live=false
-import { Icon, createIcon } from "@chakra-ui/react"
+import { Icon, createIcon } from "@chakra-xui/react"
 ```
 
 Both `Icon` and `createIcon` enable you to style the icon using
@@ -156,7 +156,7 @@ generating icons with `Icon`, allowing you to achieve the same functionality
 with less effort.
 
 ```jsx live=false
-import { createIcon } from "@chakra-ui/icons"
+import { createIcon } from "@chakra-xui/icons"
 
 // using `path`
 export const UpDownIcon = createIcon({

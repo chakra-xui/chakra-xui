@@ -1,5 +1,5 @@
-import { forwardRef } from "@chakra-ui/system"
-import { __DEV__ } from "@chakra-ui/utils"
+import { forwardRef } from "@chakra-xui/system"
+import { __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import { Icon, IconProps } from "./icon"
 

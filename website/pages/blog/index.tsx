@@ -1,5 +1,5 @@
 import * as React from "react"
-import { Divider, VStack } from "@chakra-ui/react"
+import { Divider, VStack } from "@chakra-xui/react"
 import { BlogPostCard } from "components/blog-post-card"
 import { getBlogPosts } from "utils/get-blog-posts"
 import PageContainer from "components/page-container"

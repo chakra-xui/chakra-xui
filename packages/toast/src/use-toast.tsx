@@ -1,20 +1,20 @@
-import type { AlertStatus } from "@chakra-ui/alert"
+import type { AlertStatus } from "@chakra-xui/alert"
 import {
   Alert,
   AlertDescription,
   AlertIcon,
   AlertTitle,
-} from "@chakra-ui/alert"
-import { CloseButton } from "@chakra-ui/close-button"
+} from "@chakra-xui/alert"
+import { CloseButton } from "@chakra-xui/close-button"
 import {
   chakra,
   ColorMode,
   ColorModeContext,
   ThemeProvider,
   useChakra,
-} from "@chakra-ui/system"
-import defaultTheme from "@chakra-ui/theme"
-import { isFunction, noop } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import defaultTheme from "@chakra-xui/theme"
+import { isFunction, noop } from "@chakra-xui/utils"
 import * as React from "react"
 import { toast } from "./toast.class"
 import { RenderProps, ToastId, ToastOptions } from "./toast.types"

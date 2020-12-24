@@ -1,6 +1,6 @@
-import { CloseButton, CloseButtonProps } from "@chakra-ui/close-button"
-import { FocusLock, FocusLockProps } from "@chakra-ui/focus-lock"
-import { Portal, PortalProps } from "@chakra-ui/portal"
+import { CloseButton, CloseButtonProps } from "@chakra-xui/close-button"
+import { FocusLock, FocusLockProps } from "@chakra-xui/focus-lock"
+import { Portal, PortalProps } from "@chakra-xui/portal"
 import {
   chakra,
   ChakraProps,
@@ -11,15 +11,15 @@ import {
   ThemingProps,
   useMultiStyleConfig,
   useStyles,
-} from "@chakra-ui/system"
-import { fadeConfig } from "@chakra-ui/transition"
+} from "@chakra-xui/system"
+import { fadeConfig } from "@chakra-xui/transition"
 import {
   callAllHandlers,
   createContext,
   cx,
   FocusableElement,
   __DEV__,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import {
   AnimatePresence,
   HTMLMotionProps,
@@ -330,7 +330,7 @@ export interface ModalOverlayProps
  * ModalOverlay renders a backdrop behind the modal. It is
  * also used as a wrapper for the modal content for better positioning.
  *
- * @see Docs https://chakra-ui.com/docs/overlay/modal
+ * @see Docs https://chakra-xui.com/docs/overlay/modal
  */
 export const ModalOverlay = forwardRef<ModalOverlayProps, "div">(
   (props, ref) => {
@@ -370,7 +370,7 @@ export interface ModalHeaderProps extends HTMLChakraProps<"header"> {}
  *
  * React component that houses the title of the modal.
  *
- * @see Docs https://chakra-ui.com/docs/components/modal
+ * @see Docs https://chakra-xui.com/docs/components/modal
  */
 export const ModalHeader = forwardRef<ModalHeaderProps, "header">(
   (props, ref) => {
@@ -418,7 +418,7 @@ export interface ModalBodyProps extends HTMLChakraProps<"div"> {}
  *
  * React component that houses the main content of the modal.
  *
- * @see Docs https://chakra-ui.com/docs/components/modal
+ * @see Docs https://chakra-xui.com/docs/components/modal
  */
 export const ModalBody = forwardRef<ModalBodyProps, "div">((props, ref) => {
   const { className, ...rest } = props
@@ -455,7 +455,7 @@ export interface ModalFooterProps extends HTMLChakraProps<"footer"> {}
 
 /**
  * ModalFooter houses the action buttons of the modal.
- * @see Docs https://chakra-ui.com/docs/components/modal
+ * @see Docs https://chakra-xui.com/docs/components/modal
  */
 export const ModalFooter = forwardRef<ModalFooterProps, "footer">(
   (props, ref) => {

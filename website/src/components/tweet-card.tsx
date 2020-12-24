@@ -1,4 +1,4 @@
-import { Avatar, Box, useColorModeValue } from "@chakra-ui/react"
+import { Avatar, Box, useColorModeValue } from "@chakra-xui/react"
 import * as React from "react"
 
 interface TweetCardProps {

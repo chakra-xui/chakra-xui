@@ -1,4 +1,4 @@
-import { mode } from "@chakra-ui/theme-tools"
+import { mode } from "@chakra-xui/theme-tools"
 
 const baseStyle = (props: Record<string, any>) => ({
   borderRadius: "md",

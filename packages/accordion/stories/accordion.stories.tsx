@@ -1,4 +1,4 @@
-import { Container } from "@chakra-ui/layout"
+import { Container } from "@chakra-xui/layout"
 import {
   Box,
   Button,
@@ -10,8 +10,8 @@ import {
   DrawerHeader,
   DrawerOverlay,
   useDisclosure,
-} from "@chakra-ui/react"
-import { chakra } from "@chakra-ui/system"
+} from "@chakra-xui/react"
+import { chakra } from "@chakra-xui/system"
 import * as React from "react"
 import {
   Accordion,
@@ -235,13 +235,13 @@ export const FocusBug = () => {
                     <AccordionIcon />
                   </AccordionButton>
                   <AccordionPanel pb={4}>
-                    <a href="https://chakra-ui.com/should-not-have-focus-if-panel-closed-1">
+                    <a href="https://chakra-xui.com/should-not-have-focus-if-panel-closed-1">
                       Chakra 1
                     </a>
-                    <a href="https://chakra-ui.com/should-not-have-focus-if-panel-closed-2">
+                    <a href="https://chakra-xui.com/should-not-have-focus-if-panel-closed-2">
                       Chakra 2
                     </a>
-                    <a href="https://chakra-ui.com/should-not-have-focus-if-panel-closed-3">
+                    <a href="https://chakra-xui.com/should-not-have-focus-if-panel-closed-3">
                       Chakra 3
                     </a>
                   </AccordionPanel>
@@ -255,13 +255,13 @@ export const FocusBug = () => {
                     <AccordionIcon />
                   </AccordionButton>
                   <AccordionPanel pb={4}>
-                    <a href="https://chakra-ui.com/should-not-have-focus-if-panel-closed-4">
+                    <a href="https://chakra-xui.com/should-not-have-focus-if-panel-closed-4">
                       Chakra 1
                     </a>
-                    <a href="https://chakra-ui.com/should-not-have-focus-if-panel-closed-5">
+                    <a href="https://chakra-xui.com/should-not-have-focus-if-panel-closed-5">
                       Chakra 2
                     </a>
-                    <a href="https://chakra-ui.com/should-not-have-focus-if-panel-closed-6">
+                    <a href="https://chakra-xui.com/should-not-have-focus-if-panel-closed-6">
                       Chakra 3
                     </a>
                   </AccordionPanel>

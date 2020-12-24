@@ -1,5 +1,5 @@
 import * as React from "react"
-import { render, screen, testA11y } from "@chakra-ui/test-utils"
+import { render, screen, testA11y } from "@chakra-xui/test-utils"
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink } from "../src"
 
 test("matches snapshot", () => {

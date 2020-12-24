@@ -1,7 +1,7 @@
 import { ColorMode } from "./color-mode.utils"
 
 const hasLocalStorage = typeof Storage !== "undefined"
-export const storageKey = "chakra-ui-color-mode"
+export const storageKey = "chakra-xui-color-mode"
 
 export interface StorageManager {
   get(init?: ColorMode): ColorMode | undefined

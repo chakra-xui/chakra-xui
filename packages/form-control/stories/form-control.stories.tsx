@@ -1,4 +1,4 @@
-import { chakra, PropsOf, useMultiStyleConfig } from "@chakra-ui/system"
+import { chakra, PropsOf, useMultiStyleConfig } from "@chakra-xui/system"
 import * as React from "react"
 import {
   FormControlOptions,

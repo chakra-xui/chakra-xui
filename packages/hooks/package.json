@@ -1,16 +1,16 @@
 {
-  "name": "@chakra-ui/hooks",
+  "name": "@chakra-xui/hooks",
   "version": "1.0.2",
   "description": "React hooks for Chakra components",
   "keywords": [
     "hooks",
     "react",
-    "chakra ui",
+    "chakra xui",
     "utilities"
   ],
   "sideEffects": false,
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -50,7 +50,7 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-ui/utils": "1.0.2",
+    "@chakra-xui/utils": "1.0.2",
     "@reach/auto-id": "0.11.0",
     "compute-scroll-into-view": "1.0.14",
     "copy-to-clipboard": "3.3.1"

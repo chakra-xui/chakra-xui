@@ -1,10 +1,10 @@
-import { useClickable, UseClickableProps } from "@chakra-ui/clickable"
-import { useDescendant, useDescendants } from "@chakra-ui/descendant"
+import { useClickable, UseClickableProps } from "@chakra-xui/clickable"
+import { useDescendant, useDescendants } from "@chakra-xui/descendant"
 import {
   useControllableState,
   useId,
   useSafeLayoutEffect,
-} from "@chakra-ui/hooks"
+} from "@chakra-xui/hooks"
 import {
   ariaAttr,
   callAllHandlers,
@@ -15,7 +15,7 @@ import {
   isUndefined,
   mergeRefs,
   normalizeEventKey,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import * as React from "react"
 
 export interface UseTabsProps {
@@ -62,7 +62,7 @@ export interface UseTabsProps {
  * Its returned object will be passed unto a Context Provider
  * so all child components can read from it.
  * There is no document link yet
- * @see Docs https://chakra-ui.com/docs/components/useTabs
+ * @see Docs https://chakra-xui.com/docs/components/useTabs
  */
 export function useTabs(props: UseTabsProps) {
   const {

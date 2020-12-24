@@ -1,7 +1,7 @@
 {
-  "name": "@chakra-ui/transition",
+  "name": "@chakra-xui/transition",
   "version": "1.0.3",
-  "description": "Common transition components for Chakra UI",
+  "description": "Common transition components for Chakra xui",
   "sideEffects": false,
   "keywords": [
     "transition",
@@ -9,10 +9,10 @@
     "react",
     "react transition group",
     "motion",
-    "chakra ui"
+    "chakra xui"
   ],
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -52,15 +52,15 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-ui/hooks": "1.0.2",
-    "@chakra-ui/utils": "1.0.2"
+    "@chakra-xui/hooks": "1.0.2",
+    "@chakra-xui/utils": "1.0.2"
   },
   "peerDependencies": {
-    "framer-motion": ">=3.0.0",
-    "react": "16.x || 17.x"
+    "framer-motion": "3.1.1",
+    "react": "17.x"
   },
   "devDependencies": {
-    "framer-motion": "3.0.0",
+    "framer-motion": "3.1.1",
     "react": "^17.0.1"
   }
 }

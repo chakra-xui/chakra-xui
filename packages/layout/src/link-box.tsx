@@ -4,7 +4,7 @@ import {
   forwardRef,
   PropsOf,
   HTMLChakraProps,
-} from "@chakra-ui/system"
+} from "@chakra-xui/system"
 import * as React from "react"
 
 export interface LinkOverlayProps extends HTMLChakraProps<"a"> {}
@@ -36,7 +36,7 @@ export interface LinkBoxProps extends HTMLChakraProps<"div">, BaseLinkProps {
 
 /**
  * LinkBox is used to wrap content areas within a link while ensuring semantic html
- * To learn more, @see https://github.com/chakra-ui/chakra-ui/pull/1717
+ * To learn more, @see https://github.com/chakra-xui/chakra-xui/pull/1717
  */
 export const LinkBox = forwardRef<LinkBoxProps, "div">((props, ref) => {
   const { children, href, target, rel, isExternal, ...rest } = props

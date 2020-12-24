@@ -1,5 +1,5 @@
 import * as React from "react"
-import { render, fireEvent, screen, testA11y } from "@chakra-ui/test-utils"
+import { render, fireEvent, screen, testA11y } from "@chakra-xui/test-utils"
 import { FocusLock } from "../src"
 
 test("focuses an element on render", () => {

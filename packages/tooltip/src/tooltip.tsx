@@ -1,4 +1,4 @@
-import { Portal } from "@chakra-ui/portal"
+import { Portal } from "@chakra-xui/portal"
 import {
   chakra,
   forwardRef,
@@ -6,9 +6,9 @@ import {
   omitThemingProps,
   ThemingProps,
   useStyleConfig,
-} from "@chakra-ui/system"
-import { isString, omit, pick, __DEV__ } from "@chakra-ui/utils"
-import { VisuallyHidden } from "@chakra-ui/visually-hidden"
+} from "@chakra-xui/system"
+import { isString, omit, pick, __DEV__ } from "@chakra-xui/utils"
+import { VisuallyHidden } from "@chakra-xui/visually-hidden"
 import { AnimatePresence, motion, Variants } from "framer-motion"
 import * as React from "react"
 import { useTooltip, UseTooltipProps } from "./use-tooltip"
@@ -81,7 +81,7 @@ const scaleVariants: Variants = {
 /**
  * Tooltips display informative text when users hover, focus on, or tap an element.
  *
- * @see Docs     https://chakra-ui.com/components/tooltip
+ * @see Docs     https://chakra-xui.com/components/tooltip
  * @see WAI-ARIA https://www.w3.org/TR/wai-aria-practices/#tooltip
  */
 export const Tooltip = forwardRef<TooltipProps, "div">((props, ref) => {

@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, Heading, Stack, useColorModeValue } from "@chakra-ui/react"
+import { Link, Heading, Stack, useColorModeValue } from "@chakra-xui/react"
 
 interface EntryProps {
   item: any

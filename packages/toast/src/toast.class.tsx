@@ -1,4 +1,4 @@
-import { isBrowser } from "@chakra-ui/utils"
+import { isBrowser } from "@chakra-xui/utils"
 import * as React from "react"
 import { render } from "react-dom"
 import { ToastMethods, ToastManager } from "./toast-manager"

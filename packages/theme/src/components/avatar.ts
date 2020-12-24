@@ -1,4 +1,4 @@
-import { isDark, mode, randomColor } from "@chakra-ui/theme-tools"
+import { isDark, mode, randomColor } from "@chakra-xui/theme-tools"
 import themeSizes from "../foundations/sizes"
 
 const parts = ["container", "excessLabel", "badge", "label"]

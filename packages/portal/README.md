@@ -1,4 +1,4 @@
-# @chakra-ui/portal
+# @chakra-xui/portal
 
 A wrapper for rendering components in React Portals, with support for nested
 portals and stacking. No need to use `z-index` at all with this portal, that's
@@ -7,17 +7,17 @@ right!
 ## Installation
 
 ```sh
-yarn add @chakra-ui/portal
+yarn add @chakra-xui/portal
 
 # or
 
-npm i @chakra-ui/portal
+npm i @chakra-xui/portal
 ```
 
 ## Import components
 
 ```jsx
-import { Portal, PortalManager } from "@chakra-ui/portal"
+import { Portal, PortalManager } from "@chakra-xui/portal"
 ```
 
 Render the `PortalManager` once at the root of your application

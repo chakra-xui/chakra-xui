@@ -1,4 +1,4 @@
-# @chakra-ui/skeleton
+# @chakra-xui/skeleton
 
 Skeleton page is used to provide a low fidelity representation of the user
 interface (UI) before content appears on the page
@@ -9,17 +9,17 @@ frustration. They create better “perceived performance”.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/skeleton
+yarn add @chakra-xui/skeleton
 
 # or
 
-npm i @chakra-ui/skeleton
+npm i @chakra-xui/skeleton
 ```
 
 ## Import components
 
 ```jsx
 <Skeleton>
-  <span>Chakra ui is cool</span>
+  <span>Chakra xui is cool</span>
 </Skeleton>
 ```

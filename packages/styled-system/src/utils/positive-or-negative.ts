@@ -1,4 +1,4 @@
-import { StringOrNumber, isString, isNumber } from "@chakra-ui/utils"
+import { StringOrNumber, isString, isNumber } from "@chakra-xui/utils"
 import unit from "css-get-unit"
 
 const startsWith = (string: string, target: string) =>

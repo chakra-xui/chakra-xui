@@ -5,7 +5,7 @@ import {
   fireEvent,
   testA11y,
   screen,
-} from "@chakra-ui/test-utils"
+} from "@chakra-xui/test-utils"
 import {
   Accordion,
   AccordionButton,

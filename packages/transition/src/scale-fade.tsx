@@ -1,4 +1,4 @@
-import { cx, mergeWith, __DEV__ } from "@chakra-ui/utils"
+import { cx, mergeWith, __DEV__ } from "@chakra-xui/utils"
 import { AnimatePresence, HTMLMotionProps, motion } from "framer-motion"
 import * as React from "react"
 import { EASINGS, MotionVariants } from "./__utils"

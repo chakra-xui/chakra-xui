@@ -5,8 +5,8 @@ import {
   ThemingProps,
   useStyleConfig,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { cx, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 export interface CodeProps extends HTMLChakraProps<"code">, ThemingProps {}
@@ -14,7 +14,7 @@ export interface CodeProps extends HTMLChakraProps<"code">, ThemingProps {}
 /**
  * React component to render inline code snippets.
  *
- * @see Docs https://chakra-ui.com/docs/data-display/code
+ * @see Docs https://chakra-xui.com/docs/data-display/code
  */
 export const Code = forwardRef<CodeProps, "code">((props, ref) => {
   const styles = useStyleConfig("Code", props)

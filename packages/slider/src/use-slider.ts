@@ -7,7 +7,7 @@ import {
   useIds,
   useUnmountEffect,
   useUpdateEffect,
-} from "@chakra-ui/hooks"
+} from "@chakra-xui/hooks"
 import {
   ariaAttr,
   callAllHandlers,
@@ -25,7 +25,7 @@ import {
   PropGetter,
   roundValueToStep,
   valueToPercent,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import { CSSProperties, useCallback, useMemo, useRef, useState } from "react"
 
 export interface UseSliderProps {
@@ -125,7 +125,7 @@ type EventSource = "mouse" | "touch" | "keyboard"
  * It is an alternative to `<input type="range" />`, and returns
  * prop getters for the component parts
  *
- * @see Docs     https://chakra-ui.com/docs/form/slider
+ * @see Docs     https://chakra-xui.com/docs/form/slider
  * @see WAI-ARIA https://www.w3.org/TR/wai-aria-practices-1.1/#slider
  */
 export function useSlider(props: UseSliderProps) {

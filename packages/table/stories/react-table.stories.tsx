@@ -1,8 +1,8 @@
 import * as React from "react"
 import { Column, useTable } from "react-table"
 import { useMemo } from "react"
-import { Button, ButtonGroup, IconButton } from "@chakra-ui/button"
-import { StarIcon } from "@chakra-ui/icons"
+import { Button, ButtonGroup, IconButton } from "@chakra-xui/button"
+import { StarIcon } from "@chakra-xui/icons"
 import { Table, TableCellProps, Tbody, Td, Th, Thead, Tr } from "../src"
 
 export default {

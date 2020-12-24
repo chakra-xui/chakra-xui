@@ -1,4 +1,4 @@
-# @chakra-ui/menu
+# @chakra-xui/menu
 
 An accessible dropdown menu for the common dropdown menu button design pattern.
 Menu uses roving tabIndex for focus management.
@@ -6,11 +6,11 @@ Menu uses roving tabIndex for focus management.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/menu
+yarn add @chakra-xui/menu
 
 # or
 
-npm i @chakra-ui/menu
+npm i @chakra-xui/menu
 ```
 
 ## Import components
@@ -25,7 +25,7 @@ import {
   MenuDivider,
   MenuOptionGroup,
   MenuItemOption,
-} from "@chakra-ui/react"
+} from "@chakra-xui/react"
 ```
 
 ## Usage

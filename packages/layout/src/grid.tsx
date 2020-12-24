@@ -4,8 +4,8 @@ import {
   ResponsiveValue,
   SystemProps,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { filterUndefined, mapResponsive, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { filterUndefined, mapResponsive, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import { BoxProps } from "./box"
 
@@ -17,7 +17,7 @@ export interface GridProps extends HTMLChakraProps<"div">, GridOptions {}
  * It renders a `div` with `display: grid` and
  * comes with helpful style shorthand.
  *
- * @see Docs https://chakra-ui.com/docs/layout/grid
+ * @see Docs https://chakra-xui.com/docs/layout/grid
  */
 export const Grid = forwardRef<GridProps, "div">((props, ref) => {
   const {

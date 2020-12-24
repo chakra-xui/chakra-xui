@@ -1,5 +1,5 @@
-import { Icon } from "@chakra-ui/icon"
-import { Container, Divider, Heading, Stack } from "@chakra-ui/layout"
+import { Icon } from "@chakra-xui/icon"
+import { Container, Divider, Heading, Stack } from "@chakra-xui/layout"
 import * as React from "react"
 import { Checkbox, CheckboxGroup, useCheckbox } from "../src"
 

@@ -8,8 +8,8 @@ import {
   useStyles,
   useTheme,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { cx, mapResponsive, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, mapResponsive, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 export interface WrapProps extends HTMLChakraProps<"div"> {
@@ -43,7 +43,7 @@ export interface WrapProps extends HTMLChakraProps<"div"> {
  * - Buttons that appear together at the end of forms
  * - Lists of tags and chips
  *
- * @see Docs https://chakra-ui.com/docs/layout/wrap
+ * @see Docs https://chakra-xui.com/docs/layout/wrap
  */
 export const Wrap = forwardRef<WrapProps, "div">((props, ref) => {
   const {

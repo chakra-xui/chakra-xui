@@ -4,7 +4,7 @@ import {
   screen,
   testA11y,
   userEvent,
-} from "@chakra-ui/test-utils"
+} from "@chakra-xui/test-utils"
 import * as React from "react"
 import { Editable, EditableInput, EditablePreview } from "../src"
 

@@ -1,28 +1,28 @@
-# @chakra-ui/gatsby-plugin
+# @chakra-xui/gatsby-plugin
 
-Gatsby plugin for adding Chakra UI
+Gatsby plugin for adding Chakra xui
 
 ## Installation
 
-⚡ To use Chakra UI in your Gatsby site, you need to install the plugin and its
+⚡ To use Chakra xui in your Gatsby site, you need to install the plugin and its
 peer dependencies.
 
 ```sh
-npm i @chakra-ui/gatsby-plugin @chakra-ui/react @emotion/react @emotion/styled framer-motion
+npm i @chakra-xui/gatsby-plugin @chakra-xui/react @emotion/react @emotion/styled framer-motion
 
 # or
 
-yarn add @chakra-ui/gatsby-plugin @chakra-ui/react @emotion/react @emotion/styled framer-motion
+yarn add @chakra-xui/gatsby-plugin @chakra-xui/react @emotion/react @emotion/styled framer-motion
 ```
 
 ## Usage
 
-1. Add `@chakra-ui/gatsby-plugin` as a plugin in your Gatsby config.
+1. Add `@chakra-xui/gatsby-plugin` as a plugin in your Gatsby config.
 
 ```js
 // gatsby-config.js
 module.exports = {
-  plugins: ["@chakra-ui/gatsby-plugin"],
+  plugins: ["@chakra-xui/gatsby-plugin"],
 }
 ```
 
@@ -31,7 +31,7 @@ module.exports = {
 ```jsx
 // src/pages/index.js
 import React from "react"
-import { Box, Text } from "@chakra-ui/react"
+import { Box, Text } from "@chakra-xui/react"
 
 function IndexPage() {
   return (
@@ -73,7 +73,7 @@ You can disable either of these with Gatsby options:
 module.exports = {
   plugins: [
     {
-      resolve: "@chakra-ui/gatsby-plugin",
+      resolve: "@chakra-xui/gatsby-plugin",
       options: {
         /**
          * @property {boolean} [isResettingCSS=true]
@@ -100,18 +100,18 @@ module.exports = {
 ## Customizing the theme
 
 To use customize the theme in your Gatsby site, you can shadow the plugin's
-`src/@chakra-ui/gatsby-plugin/theme.js` file with your own theme:
+`src/@chakra-xui/gatsby-plugin/theme.js` file with your own theme:
 
 ```js
-// src/@chakra-ui/gatsby-plugin/theme.js
+// src/@chakra-xui/gatsby-plugin/theme.js
 const theme = {}
 
 export default theme
 ```
 
 You can learn more about custom theme at
-[Chakra UI's documentation](https://chakra-ui.com/theme).
+[Chakra xui's documentation](https://chakra-xui.com/theme).
 
 By default, Chakra provides a sensible
-[default theme](https://github.com/chakra-ui/chakra-ui/tree/develop/packages/theme)
+[default theme](https://github.com/chakra-xui/chakra-xui/tree/develop/packages/theme)
 inspired by Tailwind CSS.

@@ -1,4 +1,4 @@
-import { useDisclosure } from "@chakra-ui/hooks"
+import { useDisclosure } from "@chakra-xui/hooks"
 import { AnimatePresence, motion, Variants } from "framer-motion"
 import * as React from "react"
 import { usePopper } from "../src"

@@ -1,4 +1,4 @@
-import { Icon, IconProps } from "@chakra-ui/icon"
+import { Icon, IconProps } from "@chakra-xui/icon"
 import {
   chakra,
   forwardRef,
@@ -9,8 +9,8 @@ import {
   useMultiStyleConfig,
   useStyles,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { Collapse } from "@chakra-ui/transition"
+} from "@chakra-xui/system"
+import { Collapse } from "@chakra-xui/transition"
 import {
   createContext,
   cx,
@@ -18,7 +18,7 @@ import {
   MaybeRenderProp,
   runIfFn,
   __DEV__,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import * as React from "react"
 import {
   AccordionProvider,
@@ -45,7 +45,7 @@ export interface AccordionProps
  * for all accordion items.
  *
  * It wraps all accordion items in a `div` for better grouping.
- * @see Docs https://chakra-ui.com/docs/components/accordion
+ * @see Docs https://chakra-xui.com/docs/components/accordion
  */
 export const Accordion = forwardRef<AccordionProps, "div">(
   ({ children, reduceMotion, ...props }, ref) => {

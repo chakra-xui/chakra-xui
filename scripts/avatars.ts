@@ -17,7 +17,7 @@ const avatarsDir = path.join(publicDir, "avatars")
  */
 async function getSponsors() {
   const response = await fetch(
-    "https://opencollective.com/chakra-ui/members/all.json",
+    "https://opencollective.com/chakra-xui/members/all.json",
   )
   const sponsors = await response.json()
 

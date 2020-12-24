@@ -21,7 +21,7 @@ module.exports = function (api) {
   ]
 
   const plugins = [
-    "@chakra-ui/babel-plugin",
+    "@chakra-xui/babel-plugin",
     "@babel/plugin-proposal-class-properties",
   ]
 

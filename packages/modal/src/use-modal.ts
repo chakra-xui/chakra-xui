@@ -1,5 +1,5 @@
-import { useIds } from "@chakra-ui/hooks"
-import { callAllHandlers, mergeRefs, PropGetter } from "@chakra-ui/utils"
+import { useIds } from "@chakra-xui/hooks"
+import { callAllHandlers, mergeRefs, PropGetter } from "@chakra-xui/utils"
 import { hideOthers, Undo } from "aria-hidden"
 import {
   KeyboardEvent,
@@ -14,7 +14,7 @@ import { manager, useModalManager } from "./modal-manager"
 
 export interface UseModalProps {
   /**
-   * If `true`, the modal when be opened.
+   * If `true`, the modal will be open.
    */
   isOpen: boolean
   /**

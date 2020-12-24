@@ -1,4 +1,4 @@
-import { useSafeLayoutEffect } from "@chakra-ui/hooks"
+import { useSafeLayoutEffect } from "@chakra-xui/hooks"
 import {
   ImgHTMLAttributes,
   useCallback,

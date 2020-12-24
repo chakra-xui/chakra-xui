@@ -1,5 +1,5 @@
 import React from "react"
-import theme from "@chakra-ui/theme"
+import theme from "@chakra-xui/theme"
 import { ColorModeOptions } from "../src/color-mode-provider"
 import type { ColorMode } from "../src/color-mode.utils"
 import { screen } from "@testing-library/react"
@@ -32,8 +32,8 @@ export const createMockStorageManager = (
 }
 
 export const mockIsBrowser = (isBrowser: boolean) => {
-  jest.mock("@chakra-ui/utils", () => {
-    const actual = jest.requireActual("@chakra-ui/utils")
+  jest.mock("@chakra-xui/utils", () => {
+    const actual = jest.requireActual("@chakra-xui/utils")
 
     return {
       ...actual,

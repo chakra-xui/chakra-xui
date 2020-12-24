@@ -1,10 +1,10 @@
-import { useCounter, UseCounterProps } from "@chakra-ui/counter"
-import { useFormControl } from "@chakra-ui/form-control"
+import { useCounter, UseCounterProps } from "@chakra-xui/counter"
+import { useFormControl } from "@chakra-xui/form-control"
 import {
   useBoolean,
   useEventListener,
   useSafeLayoutEffect,
-} from "@chakra-ui/hooks"
+} from "@chakra-xui/hooks"
 import {
   ariaAttr,
   callAllHandlers,
@@ -19,7 +19,7 @@ import {
   pick,
   PropGetter,
   StringOrNumber,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import * as React from "react"
 import { useSpinner } from "./use-spinner"
 import {
@@ -102,7 +102,7 @@ const sanitize = (value: string) =>
  * custom number inputs.
  *
  * @see WAI-ARIA https://www.w3.org/TR/wai-aria-practices-1.1/#spinbutton
- * @see Docs     https://www.chakra-ui.com/useNumberInput
+ * @see Docs     https://www.chakra-xui.com/useNumberInput
  * @see WHATWG   https://html.spec.whatwg.org/multipage/input.html#number-state-(type=number)
  */
 export function useNumberInput(props: UseNumberInputProps = {}) {

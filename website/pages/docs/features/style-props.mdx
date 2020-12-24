@@ -1,7 +1,7 @@
 ---
 title: Style Props
 description:
-  Learn how to use style props in Chakra UI. Style props are a way to alter the
+  Learn how to use style props in Chakra xui. Style props are a way to alter the
   style of a component by simply passing props to it
 ---
 
@@ -17,7 +17,7 @@ each group.
 ### Margin and padding
 
 ```jsx live=false
-import { Box } from "@chakra-ui/react"
+import { Box } from "@chakra-xui/react"
 
 // m={2} refers to the value of `theme.space[2]`
 <Box m={2}>Tomato</Box>
@@ -49,7 +49,7 @@ import { Box } from "@chakra-ui/react"
 ### Color and background color
 
 ```jsx live=false
-import { Box } from "@chakra-ui/react"
+import { Box } from "@chakra-xui/react"
 
 // picks up a nested color value using dot notation
 // => `theme.colors.gray[50]`
@@ -75,7 +75,7 @@ import { Box } from "@chakra-ui/react"
 ### Typography
 
 ```jsx live=false
-import { Text } from "@chakra-ui/react"
+import { Text } from "@chakra-xui/react"
 
 // font-size of `theme.fontSizes.md`
 <Text fontSize="md" />
@@ -105,7 +105,7 @@ import { Text } from "@chakra-ui/react"
 ### Layout, width and height
 
 ```jsx live=false
-import { Box } from "@chakra-ui/react"
+import { Box } from "@chakra-xui/react"
 
 // verbose
 <Box width="100%" height={32} />
@@ -145,7 +145,7 @@ import { Box } from "@chakra-ui/react"
 ### Flexbox
 
 ```jsx live=false
-import { Box, Flex } from "@chakra-ui/react"
+import { Box, Flex } from "@chakra-xui/react"
 
 // verbose
 <Box display="flex" alignItems="center" justifyContent="space-between">
@@ -179,7 +179,7 @@ import { Box, Flex } from "@chakra-ui/react"
 ### Grid Layout
 
 ```jsx live=false
-import { Box, Grid } from "@chakra-ui/react"
+import { Box, Grid } from "@chakra-xui/react"
 
 // verbose
 <Box display="grid" gridGap={2} gridAutoFlow="row dense">
@@ -212,7 +212,7 @@ import { Box, Grid } from "@chakra-ui/react"
 ### Background
 
 ```jsx live=false
-import { Box } from "@chakra-ui/react"
+import { Box } from "@chakra-xui/react"
 
 // verbose
 <Box
@@ -274,7 +274,7 @@ import { Box } from "@chakra-ui/react"
 ### Border Radius
 
 ```jsx live=false
-import { Button } from "@chakra-ui/react"
+import { Button } from "@chakra-xui/react"
 
 // This button will have no right borderRadius
 <Button borderRightRadius="0">Button 1</Button>
@@ -301,7 +301,7 @@ import { Button } from "@chakra-ui/react"
 ### Position
 
 ```jsx live=false
-import { Box } from "@chakra-ui/react"
+import { Box } from "@chakra-xui/react"
 
 // verbose
 <Box position="absolute">Cover</Box>
@@ -384,7 +384,7 @@ import { Box } from "@chakra-ui/react"
 ### Pseudo
 
 ```jsx live=false
-import { Button } from "@chakra-ui/react"
+import { Button } from "@chakra-xui/react"
 
 // :hover style
 <Button
@@ -490,7 +490,7 @@ For example, say you are using a `Button` component, and you need to make it a
 link instead. You can compose `a` and `Button` like this:
 
 ```jsx
-<Button as="a" target="_blank" variant="outline" href="https://chakra-ui.com">
+<Button as="a" target="_blank" variant="outline" href="https://chakra-xui.com">
   Hello
 </Button>
 ```

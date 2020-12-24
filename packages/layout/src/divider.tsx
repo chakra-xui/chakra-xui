@@ -5,15 +5,15 @@ import {
   ThemingProps,
   useStyleConfig,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { cx, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 /**
  * Layout component used to visually separate content in a list or group.
  * It display a thin horizontal or vertical line, and renders a `hr` tag.
  *
- * @see Docs https://chakra-ui.com/docs/data-display/divider
+ * @see Docs https://chakra-xui.com/docs/data-display/divider
  */
 export const Divider = forwardRef<DividerProps, "hr">((props, ref) => {
   const {

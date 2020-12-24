@@ -1,4 +1,4 @@
-import { ColorModeOptions } from "@chakra-ui/system"
+import { ColorModeOptions } from "@chakra-xui/system"
 import components from "./components"
 import foundations, { Foundations } from "./foundations"
 import styles from "./styles"

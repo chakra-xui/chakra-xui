@@ -1,4 +1,4 @@
-import * as chakraComponents from "@chakra-ui/react"
+import * as chakraComponents from "@chakra-xui/react"
 import { MDXProvider } from "@mdx-js/react"
 import MDXComponents from "components/mdx-components"
 import PageContainer from "components/page-container"

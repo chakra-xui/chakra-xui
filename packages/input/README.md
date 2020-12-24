@@ -5,11 +5,11 @@ Input component is a component that is used to get user input in a text field.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/input
+yarn add @chakra-xui/input
 
 # or
 
-npm i @chakra-ui/input
+npm i @chakra-xui/input
 ```
 
 ## Import components
@@ -24,7 +24,7 @@ import {
   InputElement,
   InputLeftElement,
   InputRightElement,
-} from "@chakra-ui/input"
+} from "@chakra-xui/input"
 ```
 
 ## Usage
@@ -59,7 +59,7 @@ Pass the `isReadOnly` prop to have the input in the read-only state.
 
 ## Sizes
 
-Pass the `size` prop to change the size of the input. Chakra UI input size
+Pass the `size` prop to change the size of the input. Chakra xui input size
 values are: `sm`, `md` and `lg`. The size of the input component is `md` by
 default.
 
@@ -76,7 +76,7 @@ default.
 ## Variant
 
 Pass the `variant` prop to change the visual appearance of the input component.
-Chakra UI input variant types are: `outline`, `filled`, `flushed` and
+Chakra xui input variant types are: `outline`, `filled`, `flushed` and
 `unstyled`.
 
 ```jsx

@@ -1,7 +1,11 @@
 import * as React from "react"
-import { render, fireEvent, screen } from "@chakra-ui/test-utils"
+import { render, fireEvent, screen } from "@chakra-xui/test-utils"
 import { Radio, useRadio, UseRadioProps } from "../src"
-import { FormControl, FormHelperText, FormLabel } from "@chakra-ui/form-control"
+import {
+  FormControl,
+  FormHelperText,
+  FormLabel,
+} from "@chakra-xui/form-control"
 
 test("has proper aria and data attributes", async () => {
   const Component = (props: UseRadioProps = {}) => {
@@ -132,7 +136,7 @@ test("should derive values from surrounding FormControl", () => {
       onBlur={onBlur}
     >
       <FormLabel>Radio</FormLabel>
-      <Radio value="Chakra UI">Chakra UI</Radio>
+      <Radio value="Chakra xui">Chakra xui</Radio>
       <FormHelperText>Select a value</FormHelperText>
     </FormControl>,
   )

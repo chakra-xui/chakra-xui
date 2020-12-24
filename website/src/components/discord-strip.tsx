@@ -1,4 +1,4 @@
-import { Box, BoxProps, chakra, Flex, Heading, Text } from "@chakra-ui/react"
+import { Box, BoxProps, chakra, Flex, Heading, Text } from "@chakra-xui/react"
 import * as React from "react"
 import { FaDiscord } from "react-icons/fa"
 import Container from "./container"

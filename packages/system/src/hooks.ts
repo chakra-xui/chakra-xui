@@ -1,5 +1,5 @@
-import { useColorMode } from "@chakra-ui/color-mode"
-import { SystemStyleObject } from "@chakra-ui/styled-system"
+import { useColorMode } from "@chakra-xui/color-mode"
+import { SystemStyleObject } from "@chakra-xui/styled-system"
 import {
   Dict,
   filterUndefined,
@@ -7,7 +7,7 @@ import {
   mergeWith,
   runIfFn,
   StringOrNumber,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import { useMemo, useRef } from "react"
 import isEqual from "react-fast-compare"
 import { useTheme } from "./providers"

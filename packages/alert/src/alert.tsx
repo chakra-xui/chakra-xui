@@ -8,8 +8,8 @@ import {
   useMultiStyleConfig,
   useStyles,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { createContext, cx } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { createContext, cx } from "@chakra-xui/utils"
 import * as React from "react"
 import { CheckIcon, InfoIcon, WarningIcon } from "./icons"
 

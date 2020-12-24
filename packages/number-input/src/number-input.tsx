@@ -7,8 +7,8 @@ import {
   useMultiStyleConfig,
   useStyles,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { createContext, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { createContext, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import { TriangleDownIcon, TriangleUpIcon } from "./icons"
 import {
@@ -64,7 +64,7 @@ export interface NumberInputProps
  *
  * It renders a `div` by default.
  *
- * @see Docs http://chakra-ui.com/numberinput
+ * @see Docs http://chakra-xui.com/numberinput
  */
 export const NumberInput = forwardRef<NumberInputProps, "div">((props, ref) => {
   const styles = useMultiStyleConfig("NumberInput", props)
@@ -103,7 +103,7 @@ export interface NumberInputStepperProps extends HTMLChakraProps<"div"> {}
  *
  * It renders a `div` by default.
  *
- * @see Docs http://chakra-ui.com/components/number-input
+ * @see Docs http://chakra-xui.com/components/number-input
  */
 export const NumberInputStepper = forwardRef<NumberInputStepperProps, "div">(
   (props, ref) => {
@@ -144,7 +144,7 @@ export interface NumberInputFieldProps extends HTMLChakraProps<"input"> {}
  * It renders an `input` by default and ensures only numeric
  * values can be typed.
  *
- * @see Docs http://chakra-ui.com/numberinput
+ * @see Docs http://chakra-xui.com/numberinput
  */
 export const NumberInputField = forwardRef<NumberInputFieldProps, "input">(
   (props, ref) => {

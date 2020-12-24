@@ -1,4 +1,4 @@
-# @chakra-ui/toast
+# @chakra-xui/toast
 
 The toast is used to show alerts on top of an overlay.
 
@@ -12,7 +12,7 @@ time.
 ## Import component
 
 ```js
-import useToast from "@chakra-ui/toast"
+import useToast from "@chakra-xui/toast"
 ```
 
 ## Usage
@@ -49,7 +49,7 @@ bottom, bottom-left**
 
 ```jsx
 import * as React from "react"
-import useToast from "@chakra-ui/toast"
+import useToast from "@chakra-xui/toast"
 
 const Position = () => {
   const toast = useToast()
@@ -72,7 +72,7 @@ invoking the `toast` function.
 
 ```jsx
 import * as React from "react"
-import useToast from "@chakra-ui/toast"
+import useToast from "@chakra-xui/toast"
 
 const Duration = () => {
   const toast = useToast()
@@ -132,7 +132,7 @@ To prevent duplicates, you can check if a given toast is active by calling
 
 ```js
 import * as React from "react"
-import useToast from "@chakra-ui/toast"
+import useToast from "@chakra-xui/toast"
 
 const Example = () => {
   const toast = useToast()
@@ -160,7 +160,7 @@ don't worry you can update them.
 
 ```js
 import * as React from "react"
-import useToast from "@chakra-ui/toast"
+import useToast from "@chakra-xui/toast"
 
 const Update = () => {
   const toast = useToast()
