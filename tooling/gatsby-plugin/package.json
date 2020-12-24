@@ -1,6 +1,6 @@
 {
   "name": "@chakra-xui/gatsby-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Drop-in Chakra xui support for Gatsby sites",
   "author": "Alex Luong <alex@alexluong.com>",
   "license": "MIT",

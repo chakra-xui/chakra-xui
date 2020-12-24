@@ -1,5 +1,31 @@
 # Change Log
 
+## 1.1.0
+
+### Minor Changes
+
+- [`6a410f77`](https://github.com/chakra-xui/chakra-xui/commit/6a410f778f534e00e01fdf0d3ce1ffdd1d7b138e)
+  [#2834](https://github.com/chakra-ui/chakra-ui/pull/2834) Thanks
+  [@TimKolberger](https://github.com/TimKolberger)! - extendTheme: added an
+  optional second argument `baseTheme` to customize:
+
+  ```jsx
+  const theme = extendTheme({
+    // theme overrides
+    colors: { red: { 500: "#ff0000" } },
+    // the base theme to customize with the above overrides
+    yourTheme,
+  })
+  ```
+
+  If no `baseTheme` is provided, defaults to the Chakra theme.
+
+### Patch Changes
+
+- Updated dependencies
+  [[`5c8f0838`](https://github.com/chakra-xui/chakra-xui/commit/5c8f08382858c0bbc77d875db52859e7c304392f)]:
+  - @chakra-xui/skeleton@1.0.4
+
 ## 1.0.4
 
 ### Patch Changes

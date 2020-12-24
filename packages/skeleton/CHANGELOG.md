@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.0.4
+
+### Patch Changes
+
+- [`5c8f0838`](https://github.com/chakra-xui/chakra-xui/commit/5c8f08382858c0bbc77d875db52859e7c304392f)
+  [#2833](https://github.com/chakra-ui/chakra-ui/pull/2833) Thanks
+  [@TimKolberger](https://github.com/TimKolberger)! - SkeletonText accepts
+  fadeDuration and speed prop and animates children
+
 ## 1.0.3
 
 ### Patch Changes
