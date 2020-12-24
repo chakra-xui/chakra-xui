@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-ui/live-region",
+  "name": "@chakra-xui/live-region",
   "version": "1.0.2",
   "description": "Aria live region for React components",
   "keywords": [
@@ -9,11 +9,11 @@
     "accessbility",
     "a11y",
     "react",
-    "chakra ui"
+    "chakra xui"
   ],
   "sideEffects": false,
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -53,7 +53,7 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-ui/utils": "1.0.2"
+    "@chakra-xui/utils": "1.0.2"
   },
   "peerDependencies": {
     "react": "16.x || 17.x"

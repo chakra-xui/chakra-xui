@@ -8,7 +8,7 @@ import {
   useColorModeValue,
   LinkProps,
   WrapItem,
-} from "@chakra-ui/react"
+} from "@chakra-xui/react"
 import { FaNpm, FaGithub } from "react-icons/fa"
 import StorybookIcon from "./storybook-icon"
 
@@ -62,7 +62,7 @@ function ComponentLinks(props: ComponentLinksProps) {
       <ComponentLink
         url={
           github.url ||
-          `https://github.com/chakra-ui/chakra-ui/tree/master/packages/${github.package}`
+          `https://github.com/chakra-xui/chakra-xui/tree/master/packages/${github.package}`
         }
         icon={FaGithub}
         iconColor={useColorModeValue("gray.600", "inherit")}

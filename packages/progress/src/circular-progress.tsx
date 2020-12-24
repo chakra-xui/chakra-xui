@@ -1,5 +1,5 @@
-import { chakra, SystemStyleObject, HTMLChakraProps } from "@chakra-ui/system"
-import { isUndefined, StringOrNumber, __DEV__ } from "@chakra-ui/utils"
+import { chakra, SystemStyleObject, HTMLChakraProps } from "@chakra-xui/system"
+import { isUndefined, StringOrNumber, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import { getProgressProps, rotate, spin } from "./progress.utils"
 
@@ -98,7 +98,7 @@ export interface CircularProgressProps
  * It is built using `svg` and `circle` components with support for
  * theming and `indeterminate` state
  *
- * @see Docs https://chakra-ui.com/docs/feedback/progress
+ * @see Docs https://chakra-xui.com/docs/feedback/progress
  * @todo add theming support for circular progress
  */
 export const CircularProgress: React.FC<CircularProgressProps> = (props) => {

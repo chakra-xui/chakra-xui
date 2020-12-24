@@ -11,7 +11,7 @@ import {
   ProgressLabel
   CircularProgress,
   CircularProgressLabel,
-} from "@chakra-ui/progress"
+} from "@chakra-xui/progress"
 ```
 
 - Support for `color` prop has been deprecated. Use `colorScheme` prop instead.

@@ -1,15 +1,16 @@
 import * as React from "react"
-import { createContext, __DEV__ } from "@chakra-ui/utils"
-import { useSafeLayoutEffect, useForceUpdate } from "@chakra-ui/hooks"
+import { createContext, __DEV__ } from "@chakra-xui/utils"
+import { useSafeLayoutEffect, useForceUpdate } from "@chakra-xui/hooks"
 
 interface PortalManagerContext {
   node: HTMLElement
   zIndex?: number
 }
 
-const [PortalManagerContextProvider, usePortalManager] = createContext<
-  PortalManagerContext
->({
+const [
+  PortalManagerContextProvider,
+  usePortalManager,
+] = createContext<PortalManagerContext>({
   strict: false,
   name: "PortalManagerContext",
 })

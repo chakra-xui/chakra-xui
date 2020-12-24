@@ -1,12 +1,12 @@
 /* eslint-disable jsx-a11y/label-has-associated-control */
-import Icon from "@chakra-ui/icon"
+import Icon from "@chakra-xui/icon"
 import {
   fireEvent,
   render,
   renderHook,
   screen,
   testA11y,
-} from "@chakra-ui/test-utils"
+} from "@chakra-xui/test-utils"
 import * as React from "react"
 import {
   Checkbox,

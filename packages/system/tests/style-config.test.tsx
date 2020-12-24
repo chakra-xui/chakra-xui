@@ -1,4 +1,4 @@
-import { RtlRender, render } from "@chakra-ui/test-utils"
+import { RtlRender, render } from "@chakra-xui/test-utils"
 import * as React from "react"
 import { ThemeProvider, useStyleConfig, useProps } from "../src"
 

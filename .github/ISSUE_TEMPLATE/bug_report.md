@@ -29,10 +29,10 @@ might have asked the same thing before 😉!
 > Please create a minimal reproduction in CodeSandbox
 >
 > - JavaScript Template:
->   [JavaScript CodeSandbox template](https://codesandbox.io/s/github/chakra-ui/codesandbox-react-js-template/tree/master)
+>   [JavaScript CodeSandbox template](https://codesandbox.io/s/github/chakra-xui/codesandbox-react-js-template/tree/master)
 >
 > - TypeScript Template:
->   [TypeScript CodeSandbox template](https://codesandbox.io/s/github/chakra-ui/codesandbox-react-ts-template/tree/master)
+>   [TypeScript CodeSandbox template](https://codesandbox.io/s/github/chakra-xui/codesandbox-react-ts-template/tree/master)
 
 ## 🧐 Expected behavior
 
@@ -46,7 +46,7 @@ might have asked the same thing before 😉!
 
 | Software         | Version(s) |
 | ---------------- | ---------- |
-| Chakra UI        |            |
+| Chakra xui       |            |
 | Browser          |            |
 | Operating System |            |
 

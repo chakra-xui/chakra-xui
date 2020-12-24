@@ -1,5 +1,5 @@
 import * as React from "react"
-import { isBrowser } from "@chakra-ui/utils"
+import { isBrowser } from "@chakra-xui/utils"
 
 const useSafeLayoutEffect = isBrowser ? React.useLayoutEffect : React.useEffect
 

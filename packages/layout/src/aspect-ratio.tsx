@@ -3,8 +3,8 @@ import {
   forwardRef,
   ResponsiveValue,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { cx, mapResponsive, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, mapResponsive, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 interface AspectRatioOptions {
@@ -24,7 +24,7 @@ export interface AspectRatioProps
  * React component used to cropping media (videos, images and maps)
  * to a desired aspect ratio.
  *
- * @see Docs https://chakra-ui.com/docs/layout/aspect-ratio
+ * @see Docs https://chakra-xui.com/docs/layout/aspect-ratio
  */
 export const AspectRatio = forwardRef<AspectRatioProps, "div">((props, ref) => {
   const { ratio = 4 / 3, children, className, ...rest } = props

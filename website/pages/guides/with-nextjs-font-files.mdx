@@ -1,7 +1,7 @@
 ---
 title: How to add font files to Chakra and Next.js
 description:
-  A guide for bringing custom font files to your Chakra UI project running on
+  A guide for bringing custom font files to your Chakra xui project running on
   Next.js
 tags: ["fonts", "import fonts", "@font-face", "next-js", "self-hosted fonts"]
 author: notbrett
@@ -87,7 +87,7 @@ For example, if the Heading font has `regular`, `italic`, `bold`, and
 `font-weight`, and `src` attributes updated appropriately. The good news is you
 only have to do this once. As to what is going on in `unicode-range`, I do not
 entirely know. It came from
-[this github issue](https://github.com/chakra-ui/chakra-ui/issues/1791). It does
+[this github issue](https://github.com/chakra-xui/chakra-xui/issues/1791). It does
 not appear to cause any harm. If you experience bad mojo, submit a PR and we can
 revise this guide.
 
@@ -98,7 +98,7 @@ is not there already, create an `_app.js` or `_app.ts` file in the `pages`
 folder. Use this as a template to get going:
 
 ```jsx
-import { ChakraProvider, Global, extendTheme } from "@chakra-ui/react"
+import { ChakraProvider, Global, extendTheme } from "@chakra-xui/react"
 import myTheme from "styles/theme"
 import fonts from "styles/font-face"
 
@@ -114,7 +114,7 @@ export default function App({ Component, pageProps }) {
 }
 ```
 
-Now you're ready to use the default Chakra UI components with your custom fonts.
+Now you're ready to use the default Chakra xui components with your custom fonts.
 Even better, your `theme.js` file is ready for any other
 overrides/customizations (like colors) you might want to use.
 

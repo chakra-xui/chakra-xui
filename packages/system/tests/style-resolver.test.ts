@@ -1,4 +1,4 @@
-import theme from "@chakra-ui/theme"
+import theme from "@chakra-xui/theme"
 import { styleResolver } from "../src/system"
 
 const customTheme: any = {

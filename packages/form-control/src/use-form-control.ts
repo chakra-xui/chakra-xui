@@ -1,4 +1,4 @@
-import { ariaAttr, callAllHandlers, omit } from "@chakra-ui/utils"
+import { ariaAttr, callAllHandlers, omit } from "@chakra-xui/utils"
 import { FocusEventHandler } from "react"
 import { FormControlOptions, useFormControlContext } from "./form-control"
 

@@ -1,5 +1,5 @@
-import { ThemingProps } from "@chakra-ui/system"
-import { createContext, __DEV__ } from "@chakra-ui/utils"
+import { ThemingProps } from "@chakra-xui/system"
+import { createContext, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import {
   useCheckboxGroup,
@@ -17,9 +17,10 @@ export interface CheckboxGroupContext
   extends Pick<UseCheckboxGroupReturn, "onChange" | "value">,
     Omit<ThemingProps, "orientation"> {}
 
-const [CheckboxGroupProvider, useCheckboxGroupContext] = createContext<
-  CheckboxGroupContext
->({
+const [
+  CheckboxGroupProvider,
+  useCheckboxGroupContext,
+] = createContext<CheckboxGroupContext>({
   name: "CheckboxGroupContext",
   strict: false,
 })
@@ -30,7 +31,7 @@ export { useCheckboxGroupContext }
  * Used for multiple checkboxes which are bound in one group,
  * and it indicates whether one or more options are selected.
  *
- * @see Docs https://chakra-ui.com/docs/form/checkbox
+ * @see Docs https://chakra-xui.com/docs/form/checkbox
  */
 export const CheckboxGroup: React.FC<CheckboxGroupProps> = (props) => {
   const { colorScheme, size, variant, children } = props

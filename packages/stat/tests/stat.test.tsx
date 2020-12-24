@@ -1,5 +1,5 @@
 import * as React from "react"
-import { render } from "@chakra-ui/test-utils"
+import { render } from "@chakra-xui/test-utils"
 import {
   StatGroup,
   Stat,

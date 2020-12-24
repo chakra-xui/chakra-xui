@@ -5,7 +5,7 @@ import {
   getAllFocusable,
   focus,
   FocusableElement,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 
 export interface FocusLockProps {
   /**

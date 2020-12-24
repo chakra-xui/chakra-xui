@@ -1,18 +1,18 @@
 ---
 title: Getting Started
-description: How to install and set up Chakra UI in your project
+description: How to install and set up Chakra xui in your project
 ---
 
 ## Installation
 
-Inside your React project directory, install Chakra UI by running the following:
+Inside your React project directory, install Chakra xui by running the following:
 
 ```bash
-npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+npm i @chakra-xui/react @emotion/react @emotion/styled framer-motion
 
 # or
 
-yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion
+yarn add @chakra-xui/react @emotion/react @emotion/styled framer-motion
 ```
 
 > For `create-react-app` installation instructions, check this
@@ -20,7 +20,7 @@ yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion
 
 ## Setup Provider
 
-For Chakra UI to work correctly, you need to setup the `ChakraProvider` at the
+For Chakra xui to work correctly, you need to setup the `ChakraProvider` at the
 root of your application.
 
 Go to the root of your application and do this:
@@ -29,7 +29,7 @@ Go to the root of your application and do this:
 import * as React from "react"
 
 // 1. import `ChakraProvider` component
-import { ChakraProvider } from "@chakra-ui/react"
+import { ChakraProvider } from "@chakra-xui/react"
 
 function App() {
   // 2. Use at the root of your app
@@ -42,21 +42,21 @@ function App() {
 ```
 
 > - For Next.js, you need to set this up in `pages/_app.js` or `pages/_app.tsx`
-> - For Gatsby, install the `@chakra-ui/gatsby-plugin`. It does it automatically
+> - For Gatsby, install the `@chakra-xui/gatsby-plugin`. It does it automatically
 >   for you.
 > - For Create React App, you need to set this up in `index.js` or `index.tsx`
 
 ## Add custom theme (Optional)
 
 If you need to customize the default chakra theme to match your design
-requirements, you can extend the `theme` from `@chakra-ui/react`.
+requirements, you can extend the `theme` from `@chakra-xui/react`.
 
-Chakra UI provides an `extendTheme` function that deep merges the default theme
+Chakra xui provides an `extendTheme` function that deep merges the default theme
 with your customizations.
 
 ```jsx live=false
 // 1. Import the extendTheme function
-import { extendTheme } from "@chakra-ui/react"
+import { extendTheme } from "@chakra-xui/react"
 
 // 2. Extend the theme to include custom colors, fonts, etc
 const colors = {
@@ -84,7 +84,7 @@ function App() {
 | Name             | Type             | Default               | Description                                         |
 | ---------------- | ---------------- | --------------------- | --------------------------------------------------- |
 | resetCSS         | `boolean`        | `true`                | automatically includes `<CSSReset />`               |
-| theme            | `Theme`          | `@chakra-ui/theme`    | optional custom theme                               |
+| theme            | `Theme`          | `@chakra-xui/theme`    | optional custom theme                               |
 | colorModeManager | `StorageManager` | `localStorageManager` | manager to persist a users color mode preference in |
 | portalZIndex     | `number`         | `undefined`           | common z-index to use for `Portal`                  |
 
@@ -92,17 +92,17 @@ That's it, you're good to go!
 
 ## Optional Packages
 
-- Icons: If you want to use the icons from Chakra UI, install `@chakra-ui/icons`
+- Icons: If you want to use the icons from Chakra xui, install `@chakra-xui/icons`
 - Theme Tools: If you intend to customize components or build your own design
   system, this package includes useful utilities. Install
-  `@chakra-ui/theme-tools`.
+  `@chakra-xui/theme-tools`.
 
 ## Notes on TypeScript 🚨
 
-Please note that when adding Chakra UI to a TypeScript project, a minimum
+Please note that when adding Chakra xui to a TypeScript project, a minimum
 TypeScript version of `3.8.0` is required.
 
-If you're adding Chakra UI to a `create-react-app` project, this means you'll
+If you're adding Chakra xui to a `create-react-app` project, this means you'll
 need to manually upgrade `typescript` to `^3.8.0`.
 
 See [the guide for our create-react-app](/guides/integrations/with-cra)

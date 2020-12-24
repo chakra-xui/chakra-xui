@@ -1,4 +1,4 @@
-import { chakra } from "@chakra-ui/system"
+import { chakra } from "@chakra-xui/system"
 import * as React from "react"
 import { Progress, ProgressLabel } from "../src"
 

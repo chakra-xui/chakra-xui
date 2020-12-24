@@ -1,4 +1,4 @@
-import { Icon, IconProps } from "@chakra-ui/icon"
+import { Icon, IconProps } from "@chakra-xui/icon"
 import {
   chakra,
   SystemProps,
@@ -9,8 +9,8 @@ import {
   useMultiStyleConfig,
   StylesProvider,
   useStyles,
-} from "@chakra-ui/system"
-import { getValidChildren, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { getValidChildren, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 interface ListOptions {
@@ -39,7 +39,7 @@ export interface ListProps
 /**
  * List is used to display list items, it renders a `<ul>` by default.
  *
- * @see Docs https://chakra-ui.com/docs/data-display/list
+ * @see Docs https://chakra-xui.com/docs/data-display/list
  */
 export const List = forwardRef<ListProps, "ul">((props, ref) => {
   const styles = useMultiStyleConfig("List", props)

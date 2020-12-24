@@ -3,7 +3,7 @@ import {
   focus,
   FocusableElement,
   getAllFocusable,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import * as React from "react"
 import { useEventListener } from "./use-event-listener"
 import { useUpdateEffect } from "./use-update-effect"

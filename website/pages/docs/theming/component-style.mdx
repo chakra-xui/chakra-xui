@@ -123,7 +123,7 @@ const Button = {
 Make sense? Next, we'll update the theme to include this new component style.
 
 ```jsx live=false
-import { extendTheme } from "@chakra-ui/react"
+import { extendTheme } from "@chakra-xui/react"
 
 const theme = extendTheme({
   components: {
@@ -157,7 +157,7 @@ passed, the `defaultProps` defined in the style config will be used.
 
 ```jsx live=false
 // 1. Import useStyleConfig
-import { useStyleConfig } from "@chakra-ui/react"
+import { useStyleConfig } from "@chakra-xui/react"
 
 function Button(props) {
   const { size, variant, ...rest } = props
@@ -260,7 +260,7 @@ const Menu = {
 Next, we'll update the theme object to included this new component style.
 
 ```jsx live=false
-import { extendTheme } from "@chakra-ui/react"
+import { extendTheme } from "@chakra-xui/react"
 
 const theme = extendTheme({
   components: {
@@ -303,7 +303,7 @@ import {
   StylesProvider,
   useMultiStyleConfig,
   useStyles,
-} from "@chakra-ui/react"
+} from "@chakra-xui/react"
 
 function Menu(props) {
   const { size, variant, children, ...rest } = props

@@ -1,4 +1,4 @@
-import { isBrowser } from "@chakra-ui/utils"
+import { isBrowser } from "@chakra-xui/utils"
 
 export interface LiveRegionOptions {
   /**

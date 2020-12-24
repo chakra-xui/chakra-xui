@@ -2,8 +2,8 @@ import {
   ResponsiveValue,
   SystemProps,
   SystemStyleObject,
-} from "@chakra-ui/styled-system"
-import { Dict } from "@chakra-ui/utils"
+} from "@chakra-xui/styled-system"
+import { Dict } from "@chakra-xui/utils"
 import { Interpolation } from "@emotion/react"
 import * as React from "react"
 import { ComponentWithAs } from "./forward-ref"

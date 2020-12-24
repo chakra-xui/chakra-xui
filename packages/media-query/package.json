@@ -1,9 +1,9 @@
 {
-  "name": "@chakra-ui/media-query",
+  "name": "@chakra-xui/media-query",
   "version": "1.0.2",
   "description": "A React hook for changing properties or visibility of a component based on css media query",
   "keywords": [
-    "chakra ui",
+    "chakra xui",
     "breakpoint",
     "matchMedia",
     "react",
@@ -12,7 +12,7 @@
   ],
   "sideEffects": false,
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -52,18 +52,18 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-ui/utils": "1.0.2"
+    "@chakra-xui/utils": "1.0.2"
   },
   "devDependencies": {
-    "@chakra-ui/system": "1.1.0",
-    "@chakra-ui/test-utils": "1.0.4",
-    "@chakra-ui/theme": "*",
+    "@chakra-xui/system": "1.1.0",
+    "@chakra-xui/test-utils": "1.0.4",
+    "@chakra-xui/theme": "*",
     "jest-matchmedia-mock": "^1.0.1",
     "react": "^17.0.1"
   },
   "peerDependencies": {
-    "@chakra-ui/system": ">=1.0.0",
-    "@chakra-ui/theme": ">=1.0.0",
+    "@chakra-xui/system": ">=1.0.0",
+    "@chakra-xui/theme": ">=1.0.0",
     "react": "16.x || 17.x"
   }
 }

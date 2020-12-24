@@ -10,10 +10,10 @@ function setScript(initialValue: Mode) {
   let persistedPreference: Mode
 
   try {
-    persistedPreference = localStorage.getItem("chakra-ui-color-mode") as Mode
+    persistedPreference = localStorage.getItem("chakra-xui-color-mode") as Mode
   } catch (error) {
     console.log(
-      "Chakra UI: localStorage is not available. Color mode persistence might not work as expected",
+      "Chakra xui: localStorage is not available. Color mode persistence might not work as expected",
     )
   }
 
@@ -29,7 +29,7 @@ function setScript(initialValue: Mode) {
 
   if (colorMode) {
     const root = document.documentElement
-    root.style.setProperty("--chakra-ui-color-mode", colorMode)
+    root.style.setProperty("--chakra-xui-color-mode", colorMode)
   }
 }
 

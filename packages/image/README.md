@@ -1,24 +1,24 @@
-# @chakra-ui/image
+# @chakra-xui/image
 
 The Image component is used to display images.
 
 ## Installation
 
 ```sh
-yarn add @chakra-ui/image
+yarn add @chakra-xui/image
 ```
 
 ## Import component
 
 ```jsx
-import { Image } from "@chakra-ui/image"
+import { Image } from "@chakra-xui/image"
 ```
 
 ## Basic Usage
 
 ```jsx
 import React from 'react'
-import { Image } from '@chakra-ui/image'
+import { Image } from '@chakra-xui/image'
 ​
 const Example = () => (
   <Image src="photo.png"  fallbackSrc="placeholdit.com/200x200" alt="A Placeholder Image" />

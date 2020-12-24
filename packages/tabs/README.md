@@ -1,4 +1,4 @@
-# @chakra-ui/tabs
+# @chakra-xui/tabs
 
 An accessible tabs component.
 
@@ -10,17 +10,17 @@ composition.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/tabs
+yarn add @chakra-xui/tabs
 
 # or
 
-npm i @chakra-ui/tabs
+npm i @chakra-xui/tabs
 ```
 
 ## Import components
 
 ```jsx
-import { Tabs, TabList, TabPanels, Tab, TabPanel } from "@chakra-ui/react"
+import { Tabs, TabList, TabPanels, Tab, TabPanel } from "@chakra-xui/react"
 ```
 
 ## Usage

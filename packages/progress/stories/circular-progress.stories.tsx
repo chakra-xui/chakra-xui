@@ -1,6 +1,6 @@
 import * as React from "react"
 import { CircularProgress, CircularProgressLabel } from "../src"
-import { chakra } from "@chakra-ui/system"
+import { chakra } from "@chakra-xui/system"
 
 export default {
   title: "Circular Progress",

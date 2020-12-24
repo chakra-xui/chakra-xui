@@ -1,11 +1,11 @@
 {
-  "name": "@chakra-ui/avatar",
+  "name": "@chakra-xui/avatar",
   "version": "1.0.2",
   "description": "A React component used to show users avatar or initials",
   "keywords": [
     "component",
     "react",
-    "chakra-ui",
+    "chakra-xui",
     "react-component",
     "avatar",
     "profile-image",
@@ -14,7 +14,7 @@
   ],
   "sideEffects": false,
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -54,15 +54,15 @@
     "lint:types": "tsc --noEmit"
   },
   "devDependencies": {
-    "@chakra-ui/system": "1.1.0",
+    "@chakra-xui/system": "1.1.0",
     "react": "^17.0.1"
   },
   "dependencies": {
-    "@chakra-ui/image": "1.0.2",
-    "@chakra-ui/utils": "1.0.2"
+    "@chakra-xui/image": "1.0.2",
+    "@chakra-xui/utils": "1.0.2"
   },
   "peerDependencies": {
-    "@chakra-ui/system": ">=1.0.0",
+    "@chakra-xui/system": ">=1.0.0",
     "react": "16.x || 17.x"
   }
 }

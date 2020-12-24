@@ -1,13 +1,13 @@
-import CSSReset from "@chakra-ui/css-reset"
-import { PortalManager } from "@chakra-ui/portal"
+import CSSReset from "@chakra-xui/css-reset"
+import { PortalManager } from "@chakra-xui/portal"
 import {
   ColorModeProvider,
   ColorModeProviderProps,
   GlobalStyle,
   ThemeProvider,
-} from "@chakra-ui/system"
-import defaultTheme from "@chakra-ui/theme"
-import { Dict } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import defaultTheme from "@chakra-xui/theme"
+import { Dict } from "@chakra-xui/utils"
 import * as React from "react"
 
 export interface ChakraProviderProps {

@@ -3,8 +3,8 @@ import {
   forwardRef,
   SystemProps,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 export interface FlexOptions {
@@ -59,7 +59,7 @@ export interface FlexProps extends HTMLChakraProps<"div">, FlexOptions {}
  * It renders a `div` with `display: flex` and
  * comes with helpful style shorthand.
  *
- * @see Docs https://chakra-ui.com/docs/layout/flex
+ * @see Docs https://chakra-xui.com/docs/layout/flex
  */
 export const Flex = forwardRef<FlexProps, "div">((props, ref) => {
   const {

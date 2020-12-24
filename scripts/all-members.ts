@@ -15,7 +15,9 @@ function sortMembers(a: any, b: any) {
 }
 
 async function getMembers() {
-  const { data: members } = await octokit.orgs.listMembers({ org: "chakra-ui" })
+  const { data: members } = await octokit.orgs.listMembers({
+    org: "chakra-xui",
+  })
 
   const membersData = await Promise.all(
     members.map(async (member) => {

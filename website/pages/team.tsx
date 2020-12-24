@@ -10,8 +10,8 @@ import {
   Text,
   Wrap,
   WrapItem,
-} from "@chakra-ui/react"
-import { SkipNavContent, SkipNavLink } from "@chakra-ui/skip-nav"
+} from "@chakra-xui/react"
+import { SkipNavContent, SkipNavLink } from "@chakra-xui/skip-nav"
 import Container from "components/container"
 import Header from "components/header"
 import PageTransition from "components/page-transition"
@@ -93,8 +93,8 @@ function Team({ members, contributors }: TeamProps) {
   return (
     <>
       <SEO
-        title="Chakra UI Team and Contributors"
-        description="List of team members and contributors that make the Chakra UI project possible"
+        title="Chakra xui Team and Contributors"
+        description="List of team members and contributors that make the Chakra xui project possible"
       />
       <SkipNavLink zIndex={20}>Skip to Content</SkipNavLink>
       <Header />
@@ -109,11 +109,11 @@ function Team({ members, contributors }: TeamProps) {
               mb="5"
               fontWeight="bold"
             >
-              Chakra UI Team
+              Chakra xui Team
             </chakra.h1>
             <Text maxW="56ch" mx="auto" fontSize="lg">
               Amazing engineers who have contributed time, effort, and thought
-              to Chakra UI. Without them, this project would not be possible.
+              to Chakra xui. Without them, this project would not be possible.
             </Text>
           </Container>
 
@@ -144,10 +144,10 @@ function Team({ members, contributors }: TeamProps) {
                     <WrapItem
                       as="a"
                       key={idx}
-                      href={`https://opencollective.com/chakra-ui/organization/${idx}/website`}
+                      href={`https://opencollective.com/chakra-xui/organization/${idx}/website`}
                     >
                       <img
-                        src={`https://opencollective.com/chakra-ui/organization/${idx}/avatar.svg?avatarHeight=130`}
+                        src={`https://opencollective.com/chakra-xui/organization/${idx}/avatar.svg?avatarHeight=130`}
                       />
                     </WrapItem>
                   ))}
@@ -162,8 +162,8 @@ function Team({ members, contributors }: TeamProps) {
                 >
                   Individuals
                 </Text>
-                <a href="https://opencollective.com/chakra-ui">
-                  <img src="https://opencollective.com/chakra-ui/individuals.svg?width=890" />
+                <a href="https://opencollective.com/chakra-xui">
+                  <img src="https://opencollective.com/chakra-xui/individuals.svg?width=890" />
                 </a>
               </Box>
             </Stack>

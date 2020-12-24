@@ -1,4 +1,4 @@
-import { Box, Code, Text, Link, VStack, Grid } from "@chakra-ui/react"
+import { Box, Code, Text, Link, VStack, Grid } from "@chakra-xui/react"
 import { Chakra } from "../Chakra"
 import { Layout } from "../components/Layout"
 import { Logo } from "../components/Logo"
@@ -29,7 +29,7 @@ const IndexPage = ({ cookies }: IndexProps) => (
             <Link
               color="teal.500"
               fontSize="2xl"
-              href="https://chakra-ui.com"
+              href="https://chakra-xui.com"
               target="_blank"
               rel="noopener noreferrer"
             >

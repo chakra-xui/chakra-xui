@@ -6,17 +6,17 @@ several options.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/radio
+yarn add @chakra-xui/radio
 
 # or
 
-npm i @chakra-ui/radio
+npm i @chakra-xui/radio
 ```
 
 ## Import component
 
 ```jsx
-import { Radio } from "@chakra-ui/radio"
+import { Radio } from "@chakra-xui/radio"
 ```
 
 ## Usage

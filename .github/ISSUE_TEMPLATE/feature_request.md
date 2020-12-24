@@ -1,6 +1,6 @@
 ---
 name: Request a feature or enhancement 🙋
-about: Want a feature to be added to Chakra UI?
+about: Want a feature to be added to Chakra xui?
 ---
 
 <!---
@@ -16,7 +16,7 @@ might have asked the same thing before 😉!
 
 ## 🧱 Problem Statement / Justification
 
-> Please provide valid reason(s) why this should added to Chakra UI.
+> Please provide valid reason(s) why this should added to Chakra xui.
 >
 > If this feaure is related to a problem you've noticed. Mention it as well
 

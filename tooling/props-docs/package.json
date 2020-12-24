@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-ui/props-docs",
+  "name": "@chakra-xui/props-docs",
   "version": "1.0.4",
   "description": "Extracts prop types for documentation purposes",
   "keywords": [
@@ -8,7 +8,7 @@
   ],
   "sideEffects": false,
   "author": "Tim Kolberger <tim@kolberger.eu>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -49,8 +49,8 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-ui/react": "1.0.4",
-    "@chakra-ui/styled-system": "1.2.0",
+    "@chakra-xui/react": "1.0.4",
+    "@chakra-xui/styled-system": "1.2.0",
     "glob": "^7.1.6",
     "mkdirp": "^1.0.4",
     "react-docgen-typescript": "^1.20.5",

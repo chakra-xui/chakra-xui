@@ -1,5 +1,5 @@
 import React from "react"
-import { Box, Text, Link, VStack, Code, Grid } from "@chakra-ui/react"
+import { Box, Text, Link, VStack, Code, Grid } from "@chakra-xui/react"
 import { ColorModeSwitcher } from "./ColorModeSwitcher"
 import { Logo } from "./Logo"
 
@@ -15,7 +15,7 @@ function App() {
           </Text>
           <Link
             color="teal.500"
-            href="https://chakra-ui.com"
+            href="https://chakra-xui.com"
             fontSize="2xl"
             target="_blank"
             rel="noopener noreferrer"

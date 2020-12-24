@@ -1,5 +1,5 @@
 import React from "react"
-import { Box, BoxProps, Icon } from "@chakra-ui/react"
+import { Box, BoxProps, Icon } from "@chakra-xui/react"
 import { FaHeart } from "react-icons/fa"
 import siteConfig from "configs/site-config"
 
@@ -8,7 +8,7 @@ const SponsorButton = (props: BoxProps) => (
     display={{ base: "none", md: "flex" }}
     alignItems="center"
     as="a"
-    aria-label="Sponsor Chakra UI on Open Collective"
+    aria-label="Sponsor Chakra xui on Open Collective"
     href={siteConfig.openCollective.url}
     target="_blank"
     rel="noopener noreferrer"

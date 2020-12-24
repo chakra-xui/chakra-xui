@@ -8,8 +8,8 @@ import {
   ThemingProps,
   useMultiStyleConfig,
   useStyles,
-} from "@chakra-ui/system"
-import { cx, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, __DEV__ } from "@chakra-xui/utils"
 
 export interface TableProps extends HTMLChakraProps<"table">, ThemingProps {}
 

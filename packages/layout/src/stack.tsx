@@ -4,8 +4,8 @@ import {
   forwardRef,
   HTMLChakraProps,
   SystemProps,
-} from "@chakra-ui/system"
-import { cx, getValidChildren, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, getValidChildren, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 import type { StackDirection } from "./stack.utils"
 import { getDividerStyles, getStackStyles, selector } from "./stack.utils"
@@ -93,7 +93,7 @@ export interface StackProps extends HTMLChakraProps<"div">, StackOptions {}
  *
  * It uses `display: flex` internally and renders a `div`.
  *
- * @see Docs https://chakra-ui.com/docs/layout/stack
+ * @see Docs https://chakra-xui.com/docs/layout/stack
  *
  */
 export const Stack = forwardRef<StackProps, "div">((props, ref) => {

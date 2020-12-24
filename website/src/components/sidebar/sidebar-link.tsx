@@ -1,4 +1,4 @@
-import { chakra, PropsOf, useColorModeValue } from "@chakra-ui/react"
+import { chakra, PropsOf, useColorModeValue } from "@chakra-xui/react"
 import NextLink from "next/link"
 import { useRouter } from "next/router"
 import React from "react"

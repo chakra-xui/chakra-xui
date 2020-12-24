@@ -1,5 +1,5 @@
-import { chakra, forwardRef } from "@chakra-ui/system"
-import { fireEvent, render, screen, userEvent } from "@chakra-ui/test-utils"
+import { chakra, forwardRef } from "@chakra-xui/system"
+import { fireEvent, render, screen, userEvent } from "@chakra-xui/test-utils"
 import * as React from "react"
 import { useClickable } from "../src"
 

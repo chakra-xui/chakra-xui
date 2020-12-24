@@ -1,4 +1,4 @@
-import { isNumber, isCustomBreakpoint, StringOrNumber } from "@chakra-ui/utils"
+import { isNumber, isCustomBreakpoint, StringOrNumber } from "@chakra-xui/utils"
 
 function createMediaQueries(breakpoints: string[]): MediaQuery[] {
   /**
@@ -80,7 +80,7 @@ const calculateMeasurement = (
 /**
  * 0.01 and 0.1 are too small of a difference for `px` breakpoint values
  *
- * @see https://github.com/chakra-ui/chakra-ui/issues/2188#issuecomment-712774785
+ * @see https://github.com/chakra-xui/chakra-xui/issues/2188#issuecomment-712774785
  */
 function subtract(value: string) {
   return calculateMeasurement(value, value.endsWith("px") ? -1 : -0.01)

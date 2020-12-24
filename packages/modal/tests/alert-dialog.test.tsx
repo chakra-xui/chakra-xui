@@ -1,6 +1,6 @@
 import * as React from "react"
 
-import { render, testA11y, screen } from "@chakra-ui/test-utils"
+import { render, testA11y, screen } from "@chakra-xui/test-utils"
 import {
   AlertDialog,
   AlertDialogBody,

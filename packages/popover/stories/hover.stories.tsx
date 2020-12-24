@@ -6,8 +6,8 @@ import {
   PopoverArrow,
   PopoverBody,
 } from "../src"
-import { Box, Text, Link } from "@chakra-ui/layout"
-import { IconButton } from "@chakra-ui/button"
+import { Box, Text, Link } from "@chakra-xui/layout"
+import { IconButton } from "@chakra-xui/button"
 import { MdCheck } from "react-icons/md"
 
 function Card() {

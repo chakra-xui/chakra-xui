@@ -1,5 +1,5 @@
-import { SystemStyleObject } from "@chakra-ui/system"
-import { Dict, runIfFn } from "@chakra-ui/utils"
+import { SystemStyleObject } from "@chakra-xui/system"
+import { Dict, runIfFn } from "@chakra-xui/utils"
 
 export interface StyleConfig {
   baseStyle?: SystemStyleObject

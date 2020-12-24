@@ -3,7 +3,7 @@ import {
   renderHook,
   screen,
   waitForElementToBeRemoved,
-} from "@chakra-ui/test-utils"
+} from "@chakra-xui/test-utils"
 import { toast, useToast } from "../src"
 
 beforeEach(async () => {

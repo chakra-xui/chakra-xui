@@ -1,5 +1,5 @@
-export * from "@chakra-ui/color-mode"
-export * from "@chakra-ui/styled-system"
+export * from "@chakra-xui/color-mode"
+export * from "@chakra-xui/styled-system"
 export { keyframes } from "@emotion/react"
 export type { Interpolation } from "@emotion/react"
 export * from "./hooks"

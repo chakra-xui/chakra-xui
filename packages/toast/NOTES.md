@@ -38,7 +38,7 @@ For the non-hook version, we could export `toastManager` object that has all the
 function.
 
 ```jsx
-import { toastManager } from "@chakra-ui/react"
+import { toastManager } from "@chakra-xui/react"
 
 // To add we'll do this
 toastManager.addToast(...)

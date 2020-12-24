@@ -6,9 +6,9 @@ import {
   ThemingProps,
   useStyleConfig,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { cx, __DEV__ } from "@chakra-ui/utils"
-import { VisuallyHidden } from "@chakra-ui/visually-hidden"
+} from "@chakra-xui/system"
+import { cx, __DEV__ } from "@chakra-xui/utils"
+import { VisuallyHidden } from "@chakra-xui/visually-hidden"
 import * as React from "react"
 
 const spin = keyframes({
@@ -61,7 +61,7 @@ export interface SpinnerProps
  * Spinner is used to indicate the loading state of a page or a component,
  * It renders a `div` by default.
  *
- * @see Docs https://chakra-ui.com/docs/feedback/spinner
+ * @see Docs https://chakra-xui.com/docs/feedback/spinner
  */
 export const Spinner = forwardRef<SpinnerProps, "div">((props, ref) => {
   const styles = useStyleConfig("Spinner", props)

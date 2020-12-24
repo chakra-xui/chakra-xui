@@ -1,5 +1,5 @@
 import * as React from "react"
-import { render, testA11y } from "@chakra-ui/test-utils"
+import { render, testA11y } from "@chakra-xui/test-utils"
 import { VisuallyHidden } from "../src"
 
 test("should render correctly", async () => {

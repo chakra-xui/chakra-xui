@@ -1,4 +1,4 @@
-import { chakra, useColorModeValue, useTheme } from "@chakra-ui/react"
+import { chakra, useColorModeValue, useTheme } from "@chakra-xui/react"
 import * as React from "react"
 import loadScript from "utils/load-script"
 
@@ -61,7 +61,7 @@ function CarbonAd() {
     if (!ref.current || !!scriptEl) return
 
     const script = loadScript(
-      "https://cdn.carbonads.com/carbon.js?serve=CE7DKK7L&placement=chakra-uicom",
+      "https://cdn.carbonads.com/carbon.js?serve=CE7DKK7L&placement=chakra-xuicom",
       ref.current,
     )
     script.id = "_carbonads_js"

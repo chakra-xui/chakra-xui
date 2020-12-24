@@ -1,4 +1,4 @@
-import { AnyFunction, objectKeys } from "@chakra-ui/utils"
+import { AnyFunction, objectKeys } from "@chakra-xui/utils"
 
 const group = {
   hover: (selector: string) => `${selector}:hover &, ${selector}[data-hover] &`,

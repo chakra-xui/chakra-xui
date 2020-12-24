@@ -1,4 +1,4 @@
-import { useControllableState, useUpdateEffect } from "@chakra-ui/hooks"
+import { useControllableState, useUpdateEffect } from "@chakra-xui/hooks"
 import {
   ariaAttr,
   callAllHandlers,
@@ -7,7 +7,7 @@ import {
   mergeRefs,
   normalizeEventKey,
   PropGetter,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import { ChangeEvent, useCallback, useRef, useState } from "react"
 
 export interface UseEditableProps {
@@ -69,7 +69,7 @@ export interface UseEditableProps {
 /**
  * React hook for managing the inline renaming of some text.
  *
- * @see Docs https://chakra-ui.com/docs/editable
+ * @see Docs https://chakra-xui.com/docs/editable
  */
 export function useEditable(props: UseEditableProps = {}) {
   const {

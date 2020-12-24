@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-ui/popper",
+  "name": "@chakra-xui/popper",
   "version": "1.0.2",
   "description": "A React component and hooks wrapper for popper.js",
   "keywords": [
@@ -11,12 +11,12 @@
     "positioning",
     "popperjs-modifier",
     "ui",
-    "chakra ui",
+    "chakra xui",
     "component"
   ],
   "sideEffects": false,
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -36,10 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -56,8 +56,8 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-ui/hooks": "1.0.2",
-    "@chakra-ui/utils": "1.0.2",
+    "@chakra-xui/hooks": "1.0.2",
+    "@chakra-xui/utils": "1.0.2",
     "@popperjs/core": "2.4.4",
     "dequal": "2.0.2"
   },

@@ -5,7 +5,7 @@ import {
   HTMLChakraProps,
   Kbd,
   useColorModeValue,
-} from "@chakra-ui/react"
+} from "@chakra-xui/react"
 import React from "react"
 import CarbonAd from "./carbon-ad"
 import CodeBlock from "./codeblock/codeblock"

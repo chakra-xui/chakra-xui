@@ -1,4 +1,4 @@
-# @chakra-ui/alert
+# @chakra-xui/alert
 
 Alerts visually highlight important content for the user. They can contain a
 title, an icon and content. Each intent has a default icon associated with it.
@@ -6,11 +6,11 @@ title, an icon and content. Each intent has a default icon associated with it.
 ## Installation
 
 ```sh
-yarn add @chakra-ui/alert
+yarn add @chakra-xui/alert
 
 # or
 
-npm i @chakra-ui/alert
+npm i @chakra-xui/alert
 ```
 
 ## Import components
@@ -21,7 +21,7 @@ import {
   AlertTitle,
   AlertIcon,
   AlertDescription
-} from "@chakra-ui/alert
+} from "@chakra-xui/alert
 ```
 
 ## Basic usage

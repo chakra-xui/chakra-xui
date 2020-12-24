@@ -5,8 +5,8 @@ import {
   ThemingProps,
   useStyleConfig,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { cx, __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { cx, __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 export interface KbdProps extends HTMLChakraProps<"kbd">, ThemingProps {}
@@ -21,7 +21,7 @@ export interface KbdProps extends HTMLChakraProps<"kbd">, ThemingProps {}
  * <Kbd>⌘ + T</Kbd>
  * ```
  *
- * @see Docs https://chakra-ui.com/docs/data-display/kbd
+ * @see Docs https://chakra-xui.com/docs/data-display/kbd
  */
 export const Kbd = forwardRef<KbdProps, "kbd">((props, ref) => {
   const styles = useStyleConfig("Kbd", props)

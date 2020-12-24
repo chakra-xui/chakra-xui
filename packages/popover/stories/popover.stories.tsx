@@ -1,5 +1,5 @@
-import { Button, ButtonGroup } from "@chakra-ui/button"
-import { chakra } from "@chakra-ui/system"
+import { Button, ButtonGroup } from "@chakra-xui/button"
+import { chakra } from "@chakra-xui/system"
 import * as React from "react"
 import {
   Popover,

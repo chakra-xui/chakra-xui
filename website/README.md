@@ -1,3 +1,3 @@
-# Chakra UI Docs
+# Chakra xui Docs
 
-The Documentation website for chakra-ui.com
+The Documentation website for chakra-xui.com

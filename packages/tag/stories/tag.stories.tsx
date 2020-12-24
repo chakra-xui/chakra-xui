@@ -1,4 +1,4 @@
-import { AddIcon } from "@chakra-ui/icons"
+import { AddIcon } from "@chakra-xui/icons"
 import * as React from "react"
 import {
   Tag,
@@ -7,8 +7,8 @@ import {
   TagRightIcon,
   TagCloseButton,
 } from "../src"
-import { chakra } from "@chakra-ui/system"
-import { Avatar } from "@chakra-ui/avatar"
+import { chakra } from "@chakra-xui/system"
+import { Avatar } from "@chakra-xui/avatar"
 import { MdSettings } from "react-icons/md"
 
 export default {

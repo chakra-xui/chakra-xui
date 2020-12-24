@@ -44,7 +44,7 @@ outside of Chakra, so contributor time is one of the most important resources we
 have available to us.
 
 As a growing project with an ever-larger number of users,
-[Chakra receives a large volume of issues and pull requests each week](https://github.com/chakra-ui/chakra-ui/pulse).
+[Chakra receives a large volume of issues and pull requests each week](https://github.com/chakra-xui/chakra-xui/pulse).
 Each of these needs to be addressed in some way, and addressing them takes time.
 Given enough issues and pull requests, a contributor could dedicate all of their
 time to managing these alone. Trust me, I know from experience.

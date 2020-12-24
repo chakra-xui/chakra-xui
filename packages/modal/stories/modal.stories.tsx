@@ -1,5 +1,5 @@
-import { useDisclosure } from "@chakra-ui/hooks"
-import { chakra } from "@chakra-ui/system"
+import { useDisclosure } from "@chakra-xui/hooks"
+import { chakra } from "@chakra-xui/system"
 import * as React from "react"
 import {
   Modal,

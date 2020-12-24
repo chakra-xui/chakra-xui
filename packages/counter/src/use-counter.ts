@@ -1,4 +1,4 @@
-import { useControllableProp } from "@chakra-ui/hooks"
+import { useControllableProp } from "@chakra-xui/hooks"
 import {
   countDecimalPlaces,
   clampValue,
@@ -6,7 +6,7 @@ import {
   minSafeInteger,
   toPrecision,
   StringOrNumber,
-} from "@chakra-ui/utils"
+} from "@chakra-xui/utils"
 import { useCallback, useState } from "react"
 
 export interface UseCounterProps {

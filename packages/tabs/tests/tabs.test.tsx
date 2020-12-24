@@ -4,7 +4,7 @@ import {
   render,
   screen,
   fireEvent,
-} from "@chakra-ui/test-utils"
+} from "@chakra-xui/test-utils"
 import * as React from "react"
 import { Tab, TabList, TabPanel, TabPanels, Tabs } from "../src"
 

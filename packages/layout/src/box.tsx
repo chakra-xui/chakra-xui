@@ -3,8 +3,8 @@ import {
   forwardRef,
   SystemStyleObject,
   HTMLChakraProps,
-} from "@chakra-ui/system"
-import { __DEV__ } from "@chakra-ui/utils"
+} from "@chakra-xui/system"
+import { __DEV__ } from "@chakra-xui/utils"
 import * as React from "react"
 
 export interface BoxProps extends HTMLChakraProps<"div"> {}
@@ -13,7 +13,7 @@ export interface BoxProps extends HTMLChakraProps<"div"> {}
  * Box is the most abstract component on top of which other chakra
  * components are built. It renders a `div` element by default.
  *
- * @see Docs https://chakra-ui.com/docs/layout/box
+ * @see Docs https://chakra-xui.com/docs/layout/box
  */
 export const Box = chakra("div")
 
