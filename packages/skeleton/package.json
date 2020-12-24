@@ -1,6 +1,6 @@
 {
   "name": "@chakra-xui/skeleton",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React component to render a placeholders while you wait for content to load",
   "keywords": [
     "skeleton",

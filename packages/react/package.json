@@ -1,6 +1,6 @@
 {
   "name": "@chakra-xui/react",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Responsive and accessible React UI components built with React and Emotion",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -63,7 +63,7 @@
     "@chakra-xui/progress": "1.0.2",
     "@chakra-xui/radio": "1.0.3",
     "@chakra-xui/select": "1.0.3",
-    "@chakra-xui/skeleton": "1.0.3",
+    "@chakra-xui/skeleton": "1.0.4",
     "@chakra-xui/slider": "1.0.2",
     "@chakra-xui/spinner": "1.0.2",
     "@chakra-xui/stat": "1.0.2",

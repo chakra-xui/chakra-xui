@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.0.1
+
+### Patch Changes
+
+- [`69b9db6e`](https://github.com/chakra-xui/chakra-xui/commit/69b9db6ef1deb3070374088228c9fbb0abedfb8d)
+  [#2844](https://github.com/chakra-ui/chakra-ui/pull/2844) Thanks
+  [@jmiazga](https://github.com/jmiazga)! - The readme was updated but never
+  published.
+
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 

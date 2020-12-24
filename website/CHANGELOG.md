@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.0.5
+
+### Patch Changes
+
+- Updated dependencies
+  [[`6a410f77`](https://github.com/chakra-xui/chakra-xui/commit/6a410f778f534e00e01fdf0d3ce1ffdd1d7b138e)]:
+  - @chakra-xui/react@1.1.0
+  - @chakra-xui/props-docs@1.0.5
+
 ## 1.0.4
 
 ### Patch Changes
