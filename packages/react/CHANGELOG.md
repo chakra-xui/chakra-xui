@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.1.1
+
+### Patch Changes
+
+- Updated dependencies
+  [[`6a82a3d4`](https://github.com/chakra-xui/chakra-xui/commit/6a82a3d4f061191171a12e6d38719ba05414a86e)]:
+  - @chakra-xui/modal@1.4.0
+
 ## 1.1.0
 
 ### Minor Changes
@@ -51,7 +59,6 @@
   "to-bl" // 'to bottom left'
   "to-l" // 'to left'
   "to-tl" // 'to top left'
-
   ```
 
   ```jsx
