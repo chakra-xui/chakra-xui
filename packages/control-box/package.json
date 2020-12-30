@@ -1,16 +1,16 @@
 {
-  "name": "@chakra-xui/control-box",
+  "name": "@chakra-ui/control-box",
   "version": "1.0.2",
-  "description": "Chakra xui ControlBox component",
+  "description": "Chakra UI ControlBox component",
   "keywords": [
     "checkbox",
     "custom",
     "input",
     "react",
-    "chakra-xui"
+    "chakra-ui"
   ],
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
+  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
+    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-xui/chakra-xui/issues"
+    "url": "https://github.com/chakra-ui/chakra-ui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -49,14 +49,14 @@
     "lint": "concurrently yarn:lint:*"
   },
   "dependencies": {
-    "@chakra-xui/utils": "1.0.2"
+    "@chakra-ui/utils": "1.0.2"
   },
   "devDependencies": {
-    "@chakra-xui/system": "1.1.0",
+    "@chakra-ui/system": "1.1.1",
     "react": "^17.0.1"
   },
   "peerDependencies": {
-    "@chakra-xui/system": ">=1.0.0",
+    "@chakra-ui/system": ">=1.0.0",
     "react": "16.x || 17.x"
   }
 }

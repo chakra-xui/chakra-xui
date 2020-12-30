@@ -1,6 +1,6 @@
-import { Config, createParser, system } from "@styled-system/core"
 import * as CSS from "csstype"
-import { Length, t, ResponsiveValue } from "../utils"
+import { Config, createParser, system } from "../core"
+import { Length, ResponsiveValue, t } from "../utils"
 
 const config: Config = {
   position: true,
@@ -21,8 +21,10 @@ const config: Config = {
   insetInlineEnd: t.spaceT("insetInlineEnd"),
 }
 
-config.insetStart = config.insetInlineStart
-config.insetEnd = config.insetInlineEnd
+Object.assign(config, {
+  insetStart: config.insetInlineStart,
+  insetEnd: config.insetInlineEnd,
+})
 
 /**
  * Types for position CSS properties

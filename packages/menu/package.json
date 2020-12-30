@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-xui/menu",
+  "name": "@chakra-ui/menu",
   "version": "1.0.3",
   "description": "A React component to render accessible menus",
   "keywords": [
@@ -10,11 +10,11 @@
     "wai aria",
     "react",
     "component",
-    "chakra xui"
+    "chakra ui"
   ],
   "sideEffects": false,
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
+  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
+    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-xui/chakra-xui/issues"
+    "url": "https://github.com/chakra-ui/chakra-ui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -54,21 +54,21 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-xui/clickable": "1.0.2",
-    "@chakra-xui/descendant": "1.0.2",
-    "@chakra-xui/hooks": "1.0.2",
-    "@chakra-xui/popper": "1.0.2",
-    "@chakra-xui/transition": "1.0.3",
-    "@chakra-xui/utils": "1.0.2"
+    "@chakra-ui/clickable": "1.0.2",
+    "@chakra-ui/descendant": "1.0.2",
+    "@chakra-ui/hooks": "1.0.2",
+    "@chakra-ui/popper": "1.0.2",
+    "@chakra-ui/transition": "1.0.3",
+    "@chakra-ui/utils": "1.0.2"
   },
   "devDependencies": {
-    "@chakra-xui/system": "1.1.0",
-    "framer-motion": "3.1.1",
+    "@chakra-ui/system": "1.1.1",
+    "framer-motion": "3.0.0",
     "react": "^17.0.1"
   },
   "peerDependencies": {
-    "@chakra-xui/system": ">=1.0.0",
-    "framer-motion": "3.1.1",
-    "react": "17.x"
+    "@chakra-ui/system": ">=1.0.0",
+    "framer-motion": ">=3.0.0",
+    "react": "16.x || 17.x"
   }
 }

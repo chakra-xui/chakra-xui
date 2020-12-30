@@ -1,9 +1,9 @@
 {
-  "name": "@chakra-xui/editable",
+  "name": "@chakra-ui/editable",
   "version": "1.0.2",
   "description": "React component used to build inline-editable components",
   "keywords": [
-    "chakra xui",
+    "chakra ui",
     "react",
     "inline",
     "editable",
@@ -15,7 +15,7 @@
   ],
   "sideEffects": false,
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
+  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
+    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-xui/chakra-xui/issues"
+    "url": "https://github.com/chakra-ui/chakra-ui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -55,15 +55,15 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-xui/hooks": "1.0.2",
-    "@chakra-xui/utils": "1.0.2"
+    "@chakra-ui/hooks": "1.0.2",
+    "@chakra-ui/utils": "1.0.2"
   },
   "devDependencies": {
-    "@chakra-xui/system": "1.1.0",
+    "@chakra-ui/system": "1.1.1",
     "react": "^17.0.1"
   },
   "peerDependencies": {
-    "@chakra-xui/system": ">=1.0.0",
+    "@chakra-ui/system": ">=1.0.0",
     "react": "16.x || 17.x"
   }
 }

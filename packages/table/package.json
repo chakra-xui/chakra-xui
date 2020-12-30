@@ -1,7 +1,7 @@
 {
-  "name": "@chakra-xui/table",
+  "name": "@chakra-ui/table",
   "version": "1.0.2",
-  "description": "Table component for React and Chakra xui",
+  "description": "Table component for React and Chakra UI",
   "keywords": [
     "react",
     "react component",
@@ -11,7 +11,7 @@
     "react a11y table",
     "react accessible table",
     "react table",
-    "chakra xui",
+    "chakra ui",
     "chakra",
     "react table component",
     "a11y",
@@ -21,7 +21,7 @@
   ],
   "sideEffects": false,
   "author": "Tim Kolberger <tim@kolberger.eu>",
-  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
+  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
+    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-xui/chakra-xui/issues"
+    "url": "https://github.com/chakra-ui/chakra-ui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -61,17 +61,17 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-xui/utils": "1.0.2"
+    "@chakra-ui/utils": "1.0.2"
   },
   "devDependencies": {
-    "@chakra-xui/button": "1.0.2",
-    "@chakra-xui/icons": "1.0.2",
-    "@chakra-xui/system": "1.1.0",
-    "@chakra-xui/test-utils": "1.0.4",
+    "@chakra-ui/button": "1.0.2",
+    "@chakra-ui/icons": "1.0.2",
+    "@chakra-ui/system": "1.1.1",
+    "@chakra-ui/test-utils": "1.0.5",
     "react": "^17.0.1"
   },
   "peerDependencies": {
-    "@chakra-xui/system": ">=1.0.0",
+    "@chakra-ui/system": ">=1.0.0",
     "react": "16.x || 17.x"
   }
 }
