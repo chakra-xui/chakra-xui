@@ -1,6 +1,6 @@
 {
   "name": "@chakra-xui/react",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Responsive and accessible React UI components built with React and Emotion",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -54,7 +54,7 @@
     "@chakra-xui/live-region": "1.0.2",
     "@chakra-xui/media-query": "1.0.2",
     "@chakra-xui/menu": "1.0.3",
-    "@chakra-xui/modal": "1.3.0",
+    "@chakra-xui/modal": "1.4.0",
     "@chakra-xui/number-input": "1.0.3",
     "@chakra-xui/pin-input": "1.1.2",
     "@chakra-xui/popover": "1.0.4",
