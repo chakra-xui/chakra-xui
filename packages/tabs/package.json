@@ -1,7 +1,7 @@
 {
-  "name": "@chakra-ui/tabs",
+  "name": "@chakra-xui/tabs",
   "version": "1.0.2",
-  "description": "Accessible Tabs component for React and Chakra UI",
+  "description": "Accessible Tabs component for React and Chakra xui",
   "keywords": [
     "react",
     "react component",
@@ -11,7 +11,7 @@
     "react a11y tabs",
     "react accessible tabs",
     "react tabs",
-    "chakra ui",
+    "chakra xui",
     "chakra",
     "react tabs component",
     "a11y",
@@ -21,7 +21,7 @@
   ],
   "sideEffects": false,
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -61,17 +61,17 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-ui/clickable": "1.0.2",
-    "@chakra-ui/descendant": "1.0.2",
-    "@chakra-ui/hooks": "1.0.2",
-    "@chakra-ui/utils": "1.0.2"
+    "@chakra-xui/clickable": "1.0.2",
+    "@chakra-xui/descendant": "1.0.2",
+    "@chakra-xui/hooks": "1.0.2",
+    "@chakra-xui/utils": "1.0.2"
   },
   "devDependencies": {
-    "@chakra-ui/system": "1.1.1",
+    "@chakra-xui/system": "1.1.1",
     "react": "^17.0.1"
   },
   "peerDependencies": {
-    "@chakra-ui/system": ">=1.0.0",
+    "@chakra-xui/system": ">=1.0.0",
     "react": "16.x || 17.x"
   }
 }

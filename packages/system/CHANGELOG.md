@@ -5,9 +5,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  [[`a0e0bd9a`](https://github.com/chakra-ui/chakra-ui/commit/a0e0bd9a5d45fe08887f8df8d3eccc84951578df),
-  [`4fa07745`](https://github.com/chakra-ui/chakra-ui/commit/4fa077453a5c2165b695198c57366f3cc6506c37)]:
-  - @chakra-ui/styled-system@1.3.0
+  [[`a0e0bd9a`](https://github.com/chakra-xui/chakra-xui/commit/a0e0bd9a5d45fe08887f8df8d3eccc84951578df),
+  [`4fa07745`](https://github.com/chakra-xui/chakra-xui/commit/4fa077453a5c2165b695198c57366f3cc6506c37)]:
+  - @chakra-xui/styled-system@1.3.0
 
 ## 1.1.0
 

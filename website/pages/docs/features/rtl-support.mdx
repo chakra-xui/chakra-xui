@@ -2,7 +2,7 @@
 title: RTL Support
 version: 1.1+
 description:
-  Chakra UI provides built-in support right-to-left (RTL) languages like arabic
+  Chakra xui provides built-in support right-to-left (RTL) languages like arabic
   and hebrew, out of the box.
 ---
 
@@ -10,7 +10,7 @@ For right-to-left (RTL) languages such as Arabic and Hebrew to be semantically
 appropriate, in addition to translating the texts, you need to also mirror the
 layout.
 
-Chakra UI makes it possible to support RTL languages and LTR languages in the
+Chakra xui makes it possible to support RTL languages and LTR languages in the
 same app. There are 2 methods of adding RTL support:
 
 - Using the RTL Stylis Plugin
@@ -18,7 +18,7 @@ same app. There are 2 methods of adding RTL support:
 
 ## Using RTL Stylis Plugin
 
-Since Chakra UI is built on top of `@emotion/react`, you can leverage stylis
+Since Chakra xui is built on top of `@emotion/react`, you can leverage stylis
 plugins like `stylis-plugin-rtl` to automatically transform the generated styles
 to their RTL equivalent.
 
@@ -62,7 +62,7 @@ export function RtlProvider({ children }) {
 ```jsx live=false ln={4,10-12}
 // pages/_app.js
 
-import { ChakraProvider } from "@chakra-ui/react"
+import { ChakraProvider } from "@chakra-xui/react"
 import { RtlProvider } from "@/components/rtl-provider"
 
 function App(props) {
@@ -161,7 +161,7 @@ export default LangSwitcher
 
 ## Using RTL-aware style props
 
-This is the recommended way to support RTL in Chakra UI. With this approach we
+This is the recommended way to support RTL in Chakra xui. With this approach we
 use the appropriate CSS logical properties, and manage the placements of
 components like `Popover`, `Drawer`, `Tooltip` to match RTL.
 
@@ -282,7 +282,7 @@ go with.
 ## Additional resources
 
 - Blog Post -
-  [Setup an i18n routing with Nextjs and Chakra UI](https://dev.to/ugbechike/setup-an-internationalization-i18n-routing-web-app-with-nextjs-and-chakra-ui-39f1)
+  [Setup an i18n routing with Nextjs and Chakra xui](https://dev.to/ugbechike/setup-an-internationalization-i18n-routing-web-app-with-nextjs-and-chakra-xui-39f1)
 - MDN
   [CSS Logical Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Logical_Properties)
 

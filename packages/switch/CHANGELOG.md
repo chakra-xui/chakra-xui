@@ -5,8 +5,8 @@
 ### Patch Changes
 
 - Updated dependencies
-  [[`1e6db1e0`](https://github.com/chakra-ui/chakra-ui/commit/1e6db1e068c6bc0a4c6c6893d1716d284dcbb8f8)]:
-  - @chakra-ui/checkbox@1.1.0
+  [[`1e6db1e0`](https://github.com/chakra-xui/chakra-xui/commit/1e6db1e068c6bc0a4c6c6893d1716d284dcbb8f8)]:
+  - @chakra-xui/checkbox@1.1.0
 
 ## 1.0.2
 

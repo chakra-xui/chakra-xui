@@ -1,4 +1,4 @@
-import { Dict } from "@chakra-ui/utils"
+import { Dict } from "@chakra-xui/utils"
 import { Properties } from "csstype"
 
 export type ObjectOrArray<T> = T[] | { [K: string]: T | ObjectOrArray<T> }

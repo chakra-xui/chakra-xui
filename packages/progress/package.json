@@ -1,17 +1,17 @@
 {
-  "name": "@chakra-ui/progress",
+  "name": "@chakra-xui/progress",
   "version": "1.0.2",
-  "description": "Progress bar component for Chakra UI",
+  "description": "Progress bar component for Chakra xui",
   "keywords": [
     "theme",
     "theming",
-    "chakra ui",
+    "chakra xui",
     "progress",
     "progress bar"
   ],
   "sideEffects": false,
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -31,10 +31,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -51,15 +51,15 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-ui/theme-tools": "1.0.2",
-    "@chakra-ui/utils": "1.0.2"
+    "@chakra-xui/theme-tools": "1.0.2",
+    "@chakra-xui/utils": "1.0.2"
   },
   "devDependencies": {
-    "@chakra-ui/system": "1.1.1",
+    "@chakra-xui/system": "1.1.1",
     "react": "^17.0.1"
   },
   "peerDependencies": {
-    "@chakra-ui/system": ">=1.0.0",
+    "@chakra-xui/system": ">=1.0.0",
     "react": "16.x || 17.x"
   }
 }

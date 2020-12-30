@@ -1,4 +1,4 @@
-import { Dict } from "@chakra-ui/utils"
+import { Dict } from "@chakra-xui/utils"
 
 // String.prototype.localeCompare vs Intl.Collator.compare
 // https://stackoverflow.com/a/52369951

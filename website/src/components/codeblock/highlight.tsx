@@ -1,4 +1,4 @@
-import { chakra } from "@chakra-ui/react"
+import { chakra } from "@chakra-xui/react"
 import BaseHighlight, { defaultProps, Language } from "prism-react-renderer"
 import theme from "prism-react-renderer/themes/nightOwl"
 import React from "react"

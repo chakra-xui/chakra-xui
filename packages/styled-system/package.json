@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-ui/styled-system",
+  "name": "@chakra-xui/styled-system",
   "version": "1.3.0",
   "description": "Style function for css-in-js building component libraries",
   "keywords": [
@@ -12,10 +12,10 @@
     "component",
     "functions",
     "parser",
-    "chakra ui"
+    "chakra xui"
   ],
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -54,7 +54,7 @@
     "lint": "concurrently yarn:lint:*"
   },
   "dependencies": {
-    "@chakra-ui/utils": "1.0.2",
+    "@chakra-xui/utils": "1.0.2",
     "css-get-unit": "1.0.1",
     "csstype": "3.0.3"
   }

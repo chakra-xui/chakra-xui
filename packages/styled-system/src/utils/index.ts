@@ -1,4 +1,4 @@
-import { get, getWithDefault, isNumber } from "@chakra-ui/utils"
+import { get, getWithDefault, isNumber } from "@chakra-xui/utils"
 import * as CSS from "csstype"
 import { PropConfig } from "../core"
 import { positiveOrNegative } from "./positive-or-negative"

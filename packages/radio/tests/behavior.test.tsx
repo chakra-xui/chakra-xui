@@ -1,4 +1,4 @@
-import { fireEvent, render, screen } from "@chakra-ui/test-utils"
+import { fireEvent, render, screen } from "@chakra-xui/test-utils"
 import * as React from "react"
 import { RadioGroup, Radio } from "../src"
 

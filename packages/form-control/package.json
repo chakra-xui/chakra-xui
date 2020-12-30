@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-ui/form-control",
+  "name": "@chakra-xui/form-control",
   "version": "1.1.0",
   "description": "React component to provide validation states to form fields",
   "keywords": [
@@ -11,11 +11,11 @@
     "validation",
     "error",
     "react",
-    "chakra-ui"
+    "chakra-xui"
   ],
   "sideEffects": false,
   "author": "Segun Adebayo <sage@adebayosegun.com>",
-  "homepage": "https://github.com/chakra-ui/chakra-ui#readme",
+  "homepage": "https://github.com/chakra-xui/chakra-xui#readme",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakra-ui/chakra-ui.git"
+    "url": "git+https://github.com/chakra-xui/chakra-xui.git"
   },
   "bugs": {
-    "url": "https://github.com/chakra-ui/chakra-ui/issues"
+    "url": "https://github.com/chakra-xui/chakra-xui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -55,16 +55,16 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-ui/hooks": "1.0.2",
-    "@chakra-ui/icon": "1.0.2",
-    "@chakra-ui/utils": "1.0.2"
+    "@chakra-xui/hooks": "1.0.2",
+    "@chakra-xui/icon": "1.0.2",
+    "@chakra-xui/utils": "1.0.2"
   },
   "devDependencies": {
-    "@chakra-ui/system": "1.1.1",
+    "@chakra-xui/system": "1.1.1",
     "react": "^17.0.1"
   },
   "peerDependencies": {
-    "@chakra-ui/system": ">=1.0.0",
+    "@chakra-xui/system": ">=1.0.0",
     "react": "16.x || 17.x"
   }
 }

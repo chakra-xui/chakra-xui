@@ -4,8 +4,8 @@
 
 ### Minor Changes
 
-- [`6a410f77`](https://github.com/chakra-ui/chakra-ui/commit/6a410f778f534e00e01fdf0d3ce1ffdd1d7b138e)
-  [#2834](https://github.com/chakra-ui/chakra-ui/pull/2834) Thanks
+- [`6a410f77`](https://github.com/chakra-xui/chakra-xui/commit/6a410f778f534e00e01fdf0d3ce1ffdd1d7b138e)
+  [#2834](https://github.com/chakra-xui/chakra-xui/pull/2834) Thanks
   [@TimKolberger](https://github.com/TimKolberger)! - Allow `extendTheme` to
   accept optional second argument `baseTheme` to customize:
 
@@ -19,8 +19,8 @@
 
   If no `baseTheme` is provided, defaults to the Chakra theme.
 
-* [`a0e0bd9a`](https://github.com/chakra-ui/chakra-ui/commit/a0e0bd9a5d45fe08887f8df8d3eccc84951578df)
-  [#2816](https://github.com/chakra-ui/chakra-ui/pull/2816) Thanks
+* [`a0e0bd9a`](https://github.com/chakra-xui/chakra-xui/commit/a0e0bd9a5d45fe08887f8df8d3eccc84951578df)
+  [#2816](https://github.com/chakra-xui/chakra-xui/pull/2816) Thanks
   [@segunadebayo](https://github.com/segunadebayo)! - Add gradient support to
   chakra style props. This PR adds to props:
 
@@ -84,14 +84,14 @@
     fontSize="7xl"
     fontWeight="extrabold"
   >
-    Welcome to Chakra UI
+    Welcome to Chakra xui
   </Text>
   ```
 
 ### Patch Changes
 
-- [`916588a5`](https://github.com/chakra-ui/chakra-ui/commit/916588a5bbb771ff3f07b0ceb160bef57cdd6a8a)
-  [#2783](https://github.com/chakra-ui/chakra-ui/pull/2783) Thanks
+- [`916588a5`](https://github.com/chakra-xui/chakra-xui/commit/916588a5bbb771ff3f07b0ceb160bef57cdd6a8a)
+  [#2783](https://github.com/chakra-xui/chakra-xui/pull/2783) Thanks
   [@TimKolberger](https://github.com/TimKolberger)! - Fixed an issue where
   `extendTheme` did not allow string properties besides ColorHue in the `colors`
   attribute of the theme override.
@@ -107,16 +107,16 @@
   ```
 
 - Updated dependencies
-  [[`1e6db1e0`](https://github.com/chakra-ui/chakra-ui/commit/1e6db1e068c6bc0a4c6c6893d1716d284dcbb8f8),
-  [`5c8f0838`](https://github.com/chakra-ui/chakra-ui/commit/5c8f08382858c0bbc77d875db52859e7c304392f),
-  [`f09a1cbf`](https://github.com/chakra-ui/chakra-ui/commit/f09a1cbf2eaef537b31b1f2fdf1e7c685e1926bb),
-  [`46e24c58`](https://github.com/chakra-ui/chakra-ui/commit/46e24c5820ef2726a4fb16a190efda39fb0b075a)]:
-  - @chakra-ui/checkbox@1.1.0
-  - @chakra-ui/radio@1.1.0
-  - @chakra-ui/skeleton@1.0.4
-  - @chakra-ui/pin-input@1.1.2
-  - @chakra-ui/switch@1.0.3
-  - @chakra-ui/system@1.1.1
+  [[`1e6db1e0`](https://github.com/chakra-xui/chakra-xui/commit/1e6db1e068c6bc0a4c6c6893d1716d284dcbb8f8),
+  [`5c8f0838`](https://github.com/chakra-xui/chakra-xui/commit/5c8f08382858c0bbc77d875db52859e7c304392f),
+  [`f09a1cbf`](https://github.com/chakra-xui/chakra-xui/commit/f09a1cbf2eaef537b31b1f2fdf1e7c685e1926bb),
+  [`46e24c58`](https://github.com/chakra-xui/chakra-xui/commit/46e24c5820ef2726a4fb16a190efda39fb0b075a)]:
+  - @chakra-xui/checkbox@1.1.0
+  - @chakra-xui/radio@1.1.0
+  - @chakra-xui/skeleton@1.0.4
+  - @chakra-xui/pin-input@1.1.2
+  - @chakra-xui/switch@1.0.3
+  - @chakra-xui/system@1.1.1
 
 ## 1.0.4
 

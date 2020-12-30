@@ -1,4 +1,4 @@
-import { useBoolean, useControllableProp } from "@chakra-ui/hooks"
+import { useBoolean, useControllableProp } from "@chakra-xui/hooks"
 import {
   ariaAttr,
   callAllHandlers,
@@ -7,8 +7,8 @@ import {
   pick,
   PropGetter,
   warn,
-} from "@chakra-ui/utils"
-import { visuallyHiddenStyle } from "@chakra-ui/visually-hidden"
+} from "@chakra-xui/utils"
+import { visuallyHiddenStyle } from "@chakra-xui/visually-hidden"
 import {
   ChangeEvent,
   SyntheticEvent,
@@ -16,7 +16,7 @@ import {
   useRef,
   useState,
 } from "react"
-import { useFormControl } from "@chakra-ui/form-control"
+import { useFormControl } from "@chakra-xui/form-control"
 
 /**
  * @todo use the `useClickable` hook here

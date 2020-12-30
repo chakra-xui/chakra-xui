@@ -1,4 +1,4 @@
-import { Dict, memoizedGet as get } from "@chakra-ui/utils"
+import { Dict, memoizedGet as get } from "@chakra-xui/utils"
 import merge from "lodash.mergewith"
 import { sort } from "../utils"
 import {

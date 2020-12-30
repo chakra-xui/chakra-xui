@@ -1,10 +1,10 @@
 [
   {
-    "content": "Chakra UI v1 just landed",
+    "content": "Chakra xui v1 just landed",
     "id": "2e9081c0-41d4-4cab-87df-28ab79d27af3",
     "type": "lvl1",
     "url": "/blog/chakra-v1-just-landed",
-    "hierarchy": { "lvl1": "Chakra UI v1 just landed" }
+    "hierarchy": { "lvl1": "Chakra xui v1 just landed" }
   },
   {
     "content": "Comparison",
@@ -441,13 +441,13 @@
     "hierarchy": { "lvl1": "Icon" }
   },
   {
-    "content": "Using Chakra UI icons",
+    "content": "Using Chakra xui icons",
     "id": "d6bf0671-9aa0-42b4-96cb-ef205faf172a",
     "type": "lvl2",
-    "url": "/docs/components/icon#using-chakra-ui-icons",
+    "url": "/docs/components/icon#using-chakra-xui-icons",
     "hierarchy": {
       "lvl1": "Icon",
-      "lvl2": "Using Chakra UI icons",
+      "lvl2": "Using Chakra xui icons",
       "lvl3": null
     }
   },
@@ -458,7 +458,7 @@
     "url": "/docs/components/icon#installation",
     "hierarchy": {
       "lvl1": "Icon",
-      "lvl2": "Using Chakra UI icons",
+      "lvl2": "Using Chakra xui icons",
       "lvl3": "Installation"
     }
   },
@@ -1030,11 +1030,11 @@
     "hierarchy": { "lvl1": "VisuallyHidden", "lvl2": "Props", "lvl3": null }
   },
   {
-    "content": "Contributing to Chakra UI",
+    "content": "Contributing to Chakra xui",
     "id": "4bf72643-2def-4740-9e7e-d59e7bc0b2d5",
     "type": "lvl1",
     "url": "/docs/contributing",
-    "hierarchy": { "lvl1": "Contributing to Chakra UI" }
+    "hierarchy": { "lvl1": "Contributing to Chakra xui" }
   },
   {
     "content": "Getting started",
@@ -1042,7 +1042,7 @@
     "type": "lvl2",
     "url": "/docs/contributing#getting-started",
     "hierarchy": {
-      "lvl1": "Contributing to Chakra UI",
+      "lvl1": "Contributing to Chakra xui",
       "lvl2": "Getting started",
       "lvl3": null
     }
@@ -1053,7 +1053,7 @@
     "type": "lvl2",
     "url": "/docs/contributing#docs-contribution",
     "hierarchy": {
-      "lvl1": "Contributing to Chakra UI",
+      "lvl1": "Contributing to Chakra xui",
       "lvl2": "Docs contribution",
       "lvl3": null
     }
@@ -1064,7 +1064,7 @@
     "type": "lvl3",
     "url": "/docs/contributing#documentation-goals",
     "hierarchy": {
-      "lvl1": "Contributing to Chakra UI",
+      "lvl1": "Contributing to Chakra xui",
       "lvl2": "Docs contribution",
       "lvl3": "Documentation Goals"
     }
@@ -1075,7 +1075,7 @@
     "type": "lvl3",
     "url": "/docs/contributing#notes-on-github-token",
     "hierarchy": {
-      "lvl1": "Contributing to Chakra UI",
+      "lvl1": "Contributing to Chakra xui",
       "lvl2": "Documentation Goals",
       "lvl3": "Notes on Github Token"
     }
@@ -1086,7 +1086,7 @@
     "type": "lvl2",
     "url": "/docs/contributing#code-contribution",
     "hierarchy": {
-      "lvl1": "Contributing to Chakra UI",
+      "lvl1": "Contributing to Chakra xui",
       "lvl2": "Code contribution",
       "lvl3": null
     }
@@ -1097,7 +1097,7 @@
     "type": "lvl2",
     "url": "/docs/contributing#code-of-conduct",
     "hierarchy": {
-      "lvl1": "Contributing to Chakra UI",
+      "lvl1": "Contributing to Chakra xui",
       "lvl2": "Code of Conduct",
       "lvl3": null
     }
@@ -1108,7 +1108,7 @@
     "type": "lvl3",
     "url": "/docs/contributing#our-pledge",
     "hierarchy": {
-      "lvl1": "Contributing to Chakra UI",
+      "lvl1": "Contributing to Chakra xui",
       "lvl2": "Code of Conduct",
       "lvl3": "Our Pledge"
     }
@@ -1119,7 +1119,7 @@
     "type": "lvl3",
     "url": "/docs/contributing#our-standards",
     "hierarchy": {
-      "lvl1": "Contributing to Chakra UI",
+      "lvl1": "Contributing to Chakra xui",
       "lvl2": "Our Pledge",
       "lvl3": "Our Standards"
     }
@@ -1130,7 +1130,7 @@
     "type": "lvl3",
     "url": "/docs/contributing#our-responsibilities",
     "hierarchy": {
-      "lvl1": "Contributing to Chakra UI",
+      "lvl1": "Contributing to Chakra xui",
       "lvl2": "Our Standards",
       "lvl3": "Our Responsibilities"
     }
@@ -1141,7 +1141,7 @@
     "type": "lvl3",
     "url": "/docs/contributing#scope",
     "hierarchy": {
-      "lvl1": "Contributing to Chakra UI",
+      "lvl1": "Contributing to Chakra xui",
       "lvl2": "Our Responsibilities",
       "lvl3": "Scope"
     }
@@ -1152,7 +1152,7 @@
     "type": "lvl3",
     "url": "/docs/contributing#enforcement",
     "hierarchy": {
-      "lvl1": "Contributing to Chakra UI",
+      "lvl1": "Contributing to Chakra xui",
       "lvl2": "Scope",
       "lvl3": "Enforcement"
     }
@@ -1163,7 +1163,7 @@
     "type": "lvl3",
     "url": "/docs/contributing#attribution",
     "hierarchy": {
-      "lvl1": "Contributing to Chakra UI",
+      "lvl1": "Contributing to Chakra xui",
       "lvl2": "Enforcement",
       "lvl3": "Attribution"
     }
@@ -6812,13 +6812,13 @@
     "hierarchy": { "lvl1": "The as prop and Custom component" }
   },
   {
-    "content": "Option 1: Using `forwardRef` from `@chakra-ui/react`",
+    "content": "Option 1: Using `forwardRef` from `@chakra-xui/react`",
     "id": "840c998b-5d03-4e6f-8360-4d7cdb0eb4e8",
     "type": "lvl2",
-    "url": "/guides/as-prop#option-1-using-forwardref-from-chakra-uireact",
+    "url": "/guides/as-prop#option-1-using-forwardref-from-chakra-xuireact",
     "hierarchy": {
       "lvl1": "The as prop and Custom component",
-      "lvl2": "Option 1: Using `forwardRef` from `@chakra-ui/react`",
+      "lvl2": "Option 1: Using `forwardRef` from `@chakra-xui/react`",
       "lvl3": null
     }
   },
@@ -7075,12 +7075,12 @@
     }
   },
   {
-    "content": "Using Chakra UI's official create-react-app templates",
+    "content": "Using Chakra xui's official create-react-app templates",
     "id": "ae58f441-4e71-407e-9bcb-98287410eacb",
     "type": "lvl1",
     "url": "/guides/integrations/with-cra",
     "hierarchy": {
-      "lvl1": "Using Chakra UI's official create-react-app templates"
+      "lvl1": "Using Chakra xui's official create-react-app templates"
     }
   },
   {
@@ -7089,7 +7089,7 @@
     "type": "lvl2",
     "url": "/guides/integrations/with-cra#usage",
     "hierarchy": {
-      "lvl1": "Using Chakra UI's official create-react-app templates",
+      "lvl1": "Using Chakra xui's official create-react-app templates",
       "lvl2": "Usage",
       "lvl3": null
     }
@@ -7100,7 +7100,7 @@
     "type": "lvl2",
     "url": "/guides/integrations/with-cra#whats-included",
     "hierarchy": {
-      "lvl1": "Using Chakra UI's official create-react-app templates",
+      "lvl1": "Using Chakra xui's official create-react-app templates",
       "lvl2": "What's included",
       "lvl3": null
     }
@@ -7111,7 +7111,7 @@
     "type": "lvl3",
     "url": "/guides/integrations/with-cra#pre-install-dependencies",
     "hierarchy": {
-      "lvl1": "Using Chakra UI's official create-react-app templates",
+      "lvl1": "Using Chakra xui's official create-react-app templates",
       "lvl2": "What's included",
       "lvl3": "Pre-install dependencies"
     }
@@ -7122,31 +7122,31 @@
     "type": "lvl3",
     "url": "/guides/integrations/with-cra#chakra-specific-functionality",
     "hierarchy": {
-      "lvl1": "Using Chakra UI's official create-react-app templates",
+      "lvl1": "Using Chakra xui's official create-react-app templates",
       "lvl2": "Pre-install dependencies",
       "lvl3": "Chakra-specific functionality"
     }
   },
   {
-    "content": "Chakra UI + Framer Motion",
+    "content": "Chakra xui + Framer Motion",
     "id": "d92bc6a7-1412-4fdf-86b0-0decf04dc9a6",
     "type": "lvl1",
     "url": "/guides/integrations/with-framer",
-    "hierarchy": { "lvl1": "Chakra UI + Framer Motion" }
+    "hierarchy": { "lvl1": "Chakra xui + Framer Motion" }
   },
   {
-    "content": "Chakra UI + Gatsby",
+    "content": "Chakra xui + Gatsby",
     "id": "9fdc601f-efd7-43db-9b5a-0e3bc57dc207",
     "type": "lvl1",
     "url": "/guides/integrations/with-gatsby",
-    "hierarchy": { "lvl1": "Chakra UI + Gatsby" }
+    "hierarchy": { "lvl1": "Chakra xui + Gatsby" }
   },
   {
     "content": "Migration Notes",
     "id": "36dfda61-c93b-49fd-980f-218578099e95",
     "type": "lvl1",
     "url": "/guides/integrations/with-gatsby#migration-notes",
-    "hierarchy": { "lvl1": "Chakra UI + Gatsby", "lvl2": null, "lvl3": null }
+    "hierarchy": { "lvl1": "Chakra xui + Gatsby", "lvl2": null, "lvl3": null }
   },
   {
     "content": "Changes",
@@ -7154,7 +7154,7 @@
     "type": "lvl2",
     "url": "/guides/integrations/with-gatsby#changes",
     "hierarchy": {
-      "lvl1": "Chakra UI + Gatsby",
+      "lvl1": "Chakra xui + Gatsby",
       "lvl2": "Changes",
       "lvl3": null
     }
@@ -7165,7 +7165,7 @@
     "type": "lvl2",
     "url": "/guides/integrations/with-gatsby#gatsby-plugin",
     "hierarchy": {
-      "lvl1": "Chakra UI + Gatsby",
+      "lvl1": "Chakra xui + Gatsby",
       "lvl2": "Gatsby plugin",
       "lvl3": null
     }
@@ -7176,7 +7176,7 @@
     "type": "lvl2",
     "url": "/guides/integrations/with-gatsby#chakra-providers",
     "hierarchy": {
-      "lvl1": "Chakra UI + Gatsby",
+      "lvl1": "Chakra xui + Gatsby",
       "lvl2": "Chakra providers",
       "lvl3": null
     }
@@ -7187,17 +7187,17 @@
     "type": "lvl3",
     "url": "/guides/integrations/with-gatsby#v08-and-below",
     "hierarchy": {
-      "lvl1": "Chakra UI + Gatsby",
+      "lvl1": "Chakra xui + Gatsby",
       "lvl2": "Chakra providers",
       "lvl3": "v0.8 and below"
     }
   },
   {
-    "content": "Chakra UI + React Hook Form",
+    "content": "Chakra xui + React Hook Form",
     "id": "8e12ce63-95ff-4653-a235-14e3ed194c83",
     "type": "lvl1",
     "url": "/guides/integrations/with-hook-form",
-    "hierarchy": { "lvl1": "Chakra UI + React Hook Form" }
+    "hierarchy": { "lvl1": "Chakra xui + React Hook Form" }
   },
   {
     "content": "How to add font files to Chakra and Next.js",
@@ -7273,11 +7273,11 @@
     }
   },
   {
-    "content": "Chakra UI + Next.js",
+    "content": "Chakra xui + Next.js",
     "id": "d0a10991-1636-4369-ab99-ccf65763d096",
     "type": "lvl1",
     "url": "/guides/with-nextjs",
-    "hierarchy": { "lvl1": "Chakra UI + Next.js" }
+    "hierarchy": { "lvl1": "Chakra xui + Next.js" }
   },
   {
     "content": "Chakra-v1",
@@ -7285,7 +7285,7 @@
     "type": "lvl2",
     "url": "/guides/with-nextjs#chakra-v1",
     "hierarchy": {
-      "lvl1": "Chakra UI + Next.js",
+      "lvl1": "Chakra xui + Next.js",
       "lvl2": "Chakra-v1",
       "lvl3": null
     }
@@ -7296,7 +7296,7 @@
     "type": "lvl3",
     "url": "/guides/with-nextjs#chakra-providers",
     "hierarchy": {
-      "lvl1": "Chakra UI + Next.js",
+      "lvl1": "Chakra xui + Next.js",
       "lvl2": "Chakra-v1",
       "lvl3": "Chakra providers"
     }

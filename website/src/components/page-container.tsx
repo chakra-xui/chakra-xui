@@ -1,5 +1,5 @@
-import { Badge, Box, chakra } from "@chakra-ui/react"
-import { SkipNavContent, SkipNavLink } from "@chakra-ui/skip-nav"
+import { Badge, Box, chakra } from "@chakra-xui/react"
+import { SkipNavContent, SkipNavLink } from "@chakra-xui/skip-nav"
 import Container from "components/container"
 import EditPageLink from "components/edit-page-button"
 import Footer from "components/footer"

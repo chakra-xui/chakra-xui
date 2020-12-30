@@ -101,7 +101,7 @@ export const WithGradient = () => (
       fontSize="7xl"
       fontWeight="extrabold"
     >
-      Welcome to Chakra UI
+      Welcome to Chakra xui
     </chakra.span>
   </>
 )

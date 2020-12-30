@@ -4,8 +4,8 @@
 
 ### Minor Changes
 
-- [`1e6db1e0`](https://github.com/chakra-ui/chakra-ui/commit/1e6db1e068c6bc0a4c6c6893d1716d284dcbb8f8)
-  [#2876](https://github.com/chakra-ui/chakra-ui/pull/2876) Thanks
+- [`1e6db1e0`](https://github.com/chakra-xui/chakra-xui/commit/1e6db1e068c6bc0a4c6c6893d1716d284dcbb8f8)
+  [#2876](https://github.com/chakra-xui/chakra-xui/pull/2876) Thanks
   [@with-heart](https://github.com/with-heart)! - Deprecated the
   `defaultIsChecked` prop on `Radio` and `Checkbox` in favor of
   `defaultChecked`, which mirrors the default React prop name for this
@@ -14,8 +14,8 @@
 
 ### Patch Changes
 
-- [`f09a1cbf`](https://github.com/chakra-ui/chakra-ui/commit/f09a1cbf2eaef537b31b1f2fdf1e7c685e1926bb)
-  [#2875](https://github.com/chakra-ui/chakra-ui/pull/2875) Thanks
+- [`f09a1cbf`](https://github.com/chakra-xui/chakra-xui/commit/f09a1cbf2eaef537b31b1f2fdf1e7c685e1926bb)
+  [#2875](https://github.com/chakra-xui/chakra-xui/pull/2875) Thanks
   [@with-heart](https://github.com/with-heart)! - Resolved an issue where
   uncontrolled `Radio` components used outside of `RadioGroup` were not working
 

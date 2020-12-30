@@ -4,8 +4,8 @@
 
 ### Minor Changes
 
-- [`a0e0bd9a`](https://github.com/chakra-ui/chakra-ui/commit/a0e0bd9a5d45fe08887f8df8d3eccc84951578df)
-  [#2816](https://github.com/chakra-ui/chakra-ui/pull/2816) Thanks
+- [`a0e0bd9a`](https://github.com/chakra-xui/chakra-xui/commit/a0e0bd9a5d45fe08887f8df8d3eccc84951578df)
+  [#2816](https://github.com/chakra-xui/chakra-xui/pull/2816) Thanks
   [@segunadebayo](https://github.com/segunadebayo)! - Add gradient support to
   chakra style props. This PR adds to props:
 
@@ -69,11 +69,11 @@
     fontSize="7xl"
     fontWeight="extrabold"
   >
-    Welcome to Chakra UI
+    Welcome to Chakra xui
   </Text>
   ```
 
-* [`4fa07745`](https://github.com/chakra-ui/chakra-ui/commit/4fa077453a5c2165b695198c57366f3cc6506c37)
+* [`4fa07745`](https://github.com/chakra-xui/chakra-xui/commit/4fa077453a5c2165b695198c57366f3cc6506c37)
   Thanks [@segunadebayo](https://github.com/segunadebayo)! - ## Improve
   performance
 

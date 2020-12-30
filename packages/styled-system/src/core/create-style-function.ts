@@ -1,4 +1,4 @@
-import { Dict, getWithDefault } from "@chakra-ui/utils"
+import { Dict, getWithDefault } from "@chakra-xui/utils"
 import { StyleFunction, PropConfig } from "./types"
 
 export function createStyleFunction(config: PropConfig) {

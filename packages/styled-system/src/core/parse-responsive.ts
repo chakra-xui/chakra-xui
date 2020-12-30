@@ -1,4 +1,4 @@
-import { Dict } from "@chakra-ui/utils"
+import { Dict } from "@chakra-xui/utils"
 import merge from "lodash.mergewith"
 import { StyleFunction } from "./types"
 

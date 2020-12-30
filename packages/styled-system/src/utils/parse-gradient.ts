@@ -1,4 +1,4 @@
-import { Dict, memoizedGet as get, isObject } from "@chakra-ui/utils"
+import { Dict, memoizedGet as get, isObject } from "@chakra-xui/utils"
 import { PropConfig } from "../core"
 
 const directionMap = {
