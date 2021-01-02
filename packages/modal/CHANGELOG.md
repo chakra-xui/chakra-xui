@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.4.0
+
+### Minor Changes
+
+- [`6a82a3d4`](https://github.com/chakra-xui/chakra-xui/commit/6a82a3d4f061191171a12e6d38719ba05414a86e)
+  [#2888](https://github.com/chakra-ui/chakra-ui/pull/2888) Thanks
+  [@ytakayanagi](https://github.com/ytakayanagi)! - Added "none" option in
+  motionPreset prop to disable animation in modal component
+
 ## 1.3.0
 
 ### Minor Changes
