@@ -13,6 +13,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: styfle/cancel-workflow-action@0.6.0
+        with:
+          workflow_id: build-docker.yml
+          access_token: ${{ github.token }}
+
       - name: Get Yarn cache path
         id: yarn-cache
         run: echo "::set-output name=dir::$(yarn cache dir)"
