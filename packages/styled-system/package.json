@@ -56,6 +56,6 @@
   "dependencies": {
     "@chakra-xui/utils": "1.0.2",
     "css-get-unit": "1.0.1",
-    "csstype": "3.0.3"
+    "csstype": "3.0.5"
   }
 }
